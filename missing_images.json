@@ -1,0 +1,160 @@
+{
+  "missing": [
+    {
+      "id": 2,
+      "breed": "Aïdi"
+    },
+    {
+      "id": 19,
+      "breed": "Anglo-Français de petite vénerie"
+    },
+    {
+      "id": 28,
+      "breed": "Basset artésien normand"
+    },
+    {
+      "id": 34,
+      "breed": "Beagle"
+    },
+    {
+      "id": 46,
+      "breed": "Berger d'Asie Centrale"
+    },
+    {
+      "id": 54,
+      "breed": "Berger des Pyrénées"
+    },
+    {
+      "id": 65,
+      "breed": "Bichon à poil frisé"
+    },
+    {
+      "id": 97,
+      "breed": "Braque hongrois à poil court"
+    },
+    {
+      "id": 103,
+      "breed": "Buhund norvégien"
+    },
+    {
+      "id": 120,
+      "breed": "Chien courant d'Istrie à poil ras"
+    },
+    {
+      "id": 121,
+      "breed": "Chien courant de Bosnie à poil dur"
+    },
+    {
+      "id": 130,
+      "breed": "Chien d'arrêt allemand à poil long"
+    },
+    {
+      "id": 132,
+      "breed": "Chien d'arrêt danois ancestral"
+    },
+    {
+      "id": 134,
+      "breed": "Chien d'arrêt portugais"
+    },
+    {
+      "id": 135,
+      "breed": "Chien d'Artois"
+    },
+    {
+      "id": 136,
+      "breed": "Chien d'eau américain"
+    },
+    {
+      "id": 137,
+      "breed": "Chien d'eau espagnol"
+    },
+    {
+      "id": 139,
+      "breed": "Chien d'eau romagnol"
+    },
+    {
+      "id": 143,
+      "breed": "Chien de berger Kangal"
+    },
+    {
+      "id": 156,
+      "breed": "Chien de Rhodésie à crête dorsale"
+    },
+    {
+      "id": 160,
+      "breed": "Chien de Taïwan"
+    },
+    {
+      "id": 174,
+      "breed": "Cirneco de l'Etna"
+    },
+    {
+      "id": 203,
+      "breed": "Épagneul breton"
+    },
+    {
+      "id": 209,
+      "breed": "Épagneul picard"
+    },
+    {
+      "id": 240,
+      "breed": "Hokkaïdo"
+    },
+    {
+      "id": 243,
+      "breed": "Husky sibérien"
+    },
+    {
+      "id": 245,
+      "breed": "Jindo coréen"
+    },
+    {
+      "id": 271,
+      "breed": "Lévrier Galgo"
+    },
+    {
+      "id": 282,
+      "breed": "Lundehund"
+    },
+    {
+      "id": 285,
+      "breed": "Malamute de l’Alaska"
+    },
+    {
+      "id": 291,
+      "breed": "Mastiff"
+    },
+    {
+      "id": 320,
+      "breed": "Podenco d'Ibiza"
+    },
+    {
+      "id": 329,
+      "breed": "Rafeiro de l'Alentejo"
+    },
+    {
+      "id": 337,
+      "breed": "Retriever de la Nouvelle-Écosse"
+    },
+    {
+      "id": 341,
+      "breed": "Samoyède"
+    },
+    {
+      "id": 342,
+      "breed": "Schapendoes néerlandais"
+    },
+    {
+      "id": 347,
+      "breed": "Segugio italiano"
+    },
+    {
+      "id": 378,
+      "breed": "Terrier brésilien"
+    },
+    {
+      "id": 379,
+      "breed": "Terrier d'agrément anglais noir et feu"
+    }
+  ]
+}

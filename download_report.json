@@ -1,0 +1,3258 @@
+[
+  {
+    "id": 1,
+    "breed": "Affenpinscher",
+    "url": "https://fr.wikipedia.org/wiki/Affenpinscher",
+    "file": "images\\001_Affenpinscher.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 2,
+    "breed": "Aïdi",
+    "url": "https://fr.wikipedia.org/wiki/A%C3%AFdi",
+    "file": "images\\002_Aïdi.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 3,
+    "breed": "Airedale Terrier",
+    "url": "https://fr.wikipedia.org/wiki/Airedale_Terrier",
+    "file": "images\\003_Airedale_Terrier.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 4,
+    "breed": "Akita américain",
+    "url": "https://fr.wikipedia.org/wiki/Akita_am%C3%A9ricain",
+    "file": "images\\004_Akita_américain.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 5,
+    "breed": "Akita Inu",
+    "url": "https://fr.wikipedia.org/wiki/Akita_(chien)",
+    "file": "images\\005_Akita_Inu.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 6,
+    "breed": "Alapaha Blue Blood Bulldog",
+    "url": "https://fr.wikipedia.org/wiki/Alapaha_Blue_Blood_Bulldog",
+    "file": "images\\006_Alapaha_Blue_Blood_Bulldog.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 7,
+    "breed": "Alaskan Husky",
+    "url": "https://fr.wikipedia.org/wiki/Alaskan_Husky",
+    "file": "images\\007_Alaskan_Husky.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 8,
+    "breed": "Alaskan Klee Kai",
+    "url": "https://fr.wikipedia.org/wiki/Alaskan_Klee_Kai",
+    "file": "images\\008_Alaskan_Klee_Kai.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 9,
+    "breed": "American Alsatian",
+    "url": "https://fr.wikipedia.org/wiki/American_Alsatian",
+    "file": "images\\009_American_Alsatian.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 10,
+    "breed": "American Bully",
+    "url": "https://fr.wikipedia.org/wiki/American_Bully",
+    "file": "images\\010_American_Bully.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 11,
+    "breed": "American Eskimo",
+    "url": "https://fr.wikipedia.org/wiki/Esquimau_am%C3%A9ricain",
+    "file": "images\\011_American_Eskimo.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 12,
+    "breed": "American Fox Terrier",
+    "url": "https://en.wikipedia.org/wiki/Toy_Fox_Terrier",
+    "file": "images\\012_American_Fox_Terrier.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 13,
+    "breed": "American Hairless Terrier",
+    "url": "https://fr.wikipedia.org/wiki/American_Hairless_terrier",
+    "file": "images\\013_American_Hairless_Terrier.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 14,
+    "breed": "American Pit Bull Terrier",
+    "url": "https://fr.wikipedia.org/wiki/American_Pit_Bull_Terrier",
+    "file": "images\\014_American_Pit_Bull_Terrier.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 15,
+    "breed": "american staffordshire terrier",
+    "url": "https://fr.wikipedia.org/wiki/American_Staffordshire_Terrier",
+    "file": "images\\015_american_staffordshire_terrier.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 16,
+    "breed": "Anatolian Greyhound",
+    "url": "https://fi.wikipedia.org/wiki/Anatolianvinttikoira",
+    "file": "images\\016_Anatolian_Greyhound.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 17,
+    "breed": "ancien berger allemand",
+    "url": "https://en.wikipedia.org/wiki/Old_German_herding_dogs",
+    "file": "images\\017_ancien_berger_allemand.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 18,
+    "breed": "Andalusian Hound",
+    "url": "https://en.wikipedia.org/wiki/Podenco_Andaluz",
+    "file": "images\\018_Andalusian_Hound.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 19,
+    "breed": "Anglo-Français de petite vénerie",
+    "url": "https://fr.wikipedia.org/wiki/Anglo-fran%C3%A7ais_de_petite_v%C3%A9nerie",
+    "file": "images\\019_Anglo-Français_de_petite_vénerie.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 20,
+    "breed": "Ariégeois",
+    "url": "https://fr.wikipedia.org/wiki/Ari%C3%A9geois_(chien)",
+    "file": "images\\020_Ariégeois.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 21,
+    "breed": "Australian Kelpie",
+    "url": "https://fr.wikipedia.org/wiki/Australian_Kelpie",
+    "file": "images\\021_Australian_Kelpie.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 22,
+    "breed": "Azawakh",
+    "url": "https://fr.wikipedia.org/wiki/Azawakh",
+    "file": "images\\022_Azawakh.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 23,
+    "breed": "Bangkaew de Thaïlande",
+    "url": "https://fr.wikipedia.org/wiki/Bangkaew_de_Tha%C3%AFlande",
+    "file": "images\\023_Bangkaew_de_Thaïlande.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 24,
+    "breed": "Barbet",
+    "url": "https://fr.wikipedia.org/wiki/Barbet_(chien)",
+    "file": "images\\024_Barbet.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 25,
+    "breed": "Barbu tchèque",
+    "url": "https://fr.wikipedia.org/wiki/Barbu_tch%C3%A8que",
+    "file": "images\\025_Barbu_tchèque.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 26,
+    "breed": "Barzoï",
+    "url": "https://fr.wikipedia.org/wiki/Barzo%C3%AF",
+    "file": "images\\026_Barzoï.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 27,
+    "breed": "Basenji",
+    "url": "https://fr.wikipedia.org/wiki/Basenji",
+    "file": "images\\027_Basenji.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 28,
+    "breed": "Basset artésien normand",
+    "url": "https://fr.wikipedia.org/wiki/Basset_art%C3%A9sien_normand",
+    "file": "images\\028_Basset_artésien_normand.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 29,
+    "breed": "Basset bleu de Gascogne",
+    "url": "https://fr.wikipedia.org/wiki/Basset_bleu_de_Gascogne",
+    "file": "images\\029_Basset_bleu_de_Gascogne.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 30,
+    "breed": "Basset de Westphalie",
+    "url": "https://fr.wikipedia.org/wiki/Basset_de_Westphalie",
+    "file": "images\\030_Basset_de_Westphalie.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 31,
+    "breed": "Basset des Alpes",
+    "url": "https://fr.wikipedia.org/wiki/Basset_des_Alpes",
+    "file": "images\\031_Basset_des_Alpes.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 32,
+    "breed": "Basset fauve de Bretagne",
+    "url": "https://fr.wikipedia.org/wiki/Basset_fauve_de_Bretagne",
+    "file": "images\\032_Basset_fauve_de_Bretagne.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 33,
+    "breed": "basset hound",
+    "url": "https://fr.wikipedia.org/wiki/Basset_hound",
+    "file": "images\\033_basset_hound.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 34,
+    "breed": "beagle",
+    "url": "https://fr.wikipedia.org/wiki/Beagle",
+    "file": "images\\034_beagle.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 35,
+    "breed": "Beauceron",
+    "url": "https://fr.wikipedia.org/wiki/Berger_de_Beauce",
+    "file": "images\\035_Beauceron.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 36,
+    "breed": "Bedlington terrier",
+    "url": "https://fr.wikipedia.org/wiki/Bedlington_terrier",
+    "file": "images\\036_Bedlington_terrier.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 37,
+    "breed": "berger allemand",
+    "url": "https://fr.wikipedia.org/wiki/Berger_allemand",
+    "file": "images\\037_berger_allemand.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 38,
+    "breed": "Berger australien",
+    "url": "https://fr.wikipedia.org/wiki/Berger_australien",
+    "file": "images\\038_Berger_australien.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 39,
+    "breed": "Berger basque",
+    "url": "https://fr.wikipedia.org/wiki/Berger_basque",
+    "file": "images\\039_Berger_basque.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 40,
+    "breed": "Berger belge Groenendael",
+    "url": "https://fr.wikipedia.org/wiki/Berger_belge_Groenendael",
+    "file": "images\\040_Berger_belge_Groenendael.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 41,
+    "breed": "Berger belge Laekenois",
+    "url": "https://fr.wikipedia.org/wiki/Berger_belge_Laekenois",
+    "file": "images\\041_Berger_belge_Laekenois.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 42,
+    "breed": "Berger belge Tervueren",
+    "url": "https://fr.wikipedia.org/wiki/Berger_belge_Tervueren",
+    "file": "images\\042_Berger_belge_Tervueren.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 43,
+    "breed": "Berger blanc suisse",
+    "url": "https://fr.wikipedia.org/wiki/Berger_blanc_suisse",
+    "file": "images\\043_Berger_blanc_suisse.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 44,
+    "breed": "Berger bulgare",
+    "url": "https://fr.wikipedia.org/wiki/Berger_bulgare",
+    "file": "images\\044_Berger_bulgare.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 45,
+    "breed": "Berger croate",
+    "url": "https://fr.wikipedia.org/wiki/Berger_croate",
+    "file": "images\\045_Berger_croate.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 46,
+    "breed": "Berger d'Asie Centrale",
+    "url": "https://fr.wikipedia.org/wiki/Berger_d%27Asie_centrale",
+    "file": "images\\046_Berger_dAsie_Centrale.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 47,
+    "breed": "Berger de Bergame",
+    "url": "https://fr.wikipedia.org/wiki/Berger_de_Bergame",
+    "file": "images\\047_Berger_de_Bergame.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 48,
+    "breed": "Berger de Bohême",
+    "url": "https://fr.wikipedia.org/wiki/Berger_de_Boh%C3%AAme",
+    "file": "images\\048_Berger_de_Bohême.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 49,
+    "breed": "Berger de Brie",
+    "url": "https://fr.wikipedia.org/wiki/Berger_de_Brie",
+    "file": "images\\049_Berger_de_Brie.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 50,
+    "breed": "berger de la Serra de Aires",
+    "url": "https://fr.wikipedia.org/wiki/Berger_de_la_Serra_de_Aires",
+    "file": "images\\050_berger_de_la_Serra_de_Aires.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 51,
+    "breed": "Berger de Majorque",
+    "url": "https://fr.wikipedia.org/wiki/Chien_de_berger_de_Majorque",
+    "file": "images\\051_Berger_de_Majorque.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 52,
+    "breed": "Berger de Maremme et Abruzzes",
+    "url": "https://fr.wikipedia.org/wiki/Berger_de_Maremme_et_Abruzzes",
+    "file": "images\\052_Berger_de_Maremme_et_Abruzzes.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 53,
+    "breed": "Berger de Russie méridionale",
+    "url": "https://fr.wikipedia.org/wiki/Berger_de_Russie_m%C3%A9ridionale",
+    "file": "images\\053_Berger_de_Russie_méridionale.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 54,
+    "breed": "Berger des Pyrénées",
+    "url": "https://fr.wikipedia.org/wiki/Berger_des_Pyr%C3%A9n%C3%A9es",
+    "file": "images\\054_Berger_des_Pyrénées.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 55,
+    "breed": "Berger des Tatras",
+    "url": "https://fr.wikipedia.org/wiki/Berger_des_Tatras",
+    "file": "images\\055_Berger_des_Tatras.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 56,
+    "breed": "Berger du Caucase",
+    "url": "https://fr.wikipedia.org/wiki/Berger_du_Caucase",
+    "file": "images\\056_Berger_du_Caucase.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 57,
+    "breed": "Berger du Karst",
+    "url": "https://fr.wikipedia.org/wiki/Berger_du_Karst",
+    "file": "images\\057_Berger_du_Karst.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 58,
+    "breed": "berger finnois de Laponie",
+    "url": "https://fr.wikipedia.org/wiki/Berger_finnois_de_Laponie",
+    "file": "images\\058_berger_finnois_de_Laponie.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 59,
+    "breed": "Berger hollandais",
+    "url": "https://fr.wikipedia.org/wiki/Berger_hollandais",
+    "file": "images\\059_Berger_hollandais.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 60,
+    "breed": "berger islandais",
+    "url": "https://fr.wikipedia.org/wiki/Chien_de_berger_islandais",
+    "file": "images\\060_berger_islandais.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 61,
+    "breed": "Berger noir slovaque",
+    "url": "https://fi.wikipedia.org/wiki/%C4%8Cierny_%C5%A1ery",
+    "file": "images\\061_Berger_noir_slovaque.jpg",
+    "status": "ok",
+    "note": "pageapi-no-image ; og-image"
+  },
+  {
+    "id": 62,
+    "breed": "Berger picard",
+    "url": "https://fr.wikipedia.org/wiki/Berger_picard",
+    "file": "images\\062_Berger_picard.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 63,
+    "breed": "Berger polonais de plaine",
+    "url": "https://fr.wikipedia.org/wiki/Berger_polonais_de_plaine",
+    "file": "images\\063_Berger_polonais_de_plaine.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 64,
+    "breed": "Berger roumain Bucovina",
+    "url": "https://fr.wikipedia.org/wiki/Chien_de_berger_roumain_de_Bucovine",
+    "file": "images\\064_Berger_roumain_Bucovina.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 65,
+    "breed": "Bichon à poil frisé",
+    "url": "https://fr.wikipedia.org/wiki/Bichon_%C3%A0_poil_fris%C3%A9",
+    "file": "images\\065_Bichon_à_poil_frisé.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 66,
+    "breed": "Bichon bolonais",
+    "url": "https://fr.wikipedia.org/wiki/Bichon_bolonais",
+    "file": "images\\066_Bichon_bolonais.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 67,
+    "breed": "Bichon havanais",
+    "url": "https://fr.wikipedia.org/wiki/Bichon_havanais",
+    "file": "images\\067_Bichon_havanais.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 68,
+    "breed": "Bichon maltais",
+    "url": "https://fr.wikipedia.org/wiki/Bichon_maltais",
+    "file": "images\\068_Bichon_maltais.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 69,
+    "breed": "Billy",
+    "url": "https://fr.wikipedia.org/wiki/Billy_(chien)",
+    "file": "images\\069_Billy.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 70,
+    "breed": "Bluetick coonhound",
+    "url": "https://fr.wikipedia.org/wiki/Bluetick_coonhound",
+    "file": "images\\070_Bluetick_coonhound.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 71,
+    "breed": "Bobtail",
+    "url": "https://fr.wikipedia.org/wiki/Bobtail",
+    "file": "images\\071_Bobtail.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 72,
+    "breed": "Boerboel",
+    "url": "https://fr.wikipedia.org/wiki/Boerboel",
+    "file": "images\\072_Boerboel.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 73,
+    "breed": "Bohemian Spotted Dog",
+    "url": "https://en.wikipedia.org/wiki/Bohemian_Spotted_Dog",
+    "file": "images\\073_Bohemian_Spotted_Dog.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 74,
+    "breed": "Bolonka Franzuska",
+    "url": "https://de.wikipedia.org/wiki/Bolonka_Franzuska",
+    "file": "images\\074_Bolonka_Franzuska.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 75,
+    "breed": "Border Collie",
+    "url": "https://fr.wikipedia.org/wiki/Border_collie",
+    "file": "images\\075_Border_Collie.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 76,
+    "breed": "Border Terrier",
+    "url": "https://fr.wikipedia.org/wiki/Border_Terrier",
+    "file": "images\\076_Border_Terrier.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 77,
+    "breed": "Bouledogue américain",
+    "url": "https://fr.wikipedia.org/wiki/Bouledogue_am%C3%A9ricain",
+    "file": "images\\077_Bouledogue_américain.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 78,
+    "breed": "bouledogue français",
+    "url": "https://fr.wikipedia.org/wiki/Bouledogue",
+    "file": "images\\078_bouledogue_français.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 79,
+    "breed": "Bouvier australien",
+    "url": "https://fr.wikipedia.org/wiki/Bouvier_australien",
+    "file": "images\\079_Bouvier_australien.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 80,
+    "breed": "Bouvier australien courte queue",
+    "url": "https://fr.wikipedia.org/wiki/Bouvier_australien_courte_queue",
+    "file": "images\\080_Bouvier_australien_courte_queue.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 81,
+    "breed": "Bouvier bernois",
+    "url": "https://fr.wikipedia.org/wiki/Bouvier_bernois",
+    "file": "images\\081_Bouvier_bernois.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 82,
+    "breed": "Bouvier de l'Entlebuch",
+    "url": "https://fr.wikipedia.org/wiki/Bouvier_de_l%27Entlebuch",
+    "file": "images\\082_Bouvier_de_lEntlebuch.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 83,
+    "breed": "Bouvier de l’Appenzell",
+    "url": "https://fr.wikipedia.org/wiki/Bouvier_d%27Appenzell",
+    "file": "images\\083_Bouvier_de_lAppenzell.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 84,
+    "breed": "Bouvier des Flandres",
+    "url": "https://fr.wikipedia.org/wiki/Bouvier_des_Flandres",
+    "file": "images\\084_Bouvier_des_Flandres.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 85,
+    "breed": "Boxer",
+    "url": "https://fr.wikipedia.org/wiki/Boxer_(chien)",
+    "file": "images\\085_Boxer.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 86,
+    "breed": "Boykin Spaniel",
+    "url": "https://fr.wikipedia.org/wiki/Boykin_Spaniel",
+    "file": "images\\086_Boykin_Spaniel.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 87,
+    "breed": "Brachet allemand",
+    "url": "https://fr.wikipedia.org/wiki/Brachet_allemand",
+    "file": "images\\087_Brachet_allemand.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 88,
+    "breed": "Brachet de Styrie à poil dur",
+    "url": "https://fr.wikipedia.org/wiki/Brachet_de_Styrie_%C3%A0_poil_dur",
+    "file": "images\\088_Brachet_de_Styrie_à_poil_dur.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 89,
+    "breed": "Brachet polonais",
+    "url": "https://fr.wikipedia.org/wiki/Brachet_polonais",
+    "file": "images\\089_Brachet_polonais.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 90,
+    "breed": "Brachet tyrolien",
+    "url": "https://fr.wikipedia.org/wiki/Brachet_tyrolien",
+    "file": "images\\090_Brachet_tyrolien.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 91,
+    "breed": "Braque allemand",
+    "url": "https://fr.wikipedia.org/wiki/Braque_allemand_%C3%A0_poil_court",
+    "file": "images\\091_Braque_allemand.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 92,
+    "breed": "Braque d'Auvergne",
+    "url": "https://fr.wikipedia.org/wiki/Braque_d%27Auvergne",
+    "file": "images\\092_Braque_dAuvergne.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 93,
+    "breed": "Braque de l'Ariège",
+    "url": "https://fr.wikipedia.org/wiki/Braque_de_l%27Ari%C3%A8ge",
+    "file": "images\\093_Braque_de_lAriège.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 94,
+    "breed": "Braque de Weimar",
+    "url": "https://fr.wikipedia.org/wiki/Braque_de_Weimar",
+    "file": "images\\094_Braque_de_Weimar.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 95,
+    "breed": "Braque du Bourbonnais",
+    "url": "https://fr.wikipedia.org/wiki/Braque_du_Bourbonnais",
+    "file": "images\\095_Braque_du_Bourbonnais.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 96,
+    "breed": "Braque français, type Pyrénées",
+    "url": "https://fr.wikipedia.org/wiki/Braque_fran%C3%A7ais,_type_Pyr%C3%A9n%C3%A9es",
+    "file": "images\\096_Braque_français_type_Pyrénées.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 97,
+    "breed": "Braque hongrois à poil court",
+    "url": "https://fr.wikipedia.org/wiki/Braque_hongrois_%C3%A0_poil_court",
+    "file": "images\\097_Braque_hongrois_à_poil_court.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 98,
+    "breed": "Braque italien",
+    "url": "https://fr.wikipedia.org/wiki/Braque_italien",
+    "file": "images\\098_Braque_italien.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 99,
+    "breed": "Braque Saint-Germain",
+    "url": "https://fr.wikipedia.org/wiki/Braque_Saint-Germain",
+    "file": "images\\099_Braque_Saint-Germain.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 100,
+    "breed": "Braque slovaque à poil dur",
+    "url": "https://fr.wikipedia.org/wiki/Braque_slovaque_%C3%A0_poil_dur",
+    "file": "images\\100_Braque_slovaque_à_poil_dur.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 101,
+    "breed": "Briquet griffon vendéen",
+    "url": "https://fr.wikipedia.org/wiki/Briquet_griffon_vend%C3%A9en",
+    "file": "images\\101_Briquet_griffon_vendéen.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 102,
+    "breed": "Broholmer",
+    "url": "https://fr.wikipedia.org/wiki/Broholmer",
+    "file": "images\\102_Broholmer.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 103,
+    "breed": "Buhund norvégien",
+    "url": "https://fr.wikipedia.org/wiki/Buhund_norv%C3%A9gien",
+    "file": "images\\103_Buhund_norvégien.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 104,
+    "breed": "Bull Terrier",
+    "url": "https://fr.wikipedia.org/wiki/Bull_Terrier",
+    "file": "images\\104_Bull_Terrier.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 105,
+    "breed": "Bull Terrier miniature",
+    "url": "https://fr.wikipedia.org/wiki/Bull_Terrier_miniature",
+    "file": "images\\105_Bull_Terrier_miniature.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 106,
+    "breed": "Bulldog anglais",
+    "url": "https://fr.wikipedia.org/wiki/Bulldog_anglais",
+    "file": "images\\106_Bulldog_anglais.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 107,
+    "breed": "bullmastiff",
+    "url": "https://fr.wikipedia.org/wiki/Bullmastiff",
+    "file": "images\\107_bullmastiff.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 108,
+    "breed": "Cairn terrier",
+    "url": "https://fr.wikipedia.org/wiki/Cairn_terrier",
+    "file": "images\\108_Cairn_terrier.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 109,
+    "breed": "Can de palleiro",
+    "url": "https://fr.wikipedia.org/wiki/Can_de_palleiro",
+    "file": "images\\109_Can_de_palleiro.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 110,
+    "breed": "caniche",
+    "url": "https://fr.wikipedia.org/wiki/Caniche",
+    "file": "images\\110_caniche.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 111,
+    "breed": "Cão de gado transmontano",
+    "url": "https://en.wikipedia.org/wiki/C%C3%A3o_de_Gado_Transmontano",
+    "file": "images\\111_Cão_de_gado_transmontano.jpg",
+    "status": "ok",
+    "note": "pageapi-no-image ; fileapi-original"
+  },
+  {
+    "id": 112,
+    "breed": "Caravan hound",
+    "url": "https://fr.wikipedia.org/wiki/Caravan_hound",
+    "file": "images\\112_Caravan_hound.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 113,
+    "breed": "carlin",
+    "url": "https://fr.wikipedia.org/wiki/Carlin",
+    "file": "images\\113_carlin.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 114,
+    "breed": "Carolina Dog",
+    "url": "https://fr.wikipedia.org/wiki/Carolina_Dog",
+    "file": "images\\114_Carolina_Dog.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 115,
+    "breed": "Catahoula Bulldog",
+    "url": "https://en.wikipedia.org/wiki/Catahoula_bulldog",
+    "file": "images\\115_Catahoula_Bulldog.jpg",
+    "status": "ok",
+    "note": "pageapi-no-image ; fileapi-original"
+  },
+  {
+    "id": 116,
+    "breed": "Cavalier King Charles Spaniel",
+    "url": "https://fr.wikipedia.org/wiki/Cavalier_King_Charles_Spaniel",
+    "file": "images\\116_Cavalier_King_Charles_Spaniel.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 117,
+    "breed": "Chart polski",
+    "url": "https://fr.wikipedia.org/wiki/Chart_polski",
+    "file": "images\\117_Chart_polski.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 118,
+    "breed": "Chien à loutre",
+    "url": "https://fr.wikipedia.org/wiki/Chien_%C3%A0_loutre",
+    "file": "images\\118_Chien_à_loutre.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 119,
+    "breed": "Chien chinois à crête",
+    "url": "https://fr.wikipedia.org/wiki/Chien_chinois_%C3%A0_cr%C3%AAte",
+    "file": "images\\119_Chien_chinois_à_crête.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 120,
+    "breed": "Chien courant d'Istrie à poil ras",
+    "url": "https://fr.wikipedia.org/wiki/Chien_courant_d%27Istrie_%C3%A0_poil_ras",
+    "file": "images\\120_Chien_courant_dIstrie_à_poil_ras.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 121,
+    "breed": "Chien courant de Bosnie à poil dur",
+    "url": "https://fr.wikipedia.org/wiki/Chien_courant_de_Bosnie_%C3%A0_poil_dur",
+    "file": "images\\121_Chien_courant_de_Bosnie_à_poil_dur.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 122,
+    "breed": "Chien courant de Halden",
+    "url": "https://fr.wikipedia.org/wiki/Chien_courant_de_Halden",
+    "file": "images\\122_Chien_courant_de_Halden.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 123,
+    "breed": "Chien courant du Småland",
+    "url": "https://fr.wikipedia.org/wiki/Chien_courant_du_Sm%C3%A5land",
+    "file": "images\\123_Chien_courant_du_Småland.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 124,
+    "breed": "chien courant finlandais",
+    "url": "https://fr.wikipedia.org/wiki/Chien_courant_finlandais",
+    "file": "images\\124_chien_courant_finlandais.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 125,
+    "breed": "Chien courant grec",
+    "url": "https://fr.wikipedia.org/wiki/Chien_courant_grec",
+    "file": "images\\125_Chien_courant_grec.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 126,
+    "breed": "Chien courant polonais",
+    "url": "https://fr.wikipedia.org/wiki/Chien_courant_polonais",
+    "file": "images\\126_Chien_courant_polonais.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 127,
+    "breed": "Chien courant serbe",
+    "url": "https://fr.wikipedia.org/wiki/Chien_courant_serbe",
+    "file": "images\\127_Chien_courant_serbe.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 128,
+    "breed": "Chien courant suisse",
+    "url": "https://fr.wikipedia.org/wiki/Chien_courant_suisse",
+    "file": "images\\128_Chien_courant_suisse.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 129,
+    "breed": "Chien courant tricolore serbe",
+    "url": "https://fr.wikipedia.org/wiki/Chien_courant_tricolore_serbe",
+    "file": "images\\129_Chien_courant_tricolore_serbe.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 130,
+    "breed": "Chien d'arrêt allemand à poil long",
+    "url": "https://fr.wikipedia.org/wiki/Chien_d%27arr%C3%AAt_allemand_%C3%A0_poil_long",
+    "file": "images\\130_Chien_darrêt_allemand_à_poil_long.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 131,
+    "breed": "Chien d'arrêt allemand à poil raide",
+    "url": "https://fr.wikipedia.org/wiki/Chien_d%27arr%C3%AAt_allemand_%C3%A0_poil_raide",
+    "file": "images\\131_Chien_darrêt_allemand_à_poil_raide.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 132,
+    "breed": "Chien d'arrêt danois ancestral",
+    "url": "https://fr.wikipedia.org/wiki/Chien_d%27arr%C3%AAt_danois_ancestral",
+    "file": "images\\132_Chien_darrêt_danois_ancestral.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 133,
+    "breed": "Chien d'arrêt frison",
+    "url": "https://fr.wikipedia.org/wiki/Chien_d%27arr%C3%AAt_frison",
+    "file": "images\\133_Chien_darrêt_frison.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 134,
+    "breed": "chien d'arrêt portugais",
+    "url": "https://fr.wikipedia.org/wiki/Chien_d%27arr%C3%AAt_portugais",
+    "file": "images\\134_chien_darrêt_portugais.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 135,
+    "breed": "Chien d'Artois",
+    "url": "https://fr.wikipedia.org/wiki/Chien_d%27Artois",
+    "file": "images\\135_Chien_dArtois.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 136,
+    "breed": "Chien d'eau américain",
+    "url": "https://fr.wikipedia.org/wiki/Chien_d%27eau_am%C3%A9ricain",
+    "file": "images\\136_Chien_deau_américain.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 137,
+    "breed": "Chien d'eau espagnol",
+    "url": "https://fr.wikipedia.org/wiki/Chien_d%27eau_espagnol",
+    "file": "images\\137_Chien_deau_espagnol.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 138,
+    "breed": "chien d'eau portugais",
+    "url": "https://fr.wikipedia.org/wiki/Chien_d%27eau_portugais",
+    "file": "images\\138_chien_deau_portugais.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 139,
+    "breed": "chien d'eau romagnol",
+    "url": "https://fr.wikipedia.org/wiki/Chien_d%27eau_romagnol",
+    "file": "images\\139_chien_deau_romagnol.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 140,
+    "breed": "Chien d'élan norvégien gris",
+    "url": "https://fr.wikipedia.org/wiki/Chien_d%27%C3%A9lan_norv%C3%A9gien_gris",
+    "file": "images\\140_Chien_délan_norvégien_gris.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 141,
+    "breed": "chien d'élan suédois",
+    "url": "https://fr.wikipedia.org/wiki/Chien_d%27%C3%A9lan_su%C3%A9dois",
+    "file": "images\\141_chien_délan_suédois.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 142,
+    "breed": "chien d'ours de Carélie",
+    "url": "https://fr.wikipedia.org/wiki/Chien_d%27ours_de_Car%C3%A9lie",
+    "file": "images\\142_chien_dours_de_Carélie.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 143,
+    "breed": "Chien de berger Kangal",
+    "url": "https://fr.wikipedia.org/wiki/Kangal_(chien)",
+    "file": "images\\143_Chien_de_berger_Kangal.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 144,
+    "breed": "Chien de berger roumain de Mioritza",
+    "url": "https://fr.wikipedia.org/wiki/Chien_de_berger_roumain_de_Mioritza",
+    "file": "images\\144_Chien_de_berger_roumain_de_Mioritza.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 145,
+    "breed": "Chien de berger roumain des Carpathes",
+    "url": "https://fr.wikipedia.org/wiki/Chien_de_berger_roumain_des_Carpathes",
+    "file": "images\\145_Chien_de_berger_roumain_des_Carpathes.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 146,
+    "breed": "chien de berger yougoslave de Charplanina",
+    "url": "https://fr.wikipedia.org/wiki/Chien_de_berger_yougoslave_de_Charplanina",
+    "file": "images\\146_chien_de_berger_yougoslave_de_Charplanina.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 147,
+    "breed": "Chien de Canaan",
+    "url": "https://fr.wikipedia.org/wiki/Chien_de_Canaan",
+    "file": "images\\147_Chien_de_Canaan.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 148,
+    "breed": "chien de Castro Laboreiro",
+    "url": "https://fr.wikipedia.org/wiki/Chien_de_Castro_Laboreiro",
+    "file": "images\\148_chien_de_Castro_Laboreiro.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 149,
+    "breed": "chien de cour italien",
+    "url": "https://fr.wikipedia.org/wiki/Cane_Corso",
+    "file": "images\\149_chien_de_cour_italien.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 150,
+    "breed": "chien de ferme dano-suédois",
+    "url": "https://fr.wikipedia.org/wiki/Chien_de_ferme_dano-su%C3%A9dois",
+    "file": "images\\150_chien_de_ferme_dano-suédois.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 151,
+    "breed": "chien de garenne portugais",
+    "url": "https://fr.wikipedia.org/wiki/Chien_de_garenne_portugais",
+    "file": "images\\151_chien_de_garenne_portugais.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 152,
+    "breed": "Chien de la Serra da Estrela",
+    "url": "https://fr.wikipedia.org/wiki/Chien_de_la_Serra_da_Estrela",
+    "file": "images\\152_Chien_de_la_Serra_da_Estrela.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 153,
+    "breed": "Chien de Majorado",
+    "url": "https://en.wikipedia.org/wiki/Perro_Majorero",
+    "file": "images\\153_Chien_de_Majorado.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 154,
+    "breed": "chien de montagne des Pyrénées",
+    "url": "https://fr.wikipedia.org/wiki/Chien_de_montagne_des_Pyr%C3%A9n%C3%A9es",
+    "file": "images\\154_chien_de_montagne_des_Pyrénées.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 155,
+    "breed": "Chien de perdrix de Drente",
+    "url": "https://fr.wikipedia.org/wiki/Chien_de_perdrix_de_Drente",
+    "file": "images\\155_Chien_de_perdrix_de_Drente.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 156,
+    "breed": "Chien de Rhodésie à crête dorsale",
+    "url": "https://fr.wikipedia.org/wiki/Chien_de_Rhod%C3%A9sie_%C3%A0_cr%C3%AAte_dorsale",
+    "file": "images\\156_Chien_de_Rhodésie_à_crête_dorsale.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 157,
+    "breed": "Chien de rouge de Bavière",
+    "url": "https://fr.wikipedia.org/wiki/Chien_de_recherche_au_sang_de_la_montagne_bavaroise",
+    "file": "images\\157_Chien_de_rouge_de_Bavière.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 158,
+    "breed": "Chien de rouge du Hanovre",
+    "url": "https://fr.wikipedia.org/wiki/Chien_de_recherche_au_sang_de_Hanovre",
+    "file": "images\\158_Chien_de_rouge_du_Hanovre.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 159,
+    "breed": "chien de Saint-Hubert",
+    "url": "https://fr.wikipedia.org/wiki/Chien_de_Saint-Hubert",
+    "file": "images\\159_chien_de_Saint-Hubert.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 160,
+    "breed": "Chien de Taïwan",
+    "url": "https://fr.wikipedia.org/wiki/Chien_de_Ta%C3%AFwan",
+    "file": "images\\160_Chien_de_Taïwan.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 161,
+    "breed": "Chien du Pharaon",
+    "url": "https://fr.wikipedia.org/wiki/Chien_du_pharaon",
+    "file": "images\\161_Chien_du_Pharaon.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 162,
+    "breed": "chien finnois de Laponie",
+    "url": "https://fr.wikipedia.org/wiki/Chien_finnois_de_Laponie",
+    "file": "images\\162_chien_finnois_de_Laponie.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 163,
+    "breed": "Chien léopard catahoula",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%91%E3%83%BC%E3%83%89%E3%83%BB%E3%83%84%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%89%E3%83%83%E3%82%B0",
+    "file": "images\\163_Chien_léopard_catahoula.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; og-image)"
+  },
+  {
+    "id": 164,
+    "breed": "chien noir et bronzé autrichien",
+    "url": "https://fr.wikipedia.org/wiki/Brachet_noir_et_feu",
+    "file": "images\\164_chien_noir_et_bronzé_autrichien.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 165,
+    "breed": "chien nu du Pérou",
+    "url": "https://fr.wikipedia.org/wiki/Chien_nu_du_P%C3%A9rou",
+    "file": "images\\165_chien_nu_du_Pérou.jpg",
+    "status": "ok",
+    "note": "pageapi-no-image ; fileapi-original"
+  },
+  {
+    "id": 166,
+    "breed": "chien nu mexicain",
+    "url": "https://fr.wikipedia.org/wiki/Xoloitzcuintle",
+    "file": "images\\166_chien_nu_mexicain.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 167,
+    "breed": "Chien thaïlandais à crête dorsale",
+    "url": "https://fr.wikipedia.org/wiki/Chien_tha%C3%AFlandais_%C3%A0_cr%C3%AAte_dorsale",
+    "file": "images\\167_Chien_thaïlandais_à_crête_dorsale.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 168,
+    "breed": "Chien-loup de Saarloos",
+    "url": "https://fr.wikipedia.org/wiki/Chien-loup_de_Saarloos",
+    "file": "images\\168_Chien-loup_de_Saarloos.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 169,
+    "breed": "Chien-loup tchécoslovaque",
+    "url": "https://fr.wikipedia.org/wiki/Chien-loup_tch%C3%A9coslovaque",
+    "file": "images\\169_Chien-loup_tchécoslovaque.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 170,
+    "breed": "chihuahua",
+    "url": "https://fr.wikipedia.org/wiki/Chihuahua_(chien)",
+    "file": "images\\170_chihuahua.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 171,
+    "breed": "Chinook",
+    "url": "https://fr.wikipedia.org/wiki/Chinook_(chien)",
+    "file": "images\\171_Chinook.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 172,
+    "breed": "Chow-chow",
+    "url": "https://fr.wikipedia.org/wiki/Chow-chow",
+    "file": "images\\172_Chow-chow.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 173,
+    "breed": "Cimarrón Uruguayo",
+    "url": "https://fr.wikipedia.org/wiki/Cimarron_uruguayen",
+    "file": "images\\173_Cimarrón_Uruguayo.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 174,
+    "breed": "Cirneco de l'Etna",
+    "url": "https://fr.wikipedia.org/wiki/Cirneco_de_l%27Etna",
+    "file": "images\\174_Cirneco_de_lEtna.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 175,
+    "breed": "Clumber Spaniel",
+    "url": "https://fr.wikipedia.org/wiki/Clumber_Spaniel",
+    "file": "images\\175_Clumber_Spaniel.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 176,
+    "breed": "Cockapoo",
+    "url": "https://fr.wikipedia.org/wiki/Cockapoo",
+    "file": "images\\176_Cockapoo.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 177,
+    "breed": "Cocker américain",
+    "url": "https://fr.wikipedia.org/wiki/Cocker_am%C3%A9ricain",
+    "file": "images\\177_Cocker_américain.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 178,
+    "breed": "Cocker spaniel anglais",
+    "url": "https://fr.wikipedia.org/wiki/Cocker_spaniel_anglais",
+    "file": "images\\178_Cocker_spaniel_anglais.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 179,
+    "breed": "Colley",
+    "url": "https://fr.wikipedia.org/wiki/Colley",
+    "file": "images\\179_Colley.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 180,
+    "breed": "Colley à poil court",
+    "url": "https://fr.wikipedia.org/wiki/Colley_%C3%A0_poil_court",
+    "file": "images\\180_Colley_à_poil_court.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 181,
+    "breed": "Colley barbu",
+    "url": "https://fr.wikipedia.org/wiki/Bearded_collie",
+    "file": "images\\181_Colley_barbu.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 182,
+    "breed": "Coonhound noir et beige",
+    "url": "https://fr.wikipedia.org/wiki/Chien_noir_et_feu_pour_la_chasse_au_raton_laveur",
+    "file": "images\\182_Coonhound_noir_et_beige.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 183,
+    "breed": "Coton de Tuléar",
+    "url": "https://fr.wikipedia.org/wiki/Coton_de_Tul%C3%A9ar",
+    "file": "images\\183_Coton_de_Tuléar.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 184,
+    "breed": "Cretan Hound",
+    "url": "https://en.wikipedia.org/wiki/Cretan_Hound",
+    "file": "images\\184_Cretan_Hound.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 185,
+    "breed": "Cursinu",
+    "url": "https://fr.wikipedia.org/wiki/Cursinu",
+    "file": "images\\185_Cursinu.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 186,
+    "breed": "Dalmatien",
+    "url": "https://fr.wikipedia.org/wiki/Dalmatien",
+    "file": "images\\186_Dalmatien.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 187,
+    "breed": "Dandie Dinmont Terrier",
+    "url": "https://fr.wikipedia.org/wiki/Dandie_Dinmont_Terrier",
+    "file": "images\\187_Dandie_Dinmont_Terrier.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 188,
+    "breed": "Decker Terrier",
+    "url": "https://fi.wikipedia.org/wiki/Deckerinterrieri",
+    "file": "images\\188_Decker_Terrier.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 189,
+    "breed": "Deerhound",
+    "url": "https://fr.wikipedia.org/wiki/Deerhound",
+    "file": "images\\189_Deerhound.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 190,
+    "breed": "Dobermann",
+    "url": "https://fr.wikipedia.org/wiki/Dobermann",
+    "file": "images\\190_Dobermann.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 191,
+    "breed": "Dogue allemand",
+    "url": "https://fr.wikipedia.org/wiki/Dogue_allemand",
+    "file": "images\\191_Dogue_allemand.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 192,
+    "breed": "Dogue argentin",
+    "url": "https://fr.wikipedia.org/wiki/Dogue_argentin",
+    "file": "images\\192_Dogue_argentin.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 193,
+    "breed": "Dogue de Bordeaux",
+    "url": "https://fr.wikipedia.org/wiki/Dogue_de_Bordeaux",
+    "file": "images\\193_Dogue_de_Bordeaux.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 194,
+    "breed": "Dogue de Majorque",
+    "url": "https://fr.wikipedia.org/wiki/Ca_de_Bou",
+    "file": "images\\194_Dogue_de_Majorque.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 195,
+    "breed": "Dogue des Canaries",
+    "url": "https://fr.wikipedia.org/wiki/Dogue_des_Canaries",
+    "file": "images\\195_Dogue_des_Canaries.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 196,
+    "breed": "Dogue du Tibet",
+    "url": "https://fr.wikipedia.org/wiki/Dogue_du_Tibet",
+    "file": "images\\196_Dogue_du_Tibet.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 197,
+    "breed": "Drahthaar",
+    "url": "https://fr.wikipedia.org/wiki/Chien_d%27arr%C3%AAt_allemand_%C3%A0_poil_dur",
+    "file": "images\\197_Drahthaar.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 198,
+    "breed": "Drever",
+    "url": "https://fr.wikipedia.org/wiki/Basset_su%C3%A9dois",
+    "file": "images\\198_Drever.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 199,
+    "breed": "Dunker",
+    "url": "https://fr.wikipedia.org/wiki/Chien_courant_norv%C3%A9gien",
+    "file": "images\\199_Dunker.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 200,
+    "breed": "Elo",
+    "url": "https://cs.wikipedia.org/wiki/Elo_(plemeno_psa)",
+    "file": "images\\200_Elo.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 201,
+    "breed": "English Coonhound",
+    "url": "https://fr.wikipedia.org/wiki/English_Coonhound",
+    "file": "images\\201_English_Coonhound.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 202,
+    "breed": "Épagneul bleu de Picardie",
+    "url": "https://fr.wikipedia.org/wiki/%C3%89pagneul_bleu_de_Picardie",
+    "file": "images\\202_Épagneul_bleu_de_Picardie.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 203,
+    "breed": "épagneul breton",
+    "url": "https://fr.wikipedia.org/wiki/%C3%89pagneul_breton",
+    "file": "images\\203_épagneul_breton.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 204,
+    "breed": "Épagneul d'eau irlandais",
+    "url": "https://fr.wikipedia.org/wiki/%C3%89pagneul_d%27eau_irlandais",
+    "file": "images\\204_Épagneul_deau_irlandais.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 205,
+    "breed": "Épagneul de Pont-Audemer",
+    "url": "https://fr.wikipedia.org/wiki/%C3%89pagneul_de_Pont-Audemer",
+    "file": "images\\205_Épagneul_de_Pont-Audemer.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 206,
+    "breed": "Épagneul de Saint-Usuge",
+    "url": "https://fr.wikipedia.org/wiki/%C3%89pagneul_de_Saint-Usuge",
+    "file": "images\\206_Épagneul_de_Saint-Usuge.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 207,
+    "breed": "épagneul français",
+    "url": "https://fr.wikipedia.org/wiki/%C3%89pagneul_fran%C3%A7ais",
+    "file": "images\\207_épagneul_français.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 208,
+    "breed": "Épagneul japonais",
+    "url": "https://fr.wikipedia.org/wiki/%C3%89pagneul_japonais",
+    "file": "images\\208_Épagneul_japonais.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 209,
+    "breed": "Épagneul picard",
+    "url": "https://fr.wikipedia.org/wiki/%C3%89pagneul_picard",
+    "file": "images\\209_Épagneul_picard.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 210,
+    "breed": "épagneul russe",
+    "url": "https://fr.wikipedia.org/wiki/%C3%89pagneul_russe",
+    "file": "images\\210_épagneul_russe.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 211,
+    "breed": "épagneul tibétain",
+    "url": "https://fr.wikipedia.org/wiki/%C3%89pagneul_tib%C3%A9tain",
+    "file": "images\\211_épagneul_tibétain.jpg",
+    "status": "ok",
+    "note": "pageapi-no-image ; fileapi-original"
+  },
+  {
+    "id": 212,
+    "breed": "Erdélyi kopó",
+    "url": "https://fr.wikipedia.org/wiki/Chien_courant_de_Transylvanie",
+    "file": "images\\212_Erdélyi_kopó.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 213,
+    "breed": "Esquimau canadien",
+    "url": "https://fr.wikipedia.org/wiki/Esquimau_canadien",
+    "file": "images\\213_Esquimau_canadien.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 214,
+    "breed": "Estonian Hound",
+    "url": "https://en.wikipedia.org/wiki/Estonian_Hound",
+    "file": "images\\214_Estonian_Hound.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 215,
+    "breed": "Eurasier",
+    "url": "https://fr.wikipedia.org/wiki/Eurasier",
+    "file": "images\\215_Eurasier.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 216,
+    "breed": "Fila Brasileiro",
+    "url": "https://fr.wikipedia.org/wiki/Fila_Brasileiro",
+    "file": "images\\216_Fila_Brasileiro.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 217,
+    "breed": "fila de São Miguel",
+    "url": "https://fr.wikipedia.org/wiki/Fila_de_S%C3%A3o_Miguel",
+    "file": "images\\217_fila_de_São_Miguel.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 218,
+    "breed": "Flat-Coated Retriever",
+    "url": "https://fr.wikipedia.org/wiki/Retriever_%C3%A0_poil_plat",
+    "file": "images\\218_Flat-Coated_Retriever.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 219,
+    "breed": "Fox-terrier",
+    "url": "https://fr.wikipedia.org/wiki/Fox-terrier",
+    "file": "images\\219_Fox-terrier.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 220,
+    "breed": "foxhound américain",
+    "url": "https://fr.wikipedia.org/wiki/Foxhound_am%C3%A9ricain",
+    "file": "images\\220_foxhound_américain.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 221,
+    "breed": "Foxhound anglais",
+    "url": "https://fr.wikipedia.org/wiki/Foxhound_anglais",
+    "file": "images\\221_Foxhound_anglais.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 222,
+    "breed": "Georgian Shepherd",
+    "url": "https://en.wikipedia.org/wiki/Georgian_Shepherd",
+    "file": "images\\222_Georgian_Shepherd.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 223,
+    "breed": "Golden retriever",
+    "url": "https://fr.wikipedia.org/wiki/Golden_retriever",
+    "file": "images\\223_Golden_retriever.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 224,
+    "breed": "Gos d'Atura Català",
+    "url": "https://fr.wikipedia.org/wiki/Berger_catalan",
+    "file": "images\\224_Gos_dAtura_Català.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 225,
+    "breed": "Gotland Hound",
+    "url": "https://fi.wikipedia.org/wiki/Gotlanninajokoira",
+    "file": "images\\225_Gotland_Hound.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 226,
+    "breed": "Grand anglo-français blanc et noir",
+    "url": "https://fr.wikipedia.org/wiki/Grand_anglo-fran%C3%A7ais_blanc_et_noir",
+    "file": "images\\226_Grand_anglo-français_blanc_et_noir.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 227,
+    "breed": "Grand anglo-français blanc et orange",
+    "url": "https://fr.wikipedia.org/wiki/Grand_anglo-fran%C3%A7ais_blanc_et_orange",
+    "file": "images\\227_Grand_anglo-français_blanc_et_orange.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 228,
+    "breed": "Grand anglo-français tricolore",
+    "url": "https://fr.wikipedia.org/wiki/Grand_anglo-fran%C3%A7ais_tricolore",
+    "file": "images\\228_Grand_anglo-français_tricolore.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 229,
+    "breed": "Grand basset griffon vendéen",
+    "url": "https://fr.wikipedia.org/wiki/Grand_basset_griffon_vend%C3%A9en",
+    "file": "images\\229_Grand_basset_griffon_vendéen.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 230,
+    "breed": "Grand Bleu de Gascogne",
+    "url": "https://fr.wikipedia.org/wiki/Grand_bleu_de_Gascogne",
+    "file": "images\\230_Grand_Bleu_de_Gascogne.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 231,
+    "breed": "Grand bouvier suisse",
+    "url": "https://fr.wikipedia.org/wiki/Grand_bouvier_suisse",
+    "file": "images\\231_Grand_bouvier_suisse.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 232,
+    "breed": "Grand griffon vendéen",
+    "url": "https://fr.wikipedia.org/wiki/Grand_griffon_vend%C3%A9en",
+    "file": "images\\232_Grand_griffon_vendéen.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 233,
+    "breed": "Griffon belge",
+    "url": "https://www.wikidata.org/wiki/Q21153321",
+    "file": "images\\233_Griffon_belge.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 234,
+    "breed": "Griffon bleu de Gascogne",
+    "url": "https://fr.wikipedia.org/wiki/Griffon_bleu_de_Gascogne",
+    "file": "images\\234_Griffon_bleu_de_Gascogne.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 235,
+    "breed": "Griffon Fauve de Bretagne",
+    "url": "https://fr.wikipedia.org/wiki/Griffon_fauve_de_Bretagne",
+    "file": "images\\235_Griffon_Fauve_de_Bretagne.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 236,
+    "breed": "Griffon nivernais",
+    "url": "https://fr.wikipedia.org/wiki/Griffon_nivernais",
+    "file": "images\\236_Griffon_nivernais.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 237,
+    "breed": "Groenlandais",
+    "url": "https://fr.wikipedia.org/wiki/Chien_du_Groenland",
+    "file": "images\\237_Groenlandais.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 238,
+    "breed": "Hamiltonstövare",
+    "url": "https://fr.wikipedia.org/wiki/Chien_courant_de_Hamilton",
+    "file": "images\\238_Hamiltonstövare.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 239,
+    "breed": "Harrier",
+    "url": "https://fr.wikipedia.org/wiki/Harrier_(chien)",
+    "file": "images\\239_Harrier.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 240,
+    "breed": "Hokkaïdo",
+    "url": "https://fr.wikipedia.org/wiki/Hokka%C3%AFdo_(chien)",
+    "file": "images\\240_Hokkaïdo.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 241,
+    "breed": "Hovawart",
+    "url": "https://fr.wikipedia.org/wiki/Hovawart",
+    "file": "images\\241_Hovawart.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 242,
+    "breed": "Huntaway",
+    "url": "https://en.wikipedia.org/wiki/Huntaway",
+    "file": "images\\242_Huntaway.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 243,
+    "breed": "Husky sibérien",
+    "url": "https://fr.wikipedia.org/wiki/Husky_de_Sib%C3%A9rie",
+    "file": "images\\243_Husky_sibérien.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 244,
+    "breed": "Jack Russell",
+    "url": "https://fr.wikipedia.org/wiki/Jack_Russell_terrier",
+    "file": "images\\244_Jack_Russell.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 245,
+    "breed": "Jindo coréen",
+    "url": "https://fr.wikipedia.org/wiki/Jindo_cor%C3%A9en",
+    "file": "images\\245_Jindo_coréen.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 246,
+    "breed": "Kai",
+    "url": "https://fr.wikipedia.org/wiki/Kai_(chien)",
+    "file": "images\\246_Kai.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 247,
+    "breed": "Karelo-Finnish Laika",
+    "url": "https://en.wikipedia.org/wiki/Karelo-Finnish_Laika",
+    "file": "images\\247_Karelo-Finnish_Laika.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 248,
+    "breed": "Khortaï",
+    "url": "https://fr.wikipedia.org/wiki/Khorta%C3%AF",
+    "file": "images\\248_Khortaï.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 249,
+    "breed": "King Charles Spaniel",
+    "url": "https://fr.wikipedia.org/wiki/King_Charles_Spaniel",
+    "file": "images\\249_King_Charles_Spaniel.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 250,
+    "breed": "Kintamani",
+    "url": "https://fr.wikipedia.org/wiki/Kintamani_(chien)",
+    "file": "images\\250_Kintamani.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 251,
+    "breed": "Kishu",
+    "url": "https://fr.wikipedia.org/wiki/Kishu_(chien)",
+    "file": "images\\251_Kishu.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 252,
+    "breed": "Komondor",
+    "url": "https://fr.wikipedia.org/wiki/Komondor",
+    "file": "images\\252_Komondor.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 253,
+    "breed": "Kooikerhondje",
+    "url": "https://fr.wikipedia.org/wiki/Kooikerhondje",
+    "file": "images\\253_Kooikerhondje.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 254,
+    "breed": "Korthals",
+    "url": "https://fr.wikipedia.org/wiki/Griffon_d%27arr%C3%AAt_%C3%A0_poil_dur_Korthals",
+    "file": "images\\254_Korthals.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 255,
+    "breed": "Kromfohrländer",
+    "url": "https://fr.wikipedia.org/wiki/Kromfohrl%C3%A4nder",
+    "file": "images\\255_Kromfohrländer.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 256,
+    "breed": "Kuvasz",
+    "url": "https://fr.wikipedia.org/wiki/Kuvasz",
+    "file": "images\\256_Kuvasz.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 257,
+    "breed": "Kyi-Leo",
+    "url": "https://de.wikipedia.org/wiki/Kyi_Leo",
+    "file": "images\\257_Kyi-Leo.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 258,
+    "breed": "labrador retriever",
+    "url": "https://fr.wikipedia.org/wiki/Labrador_retriever",
+    "file": "images\\258_labrador_retriever.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 259,
+    "breed": "Laika de Iakoutie",
+    "url": "https://fr.wikipedia.org/wiki/La%C3%AFka_de_Iakoutie",
+    "file": "images\\259_Laika_de_Iakoutie.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 260,
+    "breed": "Laïka de Sibérie occidentale",
+    "url": "https://fr.wikipedia.org/wiki/La%C3%AFka_de_Sib%C3%A9rie_occidentale",
+    "file": "images\\260_Laïka_de_Sibérie_occidentale.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 261,
+    "breed": "Laïka de Sibérie orientale",
+    "url": "https://fr.wikipedia.org/wiki/La%C3%AFka_de_Sib%C3%A9rie_orientale",
+    "file": "images\\261_Laïka_de_Sibérie_orientale.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 262,
+    "breed": "Laïka russo-européen",
+    "url": "https://fr.wikipedia.org/wiki/La%C3%AFka_russo-europ%C3%A9en",
+    "file": "images\\262_Laïka_russo-européen.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 263,
+    "breed": "Lakeland Terrier",
+    "url": "https://fr.wikipedia.org/wiki/Lakeland_Terrier",
+    "file": "images\\263_Lakeland_Terrier.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 264,
+    "breed": "Lancashire Heeler",
+    "url": "https://fr.wikipedia.org/wiki/Lancashire_Heeler",
+    "file": "images\\264_Lancashire_Heeler.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 265,
+    "breed": "Landseer",
+    "url": "https://fr.wikipedia.org/wiki/Landseer_(chien)",
+    "file": "images\\265_Landseer.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 266,
+    "breed": "Lapphund suédois",
+    "url": "https://fr.wikipedia.org/wiki/Lapphund_su%C3%A9dois",
+    "file": "images\\266_Lapphund_suédois.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 267,
+    "breed": "Leonberg",
+    "url": "https://fr.wikipedia.org/wiki/Leonberg_(chien)",
+    "file": "images\\267_Leonberg.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 268,
+    "breed": "Lévrier afghan",
+    "url": "https://fr.wikipedia.org/wiki/L%C3%A9vrier_afghan",
+    "file": "images\\268_Lévrier_afghan.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 269,
+    "breed": "lévrier arabe",
+    "url": "https://fr.wikipedia.org/wiki/Sloughi",
+    "file": "images\\269_lévrier_arabe.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 270,
+    "breed": "Lévrier de soie",
+    "url": "https://fr.wikipedia.org/wiki/L%C3%A9vrier_de_soie",
+    "file": "images\\270_Lévrier_de_soie.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 271,
+    "breed": "Lévrier Galgo",
+    "url": "https://fr.wikipedia.org/wiki/L%C3%A9vrier_espagnol",
+    "file": "images\\271_Lévrier_Galgo.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 272,
+    "breed": "Lévrier greyhound",
+    "url": "https://fr.wikipedia.org/wiki/L%C3%A9vrier_greyhound",
+    "file": "images\\272_Lévrier_greyhound.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 273,
+    "breed": "Lévrier hongrois",
+    "url": "https://fr.wikipedia.org/wiki/L%C3%A9vrier_hongrois",
+    "file": "images\\273_Lévrier_hongrois.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 274,
+    "breed": "Lévrier irlandais",
+    "url": "https://fr.wikipedia.org/wiki/Irish_wolfhound",
+    "file": "images\\274_Lévrier_irlandais.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 275,
+    "breed": "Lévrier persan",
+    "url": "https://fr.wikipedia.org/wiki/L%C3%A9vrier_persan",
+    "file": "images\\275_Lévrier_persan.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 276,
+    "breed": "Lévrier Rampur",
+    "url": "https://fr.wikipedia.org/wiki/L%C3%A9vrier_Rampur",
+    "file": "images\\276_Lévrier_Rampur.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 277,
+    "breed": "Lévrier Taïgan",
+    "url": "https://fr.wikipedia.org/wiki/L%C3%A9vrier_Ta%C3%AFgan",
+    "file": "images\\277_Lévrier_Taïgan.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 278,
+    "breed": "Lévrier Tazi",
+    "url": "https://fr.wikipedia.org/wiki/L%C3%A9vrier_Tazi",
+    "file": "images\\278_Lévrier_Tazi.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 279,
+    "breed": "Lévrier whippet",
+    "url": "https://fr.wikipedia.org/wiki/L%C3%A9vrier_whippet",
+    "file": "images\\279_Lévrier_whippet.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 280,
+    "breed": "Lhassa Apso",
+    "url": "https://fr.wikipedia.org/wiki/Lhassa_Apso",
+    "file": "images\\280_Lhassa_Apso.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 281,
+    "breed": "Lucas Terrier",
+    "url": "https://en.wikipedia.org/wiki/Lucas_Terrier",
+    "file": "images\\281_Lucas_Terrier.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 282,
+    "breed": "Lundehund",
+    "url": "https://fr.wikipedia.org/wiki/Chien_norv%C3%A9gien_de_macareux",
+    "file": "images\\282_Lundehund.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 283,
+    "breed": "Lupo Italiano",
+    "url": "https://en.wikipedia.org/wiki/Lupo_Italiano",
+    "file": "images\\283_Lupo_Italiano.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 284,
+    "breed": "Lurcher",
+    "url": "https://fr.wikipedia.org/wiki/Lurcher",
+    "file": "images\\284_Lurcher.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 285,
+    "breed": "malamute de l’Alaska",
+    "url": "https://fr.wikipedia.org/wiki/Malamute_de_l%27Alaska",
+    "file": "images\\285_malamute_de_lAlaska.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 286,
+    "breed": "malinois",
+    "url": "https://fr.wikipedia.org/wiki/Malinois_(chien)",
+    "file": "images\\286_malinois.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 287,
+    "breed": "Mallorcan ratter",
+    "url": "https://en.wikipedia.org/wiki/Ca_Rater_Mallorqu%C3%AD",
+    "file": "images\\287_Mallorcan_ratter.jpg",
+    "status": "ok",
+    "note": "pageapi-no-image ; fileapi-original"
+  },
+  {
+    "id": 288,
+    "breed": "Manchester Terrier",
+    "url": "https://fr.wikipedia.org/wiki/Manchester_terrier",
+    "file": "images\\288_Manchester_Terrier.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 289,
+    "breed": "Maneto",
+    "url": "https://en.wikipedia.org/wiki/Maneto",
+    "file": "images\\289_Maneto.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 290,
+    "breed": "Markiesje",
+    "url": "https://en.wikipedia.org/wiki/Markiesje",
+    "file": "images\\290_Markiesje.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 291,
+    "breed": "Mastiff",
+    "url": "https://fr.wikipedia.org/wiki/Mastiff",
+    "file": "images\\291_Mastiff.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 292,
+    "breed": "Mâtin des Pyrénées",
+    "url": "https://fr.wikipedia.org/wiki/M%C3%A2tin_des_Pyr%C3%A9n%C3%A9es",
+    "file": "images\\292_Mâtin_des_Pyrénées.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 293,
+    "breed": "Mâtin espagnol",
+    "url": "https://fr.wikipedia.org/wiki/M%C3%A2tin_espagnol",
+    "file": "images\\293_Mâtin_espagnol.jpg",
+    "status": "ok",
+    "note": "pageapi-no-image ; fileapi-thumb-svg"
+  },
+  {
+    "id": 294,
+    "breed": "Mâtin napolitain",
+    "url": "https://fr.wikipedia.org/wiki/M%C3%A2tin_napolitain",
+    "file": "images\\294_Mâtin_napolitain.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 295,
+    "breed": "Miniature American Shepherd",
+    "url": "https://en.wikipedia.org/wiki/Miniature_American_Shepherd",
+    "file": "images\\295_Miniature_American_Shepherd.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 296,
+    "breed": "Miniature Australian Shepherd",
+    "url": "https://en.wikipedia.org/wiki/Miniature_Australian_Shepherd",
+    "file": "images\\296_Miniature_Australian_Shepherd.jpg",
+    "status": "ok",
+    "note": "pageapi-no-image ; fileapi-original"
+  },
+  {
+    "id": 297,
+    "breed": "Miniature Shar Pei",
+    "url": "https://en.wikipedia.org/wiki/Miniature_Shar_Pei",
+    "file": "images\\297_Miniature_Shar_Pei.jpg",
+    "status": "ok",
+    "note": "pageapi-no-image ; fileapi-original"
+  },
+  {
+    "id": 298,
+    "breed": "Moscow Watchdog",
+    "url": "https://en.wikipedia.org/wiki/Moscow_Watchdog",
+    "file": "images\\298_Moscow_Watchdog.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 299,
+    "breed": "Mudi",
+    "url": "https://fr.wikipedia.org/wiki/Mudi",
+    "file": "images\\299_Mudi.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 300,
+    "breed": "Norfolk Terrier",
+    "url": "https://fr.wikipedia.org/wiki/Norfolk_Terrier",
+    "file": "images\\300_Norfolk_Terrier.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 301,
+    "breed": "Norwich Terrier",
+    "url": "https://fr.wikipedia.org/wiki/Norwich_Terrier",
+    "file": "images\\301_Norwich_Terrier.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 302,
+    "breed": "Olde English Bulldogge",
+    "url": "https://en.wikipedia.org/wiki/Olde_English_Bulldogge",
+    "file": "images\\302_Olde_English_Bulldogge.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 303,
+    "breed": "Papillon",
+    "url": "https://fr.wikipedia.org/wiki/%C3%89pagneul_nain_continental_papillon",
+    "file": "images\\303_Papillon.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 304,
+    "breed": "Parson Russell terrier",
+    "url": "https://fr.wikipedia.org/wiki/Parson_Russell_terrier",
+    "file": "images\\304_Parson_Russell_terrier.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 305,
+    "breed": "Patterdale Terrier",
+    "url": "https://en.wikipedia.org/wiki/Patterdale_Terrier",
+    "file": "images\\305_Patterdale_Terrier.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 306,
+    "breed": "Pékinois",
+    "url": "https://fr.wikipedia.org/wiki/P%C3%A9kinois_(chien)",
+    "file": "images\\306_Pékinois.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 307,
+    "breed": "Perro de pastor garafiano",
+    "url": "https://en.wikipedia.org/wiki/Pastor_Garafiano",
+    "file": "images\\307_Perro_de_pastor_garafiano.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 308,
+    "breed": "Petit basset griffon Vendéen",
+    "url": "https://fr.wikipedia.org/wiki/Petit_basset_griffon_vend%C3%A9en",
+    "file": "images\\308_Petit_basset_griffon_Vendéen.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 309,
+    "breed": "Petit bleu de Gascogne",
+    "url": "https://fr.wikipedia.org/wiki/Petit_bleu_de_Gascogne",
+    "file": "images\\309_Petit_bleu_de_Gascogne.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 310,
+    "breed": "Petit chien courant suisse",
+    "url": "https://fr.wikipedia.org/wiki/Petit_chien_courant_suisse",
+    "file": "images\\310_Petit_chien_courant_suisse.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 311,
+    "breed": "Petit chien lion",
+    "url": "https://fr.wikipedia.org/wiki/Petit_chien_lion",
+    "file": "images\\311_Petit_chien_lion.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 312,
+    "breed": "petit chien russe",
+    "url": "https://fr.wikipedia.org/wiki/Petit_chien_russe",
+    "file": "images\\312_petit_chien_russe.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 313,
+    "breed": "Petit lévrier italien",
+    "url": "https://fr.wikipedia.org/wiki/Petit_l%C3%A9vrier_italien",
+    "file": "images\\313_Petit_lévrier_italien.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 314,
+    "breed": "pinscher allemand",
+    "url": "https://fr.wikipedia.org/wiki/Pinscher_allemand",
+    "file": "images\\314_pinscher_allemand.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 315,
+    "breed": "Pinscher autrichien",
+    "url": "https://fr.wikipedia.org/wiki/Pinscher_autrichien",
+    "file": "images\\315_Pinscher_autrichien.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 316,
+    "breed": "Pinscher nain",
+    "url": "https://fr.wikipedia.org/wiki/Pinscher_nain",
+    "file": "images\\316_Pinscher_nain.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 317,
+    "breed": "Plott Hound",
+    "url": "https://en.wikipedia.org/wiki/Plott_Hound",
+    "file": "images\\317_Plott_Hound.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 318,
+    "breed": "Plummer Terrier",
+    "url": "https://en.wikipedia.org/wiki/Plummer_Terrier",
+    "file": "images\\318_Plummer_Terrier.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 319,
+    "breed": "Podenco canario",
+    "url": "https://fr.wikipedia.org/wiki/Chien_de_garenne_des_Canaries",
+    "file": "images\\319_Podenco_canario.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 320,
+    "breed": "Podenco d'Ibiza",
+    "url": "https://fr.wikipedia.org/wiki/Podenco_d%27Ibiza",
+    "file": "images\\320_Podenco_dIbiza.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 321,
+    "breed": "Pointer anglais",
+    "url": "https://fr.wikipedia.org/wiki/Pointer_anglais",
+    "file": "images\\321_Pointer_anglais.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 322,
+    "breed": "Poitevin",
+    "url": "https://fr.wikipedia.org/wiki/Poitevin_(chien)",
+    "file": "images\\322_Poitevin.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 323,
+    "breed": "Poodle crossbreed",
+    "url": "https://en.wikipedia.org/wiki/Poodle_crossbreed",
+    "file": "images\\323_Poodle_crossbreed.jpg",
+    "status": "ok",
+    "note": "pageapi-no-image ; fileapi-thumb-svg"
+  },
+  {
+    "id": 324,
+    "breed": "Porcelaine",
+    "url": "https://fr.wikipedia.org/wiki/Porcelaine_(chien)",
+    "file": "images\\324_Porcelaine.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 325,
+    "breed": "Pudelpointer",
+    "url": "https://fr.wikipedia.org/wiki/Pudelpointer",
+    "file": "images\\325_Pudelpointer.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 326,
+    "breed": "Puli",
+    "url": "https://fr.wikipedia.org/wiki/Puli",
+    "file": "images\\326_Puli.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 327,
+    "breed": "Pulin",
+    "url": "https://fi.wikipedia.org/wiki/Pulin",
+    "file": "images\\327_Pulin.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 328,
+    "breed": "Pumi",
+    "url": "https://fr.wikipedia.org/wiki/Pumi_(chien)",
+    "file": "images\\328_Pumi.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 329,
+    "breed": "rafeiro de l'Alentejo",
+    "url": "https://fr.wikipedia.org/wiki/Rafeiro_de_l%27Alentejo",
+    "file": "images\\329_rafeiro_de_lAlentejo.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 330,
+    "breed": "Rajapalayam",
+    "url": "https://en.wikipedia.org/wiki/Rajapalayam_dog",
+    "file": "images\\330_Rajapalayam.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 331,
+    "breed": "Rat Terrier",
+    "url": "https://en.wikipedia.org/wiki/Rat_Terrier",
+    "file": "images\\331_Rat_Terrier.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 332,
+    "breed": "Ratier de Prague",
+    "url": "https://fr.wikipedia.org/wiki/Ratier_de_Prague",
+    "file": "images\\332_Ratier_de_Prague.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 333,
+    "breed": "Ratonero Bodeguero Andaluz",
+    "url": "https://en.wikipedia.org/wiki/Andalusian_Terrier",
+    "file": "images\\333_Ratonero_Bodeguero_Andaluz.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 334,
+    "breed": "Redbone",
+    "url": "https://fr.wikipedia.org/wiki/Redbone_Coonhound",
+    "file": "images\\334_Redbone.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 335,
+    "breed": "Retriever à poil bouclé",
+    "url": "https://fr.wikipedia.org/wiki/Retriever_%C3%A0_poil_boucl%C3%A9",
+    "file": "images\\335_Retriever_à_poil_bouclé.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 336,
+    "breed": "Retriever de la baie de Chesapeake",
+    "url": "https://fr.wikipedia.org/wiki/Retriever_de_la_baie_de_Chesapeake",
+    "file": "images\\336_Retriever_de_la_baie_de_Chesapeake.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 337,
+    "breed": "Retriever de la Nouvelle-Écosse",
+    "url": "https://fr.wikipedia.org/wiki/Retriever_de_la_Nouvelle-%C3%89cosse",
+    "file": "images\\337_Retriever_de_la_Nouvelle-Écosse.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 338,
+    "breed": "Rottweiler",
+    "url": "https://fr.wikipedia.org/wiki/Rottweiler",
+    "file": "images\\338_Rottweiler.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 339,
+    "breed": "Russkaya tsvetnaya bolonka",
+    "url": "https://en.wikipedia.org/wiki/Bolonka",
+    "file": "images\\339_Russkaya_tsvetnaya_bolonka.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 340,
+    "breed": "saint-bernard",
+    "url": "https://fr.wikipedia.org/wiki/Saint-bernard",
+    "file": "images\\340_saint-bernard.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 341,
+    "breed": "Samoyède",
+    "url": "https://fr.wikipedia.org/wiki/Samoy%C3%A8de_(chien)",
+    "file": "images\\341_Samoyède.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 342,
+    "breed": "Schapendoes néerlandais",
+    "url": "https://fr.wikipedia.org/wiki/Schapendoes_n%C3%A9erlandais",
+    "file": "images\\342_Schapendoes_néerlandais.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 343,
+    "breed": "Schillerstövare",
+    "url": "https://fr.wikipedia.org/wiki/Chien_courant_de_Schiller",
+    "file": "images\\343_Schillerstövare.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 344,
+    "breed": "Schipperke",
+    "url": "https://fr.wikipedia.org/wiki/Schipperke",
+    "file": "images\\344_Schipperke.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 345,
+    "breed": "Schnauzer",
+    "url": "https://fr.wikipedia.org/wiki/Schnauzer",
+    "file": "images\\345_Schnauzer.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 346,
+    "breed": "Sealyham Terrier",
+    "url": "https://fr.wikipedia.org/wiki/Sealyham_Terrier",
+    "file": "images\\346_Sealyham_Terrier.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 347,
+    "breed": "Segugio italiano",
+    "url": "https://fr.wikipedia.org/wiki/Chien_courant_italien_%C3%A0_poil_ras",
+    "file": "images\\347_Segugio_italiano.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 348,
+    "breed": "Segugio Maremmano",
+    "url": "https://en.wikipedia.org/wiki/Segugio_Maremmano",
+    "file": "images\\348_Segugio_Maremmano.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 349,
+    "breed": "Setter anglais",
+    "url": "https://fr.wikipedia.org/wiki/Setter_anglais",
+    "file": "images\\349_Setter_anglais.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 350,
+    "breed": "Setter Gordon",
+    "url": "https://fr.wikipedia.org/wiki/Setter_Gordon",
+    "file": "images\\350_Setter_Gordon.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 351,
+    "breed": "Setter irlandais",
+    "url": "https://fr.wikipedia.org/wiki/Setter_irlandais_rouge",
+    "file": "images\\351_Setter_irlandais.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 352,
+    "breed": "Setter irlandais rouge et blanc",
+    "url": "https://fr.wikipedia.org/wiki/Setter_irlandais_rouge_et_blanc",
+    "file": "images\\352_Setter_irlandais_rouge_et_blanc.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 353,
+    "breed": "Shar Pei",
+    "url": "https://fr.wikipedia.org/wiki/Shar_Pei",
+    "file": "images\\353_Shar_Pei.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 354,
+    "breed": "Shetland",
+    "url": "https://fr.wikipedia.org/wiki/Shetland_(chien)",
+    "file": "images\\354_Shetland.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 355,
+    "breed": "Shiba Inu",
+    "url": "https://fr.wikipedia.org/wiki/Shiba_(chien)",
+    "file": "images\\355_Shiba_Inu.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 356,
+    "breed": "Shih Tzu",
+    "url": "https://fr.wikipedia.org/wiki/Shih_tzu",
+    "file": "images\\356_Shih_Tzu.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 357,
+    "breed": "Shih-poo",
+    "url": "https://en.wikipedia.org/wiki/Shih-poo",
+    "file": "images\\357_Shih-poo.jpg",
+    "status": "ok",
+    "note": "pageapi-no-image ; fileapi-original"
+  },
+  {
+    "id": 358,
+    "breed": "Shikoku",
+    "url": "https://fr.wikipedia.org/wiki/Shikoku_(chien)",
+    "file": "images\\358_Shikoku.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 359,
+    "breed": "Shiloh Shepherd Dog",
+    "url": "https://fr.wikipedia.org/wiki/Shiloh_Shepherd_Dog",
+    "file": "images\\359_Shiloh_Shepherd_Dog.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 360,
+    "breed": "Skye terrier",
+    "url": "https://fr.wikipedia.org/wiki/Skye_terrier",
+    "file": "images\\360_Skye_terrier.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 361,
+    "breed": "Slovensky kopov",
+    "url": "https://fr.wikipedia.org/wiki/Chien_courant_slovaque",
+    "file": "images\\361_Slovensky_kopov.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 362,
+    "breed": "Smous des Pays-Bas",
+    "url": "https://fr.wikipedia.org/wiki/Smous_des_Pays-Bas",
+    "file": "images\\362_Smous_des_Pays-Bas.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 363,
+    "breed": "Spaniel allemand",
+    "url": "https://www.wikidata.org/wiki/Q21161515",
+    "file": "images\\363_Spaniel_allemand.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image)"
+  },
+  {
+    "id": 364,
+    "breed": "Spinone italiano",
+    "url": "https://fr.wikipedia.org/wiki/Spinone",
+    "file": "images\\364_Spinone_italiano.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 365,
+    "breed": "spitz allemand",
+    "url": "https://fr.wikipedia.org/wiki/Spitz_allemand",
+    "file": "images\\365_spitz_allemand.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 366,
+    "breed": "Spitz de Norrbotten",
+    "url": "https://fr.wikipedia.org/wiki/Spitz_de_Norrbotten",
+    "file": "images\\366_Spitz_de_Norrbotten.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 367,
+    "breed": "Spitz finlandais",
+    "url": "https://fr.wikipedia.org/wiki/Spitz_finlandais",
+    "file": "images\\367_Spitz_finlandais.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 368,
+    "breed": "Spitz japonais",
+    "url": "https://fr.wikipedia.org/wiki/Spitz_japonais",
+    "file": "images\\368_Spitz_japonais.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 369,
+    "breed": "springer anglais",
+    "url": "https://fr.wikipedia.org/wiki/Springer_anglais",
+    "file": "images\\369_springer_anglais.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 370,
+    "breed": "Staffordshire Bull Terrier",
+    "url": "https://fr.wikipedia.org/wiki/Staffordshire_Bull_Terrier",
+    "file": "images\\370_Staffordshire_Bull_Terrier.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 371,
+    "breed": "Sussex Spaniel",
+    "url": "https://fr.wikipedia.org/wiki/Sussex_Spaniel",
+    "file": "images\\371_Sussex_Spaniel.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 372,
+    "breed": "Tamaskan",
+    "url": "https://fr.wikipedia.org/wiki/Tamaskan",
+    "file": "images\\372_Tamaskan.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 373,
+    "breed": "Tchouvatch slovaque",
+    "url": "https://fr.wikipedia.org/wiki/Tchouvatch_slovaque",
+    "file": "images\\373_Tchouvatch_slovaque.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 374,
+    "breed": "teckel",
+    "url": "https://fr.wikipedia.org/wiki/Teckel",
+    "file": "images\\374_teckel.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 375,
+    "breed": "Terre-neuve",
+    "url": "https://fr.wikipedia.org/wiki/Terre-neuve_(chien)",
+    "file": "images\\375_Terre-neuve.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 376,
+    "breed": "Terrier australien",
+    "url": "https://fr.wikipedia.org/wiki/Terrier_australien",
+    "file": "images\\376_Terrier_australien.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 377,
+    "breed": "Terrier australien à poil soyeux",
+    "url": "https://fr.wikipedia.org/wiki/Terrier_australien_%C3%A0_poil_soyeux",
+    "file": "images\\377_Terrier_australien_à_poil_soyeux.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 378,
+    "breed": "Terrier brésilien",
+    "url": "https://fr.wikipedia.org/wiki/Terrier_br%C3%A9silien",
+    "file": "images\\378_Terrier_brésilien.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 379,
+    "breed": "Terrier d'agrément anglais noir et feu",
+    "url": "https://fr.wikipedia.org/wiki/Terrier_d%27agr%C3%A9ment_anglais_noir_et_feu",
+    "file": "images\\379_Terrier_dagrément_anglais_noir_et_feu.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 380,
+    "breed": "Terrier de Boston",
+    "url": "https://fr.wikipedia.org/wiki/Terrier_de_Boston",
+    "file": "images\\380_Terrier_de_Boston.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 381,
+    "breed": "Terrier de chasse allemand",
+    "url": "https://fr.wikipedia.org/wiki/Terrier_de_chasse_allemand",
+    "file": "images\\381_Terrier_de_chasse_allemand.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 382,
+    "breed": "terrier écossais",
+    "url": "https://fr.wikipedia.org/wiki/Terrier_%C3%A9cossais",
+    "file": "images\\382_terrier_écossais.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 383,
+    "breed": "Terrier irlandais",
+    "url": "https://fr.wikipedia.org/wiki/Terrier_irlandais",
+    "file": "images\\383_Terrier_irlandais.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 384,
+    "breed": "Terrier irlandais à poil doux",
+    "url": "https://fr.wikipedia.org/wiki/Terrier_irlandais_%C3%A0_poil_doux",
+    "file": "images\\384_Terrier_irlandais_à_poil_doux.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 385,
+    "breed": "Terrier irlandais Glen of Imaal",
+    "url": "https://fr.wikipedia.org/wiki/Terrier_irlandais_Glen_of_Imaal",
+    "file": "images\\385_Terrier_irlandais_Glen_of_Imaal.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 386,
+    "breed": "Terrier Kerry Blue",
+    "url": "https://fr.wikipedia.org/wiki/Terrier_Kerry_Blue",
+    "file": "images\\386_Terrier_Kerry_Blue.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 387,
+    "breed": "Terrier noir de Russie",
+    "url": "https://fr.wikipedia.org/wiki/Terrier_noir_russe",
+    "file": "images\\387_Terrier_noir_de_Russie.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 388,
+    "breed": "Terrier Tchèque",
+    "url": "https://fr.wikipedia.org/wiki/Terrier_tch%C3%A8que",
+    "file": "images\\388_Terrier_Tchèque.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 389,
+    "breed": "Terrier tibétain",
+    "url": "https://fr.wikipedia.org/wiki/Terrier_tib%C3%A9tain",
+    "file": "images\\389_Terrier_tibétain.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 390,
+    "breed": "Tesem",
+    "url": "https://fr.wikipedia.org/wiki/Tesem",
+    "file": "images\\390_Tesem.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 391,
+    "breed": "Tornjak",
+    "url": "https://fr.wikipedia.org/wiki/Berger_de_Bosnie-Herz%C3%A9govine_et_de_Croatie",
+    "file": "images\\391_Tornjak.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 392,
+    "breed": "Tosa Inu",
+    "url": "https://fr.wikipedia.org/wiki/Tosa_(chien)",
+    "file": "images\\392_Tosa_Inu.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 393,
+    "breed": "Toy Manchester Terrier",
+    "url": "https://en.wikipedia.org/wiki/Toy_Manchester_Terrier",
+    "file": "images\\393_Toy_Manchester_Terrier.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 394,
+    "breed": "Treeing Walker Coonhound",
+    "url": "https://en.wikipedia.org/wiki/Treeing_Walker_Coonhound",
+    "file": "images\\394_Treeing_Walker_Coonhound.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 395,
+    "breed": "Vallhund suédois",
+    "url": "https://fr.wikipedia.org/wiki/Vallhund_su%C3%A9dois",
+    "file": "images\\395_Vallhund_suédois.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 396,
+    "breed": "Volpino Italiano",
+    "url": "https://fr.wikipedia.org/wiki/Volpino_italien",
+    "file": "images\\396_Volpino_Italiano.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 397,
+    "breed": "Waeller",
+    "url": "https://de.wikipedia.org/wiki/W%C3%A4ller",
+    "file": "images\\397_Waeller.jpg",
+    "status": "ok",
+    "note": "pageapi-no-image ; og-image"
+  },
+  {
+    "id": 398,
+    "breed": "Welsh Corgi Cardigan",
+    "url": "https://fr.wikipedia.org/wiki/Welsh_Corgi_Cardigan",
+    "file": "images\\398_Welsh_Corgi_Cardigan.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 399,
+    "breed": "Welsh Corgi Pembroke",
+    "url": "https://fr.wikipedia.org/wiki/Welsh_Corgi_Pembroke",
+    "file": "images\\399_Welsh_Corgi_Pembroke.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 400,
+    "breed": "Welsh Springer Spaniel",
+    "url": "https://fr.wikipedia.org/wiki/Welsh_Springer_Spaniel",
+    "file": "images\\400_Welsh_Springer_Spaniel.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 401,
+    "breed": "Welsh terrier",
+    "url": "https://fr.wikipedia.org/wiki/Welsh_terrier",
+    "file": "images\\401_Welsh_terrier.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 402,
+    "breed": "West Highland white terrier",
+    "url": "https://fr.wikipedia.org/wiki/West_Highland_white_terrier",
+    "file": "images\\402_West_Highland_white_terrier.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 403,
+    "breed": "Westfal Terrier",
+    "url": "https://da.wikipedia.org/wiki/Westfalenterrier",
+    "file": "images\\403_Westfal_Terrier.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 404,
+    "breed": "Wetterhoun",
+    "url": "https://fr.wikipedia.org/wiki/Chien_d%27eau_frison",
+    "file": "images\\404_Wetterhoun.jpg",
+    "status": "failed",
+    "note": "no-valid-image (pageapi-no-image ; fileapi-thumb-svg)"
+  },
+  {
+    "id": 405,
+    "breed": "White English Bulldog",
+    "url": "https://fi.wikipedia.org/wiki/Altmaninbulldoggi",
+    "file": "images\\405_White_English_Bulldog.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 406,
+    "breed": "Yorkshire",
+    "url": "https://fr.wikipedia.org/wiki/Yorkshire_terrier",
+    "file": "images\\406_Yorkshire.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  },
+  {
+    "id": 407,
+    "breed": "Zerdava",
+    "url": "https://en.wikipedia.org/wiki/Zerdava",
+    "file": "images\\407_Zerdava.jpg",
+    "status": "ok",
+    "note": "pageapi-original"
+  }
+]

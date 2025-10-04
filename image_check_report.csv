@@ -1,0 +1,127 @@
+id,breed,status,chosen_file,all_matches
+1,Affenpinscher,ok,images\001_Affenpinscher.jpg,images\001_Affenpinscher.jpg
+2,Aïdi,missing,,
+3,Airedale Terrier,ok,images\003_Airedale_Terrier.jpg,images\003_Airedale_Terrier.jpg
+6,Alapaha Blue Blood Bulldog,ok,images\006_Alapaha_Blue_Blood_Bulldog.jpg,images\006_Alapaha_Blue_Blood_Bulldog.jpg
+10,American Bully,ok,images\010_American_Bully.jpg,images\010_American_Bully.jpg
+14,American Pit Bull Terrier,ok,images\014_American_Pit_Bull_Terrier.jpg,images\014_American_Pit_Bull_Terrier.jpg
+19,Anglo-Français de petite vénerie,missing,,
+22,Azawakh,ok,images\022_Azawakh.jpg,images\022_Azawakh.jpg
+27,Basenji,ok,images\027_Basenji.jpg,images\027_Basenji.jpg
+28,Basset artésien normand,missing,,
+33,Basset hound,ok,images\033_basset_hound.jpg,images\033_basset_hound.jpg
+34,Beagle,missing,,
+36,Bedlington terrier,ok,images\036_Bedlington_terrier.jpg,images\036_Bedlington_terrier.jpg
+37,Berger allemand,ok,images\037_berger_allemand.jpg,images\037_berger_allemand.jpg
+38,Berger australien,ok,images\038_Berger_australien.jpg,images\038_Berger_australien.jpg
+39,Berger basque,ok,images\039_Berger_basque.jpg,images\039_Berger_basque.jpg
+41,Berger belge Laekenois,ok,images\041_Berger_belge_Laekenois.jpg,images\041_Berger_belge_Laekenois.jpg
+46,Berger d'Asie Centrale,missing,,
+50,Berger de la Serra de Aires,ok,images\050_berger_de_la_Serra_de_Aires.jpg,images\050_berger_de_la_Serra_de_Aires.jpg
+51,Berger de Majorque,ok,images\051_Berger_de_Majorque.jpg,images\051_Berger_de_Majorque.jpg
+54,Berger des Pyrénées,missing,,
+55,Berger des Tatras,ok,images\055_Berger_des_Tatras.jpg,images\055_Berger_des_Tatras.jpg
+59,Berger hollandais,ok,images\059_Berger_hollandais.jpg,images\059_Berger_hollandais.jpg
+60,Berger islandais,ok,images\060_berger_islandais.jpg,images\060_berger_islandais.jpg
+63,Berger polonais de plaine,ok,images\063_Berger_polonais_de_plaine.jpg,images\063_Berger_polonais_de_plaine.jpg
+65,Bichon à poil frisé,missing,,
+67,Bichon havanais,ok,images\067_Bichon_havanais.jpg,images\067_Bichon_havanais.jpg
+68,Bichon maltais,ok,images\068_Bichon_maltais.jpg,images\068_Bichon_maltais.jpg
+71,Bobtail,ok,images\071_Bobtail.jpg,images\071_Bobtail.jpg
+75,Border Collie,ok,images\075_Border_Collie.jpg,images\075_Border_Collie.jpg
+78,Bouledogue français,ok,images\078_bouledogue_français.jpg,images\078_bouledogue_français.jpg
+81,Bouvier bernois,ok,images\081_Bouvier_bernois.jpg,images\081_Bouvier_bernois.jpg
+85,Boxer,ok,images\085_Boxer.jpg,images\085_Boxer.jpg
+89,Brachet polonais,ok,images\089_Brachet_polonais.jpg,images\089_Brachet_polonais.jpg
+94,Braque de Weimar,ok,images\094_Braque_de_Weimar.jpg,images\094_Braque_de_Weimar.jpg
+97,Braque hongrois à poil court,missing,,
+98,Braque italien,ok,images\098_Braque_italien.jpg,images\098_Braque_italien.jpg
+103,Buhund norvégien,missing,,
+104,Bull Terrier,ok,images\104_Bull_Terrier.jpg,images\104_Bull_Terrier.jpg
+107,Bullmastiff,ok,images\107_bullmastiff.jpg,images\107_bullmastiff.jpg
+109,Can de palleiro,ok,images\109_Can_de_palleiro.jpg,images\109_Can_de_palleiro.jpg
+110,Caniche,ok,images\110_caniche.jpg,images\110_caniche.jpg
+113,Carlin,ok,images\113_carlin.jpg,images\113_carlin.jpg
+120,Chien courant d'Istrie à poil ras,missing,,
+121,Chien courant de Bosnie à poil dur,missing,,
+125,Chien courant grec,ok,images\125_Chien_courant_grec.jpg,images\125_Chien_courant_grec.jpg
+130,Chien d'arrêt allemand à poil long,missing,,
+132,Chien d'arrêt danois ancestral,missing,,
+134,Chien d'arrêt portugais,missing,,
+135,Chien d'Artois,missing,,
+136,Chien d'eau américain,missing,,
+137,Chien d'eau espagnol,missing,,
+139,Chien d'eau romagnol,missing,,
+143,Chien de berger Kangal,missing,,
+146,Chien de berger yougoslave de Charplanina,ok,images\146_chien_de_berger_yougoslave_de_Charplanina.jpg,images\146_chien_de_berger_yougoslave_de_Charplanina.jpg
+147,Chien de Canaan,ok,images\147_Chien_de_Canaan.jpg,images\147_Chien_de_Canaan.jpg
+149,Chien de cour italien,ok,images\149_chien_de_cour_italien.jpg,images\149_chien_de_cour_italien.jpg
+151,Chien de garenne portugais,ok,images\151_chien_de_garenne_portugais.jpg,images\151_chien_de_garenne_portugais.jpg
+152,Chien de la Serra da Estrela,ok,images\152_Chien_de_la_Serra_da_Estrela.jpg,images\152_Chien_de_la_Serra_da_Estrela.jpg
+156,Chien de Rhodésie à crête dorsale,missing,,
+159,Chien de Saint-Hubert,ok,images\159_chien_de_Saint-Hubert.jpg,images\159_chien_de_Saint-Hubert.jpg
+160,Chien de Taïwan,missing,,
+170,Chihuahua,ok,images\170_chihuahua.jpg,images\170_chihuahua.jpg
+173,Cimarrón Uruguayo,ok,images\173_Cimarrón_Uruguayo.jpg,images\173_Cimarrón_Uruguayo.jpg
+174,Cirneco de l'Etna,missing,,
+175,Clumber Spaniel,ok,images\175_Clumber_Spaniel.jpg,images\175_Clumber_Spaniel.jpg
+178,Cocker spaniel anglais,ok,images\178_Cocker_spaniel_anglais.jpg,images\178_Cocker_spaniel_anglais.jpg
+179,Colley,ok,images\179_Colley.jpg,images\179_Colley.jpg
+186,Dalmatien,ok,images\186_Dalmatien.jpg,images\186_Dalmatien.jpg
+190,Dobermann,ok,images\190_Dobermann.jpg,images\190_Dobermann.jpg
+192,Dogue argentin,ok,images\192_Dogue_argentin.jpg,images\192_Dogue_argentin.jpg
+193,Dogue de Bordeaux,ok,images\193_Dogue_de_Bordeaux.jpg,images\193_Dogue_de_Bordeaux.jpg
+194,Dogue de Majorque,ok,images\194_Dogue_de_Majorque.jpg,images\194_Dogue_de_Majorque.jpg
+195,Dogue des Canaries,ok,images\195_Dogue_des_Canaries.jpg,images\195_Dogue_des_Canaries.jpg
+201,English Coonhound,ok,images\201_English_Coonhound.jpg,images\201_English_Coonhound.jpg
+203,Épagneul breton,missing,,
+209,Épagneul picard,missing,,
+212,Erdélyi kopó,ok,images\212_Erdélyi_kopó.jpg,images\212_Erdélyi_kopó.jpg
+213,Esquimau canadien,ok,images\213_Esquimau_canadien.jpg,images\213_Esquimau_canadien.jpg
+80,Retriever à poil plat,ok,images\080_Bouvier_australien_courte_queue.jpg,images\080_Bouvier_australien_courte_queue.jpg
+223,Golden retriever,ok,images\223_Golden_retriever.jpg,images\223_Golden_retriever.jpg
+240,Hokkaïdo,missing,,
+243,Husky sibérien,missing,,
+244,Jack Russell,ok,images\244_Jack_Russell.jpg,images\244_Jack_Russell.jpg
+245,Jindo coréen,missing,,
+253,Kooikerhondje,ok,images\253_Kooikerhondje.jpg,images\253_Kooikerhondje.jpg
+258,Labrador retriever,ok,images\258_labrador_retriever.jpg,images\258_labrador_retriever.jpg
+265,Landseer,ok,images\265_Landseer.jpg,images\265_Landseer.jpg
+271,Lévrier Galgo,missing,,
+282,Lundehund,missing,,
+285,Malamute de l’Alaska,missing,,
+92,Mastiff Anglais,missing,,
+301,Norwich Terrier,ok,images\301_Norwich_Terrier.jpg,images\301_Norwich_Terrier.jpg
+315,Pinscher autrichien,ok,images\315_Pinscher_autrichien.jpg,images\315_Pinscher_autrichien.jpg
+320,Podenco d'Ibiza,missing,,
+321,Pointer anglais,ok,images\321_Pointer_anglais.jpg,images\321_Pointer_anglais.jpg
+325,Pudelpointer,ok,images\325_Pudelpointer.jpg,images\325_Pudelpointer.jpg
+329,Rafeiro de l'Alentejo,missing,,
+332,Ratier de Prague,ok,images\332_Ratier_de_Prague.jpg,images\332_Ratier_de_Prague.jpg
+336,Retriever de la baie de Chesapeake,ok,images\336_Retriever_de_la_baie_de_Chesapeake.jpg,images\336_Retriever_de_la_baie_de_Chesapeake.jpg
+337,Retriever de la Nouvelle-Écosse,missing,,
+338,Rottweiler,ok,images\338_Rottweiler.jpg,images\338_Rottweiler.jpg
+340,Saint-bernard,ok,images\340_saint-bernard.jpg,images\340_saint-bernard.jpg
+341,Samoyède,missing,,
+342,Schapendoes néerlandais,missing,,
+346,Sealyham Terrier,ok,images\346_Sealyham_Terrier.jpg,images\346_Sealyham_Terrier.jpg
+347,Segugio italiano,missing,,
+353,Shar Pei,ok,images\353_Shar_Pei.jpg,images\353_Shar_Pei.jpg
+354,Shetland,ok,images\354_Shetland.jpg,images\354_Shetland.jpg
+361,Slovensky kopov,ok,images\361_Slovensky_kopov.jpg,images\361_Slovensky_kopov.jpg
+362,Smous des Pays-Bas,ok,images\362_Smous_des_Pays-Bas.jpg,images\362_Smous_des_Pays-Bas.jpg
+364,Spinone italiano,ok,images\364_Spinone_italiano.jpg,images\364_Spinone_italiano.jpg
+366,Spitz de Norrbotten,ok,images\366_Spitz_de_Norrbotten.jpg,images\366_Spitz_de_Norrbotten.jpg
+367,Spitz finlandais,ok,images\367_Spitz_finlandais.jpg,images\367_Spitz_finlandais.jpg
+369,Springer anglais,ok,images\369_springer_anglais.jpg,images\369_springer_anglais.jpg
+370,Staffordshire Bull Terrier,ok,images\370_Staffordshire_Bull_Terrier.jpg,images\370_Staffordshire_Bull_Terrier.jpg
+371,Sussex Spaniel,ok,images\371_Sussex_Spaniel.jpg,images\371_Sussex_Spaniel.jpg
+374,Teckel,ok,images\374_teckel.jpg,images\374_teckel.jpg
+378,Terrier brésilien,missing,,
+379,Terrier d'agrément anglais noir et feu,missing,,
+380,Terrier de Boston,ok,images\380_Terrier_de_Boston.jpg,images\380_Terrier_de_Boston.jpg
+381,Terrier de chasse allemand,ok,images\381_Terrier_de_chasse_allemand.jpg,images\381_Terrier_de_chasse_allemand.jpg
+383,Terrier irlandais,ok,images\383_Terrier_irlandais.jpg,images\383_Terrier_irlandais.jpg
+385,Terrier irlandais Glen of Imaal,ok,images\385_Terrier_irlandais_Glen_of_Imaal.jpg,images\385_Terrier_irlandais_Glen_of_Imaal.jpg
+398,Welsh Corgi Cardigan,ok,images\398_Welsh_Corgi_Cardigan.jpg,images\398_Welsh_Corgi_Cardigan.jpg
+406,Yorkshire,ok,images\406_Yorkshire.jpg,images\406_Yorkshire.jpg

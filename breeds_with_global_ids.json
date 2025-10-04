@@ -1,0 +1,1721 @@
+{
+  "breeds": [
+    {
+      "id": 1,
+      "breed": "Affenpinscher",
+      "features": {
+        "origin": "Allemagne",
+        "size": "25 à 30 cm",
+        "weight": "6 à 8 kgs",
+        "robe": [
+          "rouge",
+          "gris"
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "breed": "Aïdi",
+      "features": {
+        "origin": "Afrique du Nord",
+        "size": "52 à 75 cm",
+        "weight": "25 à 65 kgs",
+        "robe": [
+          "marron",
+          "fauve"
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "breed": "Airedale Terrier",
+      "features": {
+        "origin": "Angleterre",
+        "size": "56 à 61 cm",
+        "weight": "27 à 32 kgs",
+        "robe": [
+          "noir"
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "breed": "Alapaha Blue Blood Bulldog",
+      "features": {
+        "origin": "États-Unis",
+        "size": "50 à 75 cm",
+        "weight": "34 à 52 kgs",
+        "robe": [
+          "fauve",
+          "noir",
+          "bleu"
+        ]
+      }
+    },
+    {
+      "id": 10,
+      "breed": "American Bully",
+      "features": {
+        "origin": "États-Unis",
+        "size": "~58 cm",
+        "weight": "~52 kgs",
+        "robe": [
+          "toutes"
+        ]
+      }
+    },
+    {
+      "id": 14,
+      "breed": "American Pit Bull Terrier",
+      "features": {
+        "origin": "États-Unis",
+        "size": "40 à 50 cm",
+        "weight": "12 à 27 kgs",
+        "robe": [
+          "toutes"
+        ]
+      }
+    },
+    {
+      "id": 19,
+      "breed": "Anglo-Français de petite vénerie",
+      "features": {
+        "origin": "France",
+        "size": "48 à 56 cm",
+        "weight": "40 à 42 kgs",
+        "robe": [
+          "orange",
+          "blanc",
+          "noir"
+        ]
+      }
+    },
+    {
+      "id": 22,
+      "breed": "Azawakh",
+      "features": {
+        "origin": "Sahel",
+        "size": "60 à 74 cm",
+        "weight": "15 à 25 kgs",
+        "robe": [
+          "fauve",
+          "blanc"
+        ]
+      }
+    },
+    {
+      "id": 27,
+      "breed": "Basenji",
+      "features": {
+        "origin": "République démocratique du Congo",
+        "size": "40 à 43 cm",
+        "weight": "12 à 12 kgs",
+        "robe": [
+          "bringé",
+          "fauve",
+          "blanc",
+          "noir"
+        ]
+      }
+    },
+    {
+      "id": 28,
+      "breed": "Basset artésien normand",
+      "features": {
+        "origin": "France",
+        "size": "30 à 36 cm",
+        "weight": "17 à 22 kgs",
+        "robe": [
+          "fauve",
+          "blanc"
+        ]
+      }
+    },
+    {
+      "id": 33,
+      "breed": "Basset hound",
+      "features": {
+        "origin": "Angleterre , Royaume-Uni France",
+        "size": "28 à 38 cm",
+        "weight": "20 à 34 kgs",
+        "robe": [
+          "toutes"
+        ]
+      }
+    },
+    {
+      "id": 34,
+      "breed": "Beagle",
+      "features": {
+        "origin": "Angleterre",
+        "size": "33 à 40 cm",
+        "weight": "10 à 24 kgs",
+        "robe": [
+          "marron",
+          "sable",
+          "blanc",
+          "noir"
+        ]
+      }
+    },
+    {
+      "id": 36,
+      "breed": "Bedlington terrier",
+      "features": {
+        "origin": "Royaume-Uni",
+        "size": "~41 cm",
+        "weight": "11 à 13 kgs",
+        "robe": [
+          "marron",
+          "sable",
+          "blanc",
+          "noir",
+          "bleu"
+        ]
+      }
+    },
+    {
+      "id": 37,
+      "breed": "Berger allemand",
+      "features": {
+        "origin": "Allemagne",
+        "size": "55 à 65 cm",
+        "weight": "22 à 40 kgs",
+        "robe": [
+          "noir et gris",
+          "noir",
+          "gris"
+        ]
+      }
+    },
+    {
+      "id": 38,
+      "breed": "Berger australien",
+      "features": {
+        "origin": "États-Unis",
+        "size": "48 à 58 cm",
+        "weight": "21 à 32 kgs",
+        "robe": [
+          "merle",
+          "rouge",
+          "blanc",
+          "noir",
+          "bleu"
+        ]
+      }
+    },
+    {
+      "id": 39,
+      "breed": "Berger basque",
+      "features": {
+        "origin": "Pays basque",
+        "size": "46 à 61 cm",
+        "weight": "21 à 38 kgs",
+        "robe": [
+          "fauve"
+        ]
+      }
+    },
+    {
+      "id": 41,
+      "breed": "Berger belge Laekenois",
+      "features": {
+        "origin": "Belgique",
+        "size": "58 à 66 cm",
+        "weight": "22 à 32 kgs",
+        "robe": [
+          "fauve"
+        ]
+      }
+    },
+    {
+      "id": 46,
+      "breed": "Berger d'Asie Centrale",
+      "features": {
+        "origin": "Turkménistan",
+        "size": "65 à 70 cm",
+        "weight": "62 à 77 kgs",
+        "robe": [
+          "marron",
+          "fauve",
+          "noir",
+          "bleu"
+        ]
+      }
+    },
+    {
+      "id": 50,
+      "breed": "Berger de la Serra de Aires",
+      "features": {
+        "origin": "Portugal",
+        "size": "42 à 55 cm",
+        "weight": "19 à 29 kgs",
+        "robe": [
+          "marron",
+          "fauve",
+          "jaune",
+          "gris"
+        ]
+      }
+    },
+    {
+      "id": 51,
+      "breed": "Berger de Majorque",
+      "features": {
+        "origin": "Espagne",
+        "size": "62 à 73 cm",
+        "weight": "42 à 42 kgs",
+        "robe": [
+          "blanc",
+          "noir"
+        ]
+      }
+    },
+    {
+      "id": 54,
+      "breed": "Berger des Pyrénées",
+      "features": {
+        "origin": "France ( Pyrénées )",
+        "size": "~48 cm",
+        "weight": "8 à 15 kgs",
+        "robe": [
+          "bringé",
+          "fauve",
+          "merle",
+          "noir",
+          "gris"
+        ]
+      }
+    },
+    {
+      "id": 55,
+      "breed": "Berger des Tatras",
+      "features": {
+        "origin": "Pologne",
+        "size": "60 à 70 cm",
+        "weight": "47 à 62 kgs",
+        "robe": [
+          "blanc"
+        ]
+      }
+    },
+    {
+      "id": 59,
+      "breed": "Berger hollandais",
+      "features": {
+        "origin": "Pays-Bas",
+        "size": "55 à 62 cm",
+        "weight": "~28 kgs",
+        "robe": [
+          "argenté",
+          "bringé",
+          "doré"
+        ]
+      }
+    },
+    {
+      "id": 60,
+      "breed": "Berger islandais",
+      "features": {
+        "origin": "Islande",
+        "size": "42 à 46 cm",
+        "weight": "12 à 20 kgs",
+        "robe": [
+          "marron",
+          "fauve",
+          "blanc",
+          "noir",
+          "gris"
+        ]
+      }
+    },
+    {
+      "id": 63,
+      "breed": "Berger polonais de plaine",
+      "features": {
+        "origin": "Pologne",
+        "size": "41 à 51 cm",
+        "weight": "16 à 18 kgs",
+        "robe": [
+          "blanc",
+          "noir",
+          "doré"
+        ]
+      }
+    },
+    {
+      "id": 65,
+      "breed": "Bichon à poil frisé",
+      "features": {
+        "origin": "Italie",
+        "size": "30 à 30 cm",
+        "weight": "3 à 5 kgs",
+        "robe": [
+          "blanc"
+        ]
+      }
+    },
+    {
+      "id": 67,
+      "breed": "Bichon havanais",
+      "features": {
+        "origin": "Cuba",
+        "size": "21 à 29 cm",
+        "weight": "3 à 6 kgs",
+        "robe": [
+          "fauve clair",
+          "fauve",
+          "blanc",
+          "noir"
+        ]
+      }
+    },
+    {
+      "id": 68,
+      "breed": "Bichon maltais",
+      "features": {
+        "origin": "Malte",
+        "size": "20 à 25 cm",
+        "weight": "2 à 5 kgs",
+        "robe": [
+          "blanc"
+        ]
+      }
+    },
+    {
+      "id": 71,
+      "breed": "Bobtail",
+      "features": {
+        "origin": "Angleterre",
+        "size": "56 à 61 cm",
+        "weight": "30 à 42 kgs",
+        "robe": [
+          "noir",
+          "bleu",
+          "gris"
+        ]
+      }
+    },
+    {
+      "id": 75,
+      "breed": "Border Collie",
+      "features": {
+        "origin": "Angleterre Écosse",
+        "size": "48 à 55 cm",
+        "weight": "17 à 30 kgs",
+        "robe": [
+          ""
+        ]
+      }
+    },
+    {
+      "id": 78,
+      "breed": "Bouledogue français",
+      "features": {
+        "origin": "France",
+        "size": "35 à 35 cm",
+        "weight": "10 à 16 kgs",
+        "robe": [
+          "fauve",
+          "blanc",
+          "bleu"
+        ]
+      }
+    },
+    {
+      "id": 81,
+      "breed": "Bouvier bernois",
+      "features": {
+        "origin": "Suisse",
+        "size": "58 à 70 cm",
+        "weight": "",
+        "robe": [
+          "noir",
+          "blanc",
+          "noir",
+          "fauve clair"
+        ]
+      }
+    },
+    {
+      "id": 85,
+      "breed": "Boxer",
+      "features": {
+        "origin": "Allemagne .",
+        "size": "53 à 63 cm",
+        "weight": "25 à 60 kgs",
+        "robe": [
+          "fauve",
+          "blanc",
+          "noir"
+        ]
+      }
+    },
+    {
+      "id": 89,
+      "breed": "Brachet polonais",
+      "features": {
+        "origin": "Pologne",
+        "size": "55 à 65 cm",
+        "weight": "22 à 34 kgs",
+        "robe": [
+          "noir"
+        ]
+      }
+    },
+    {
+      "id": 94,
+      "breed": "Braque de Weimar",
+      "features": {
+        "origin": "Allemagne",
+        "size": "59 à 67 cm",
+        "weight": "27 à 42 kgs",
+        "robe": [
+          "argenté",
+          "gris"
+        ]
+      }
+    },
+    {
+      "id": 97,
+      "breed": "Braque hongrois à poil court",
+      "features": {
+        "origin": "Hongrie",
+        "size": "54 à 64 cm",
+        "weight": "18 à 30 kgs",
+        "robe": [
+          "froment doré"
+        ]
+      }
+    },
+    {
+      "id": 98,
+      "breed": "Braque italien",
+      "features": {
+        "origin": "Italie",
+        "size": "55 à 67 cm",
+        "weight": "27 à 42 kgs",
+        "robe": [
+          "marron",
+          "blanc"
+        ]
+      }
+    },
+    {
+      "id": 103,
+      "breed": "Buhund norvégien",
+      "features": {
+        "origin": "Norvège",
+        "size": "41 à 47 cm",
+        "weight": "14 à 20 kgs",
+        "robe": [
+          "noir"
+        ]
+      }
+    },
+    {
+      "id": 104,
+      "breed": "Bull Terrier",
+      "features": {
+        "origin": "Angleterre",
+        "size": "35 à 50 cm",
+        "weight": "22 à 42 kgs",
+        "robe": [
+          "marron",
+          "fauve"
+        ]
+      }
+    },
+    {
+      "id": 107,
+      "breed": "Bullmastiff",
+      "features": {
+        "origin": "Royaume-Uni",
+        "size": "61 à 69 cm",
+        "weight": "42 à 61 kgs",
+        "robe": [
+          "bringé",
+          "beige",
+          "sable"
+        ]
+      }
+    },
+    {
+      "id": 109,
+      "breed": "Can de palleiro",
+      "features": {
+        "origin": "Galice , Espagne",
+        "size": "60 à 60 cm",
+        "weight": "40 à 40 kgs",
+        "robe": [
+          "marron",
+          "sable",
+          "noir"
+        ]
+      }
+    },
+    {
+      "id": 110,
+      "breed": "Caniche",
+      "features": {
+        "origin": "France , Allemagne",
+        "size": "24 à 62 cm",
+        "weight": "2 à 32 kgs",
+        "robe": [
+          "noir",
+          "blanc",
+          "gris",
+          "marron",
+          "fauve"
+        ]
+      }
+    },
+    {
+      "id": 113,
+      "breed": "Carlin",
+      "features": {
+        "origin": "Chine",
+        "size": "30 à 40 cm",
+        "weight": "10 à 16 kgs",
+        "robe": [
+          "marron",
+          "sable"
+        ]
+      }
+    },
+    {
+      "id": 120,
+      "breed": "Chien courant d'Istrie à poil ras",
+      "features": {
+        "origin": "Croatie",
+        "size": "44 à 56 cm",
+        "weight": "20 à 20 kgs",
+        "robe": [
+          "orange",
+          "blanc"
+        ]
+      }
+    },
+    {
+      "id": 121,
+      "breed": "Chien courant de Bosnie à poil dur",
+      "features": {
+        "origin": "Bosnie-Herzégovine",
+        "size": "46 à 56 cm",
+        "weight": "18 à 26 kgs",
+        "robe": [
+          "rouge",
+          "blanc",
+          "jaune",
+          "gris"
+        ]
+      }
+    },
+    {
+      "id": 125,
+      "breed": "Chien courant grec",
+      "features": {
+        "origin": "Grèce",
+        "size": "45 à 55 cm",
+        "weight": "19 à 22 kgs",
+        "robe": [
+          "noir"
+        ]
+      }
+    },
+    {
+      "id": 130,
+      "breed": "Chien d'arrêt allemand à poil long",
+      "features": {
+        "origin": "Allemagne",
+        "size": "58 à 70 cm",
+        "weight": "32 à 32 kgs",
+        "robe": [
+          "marron",
+          "blanc"
+        ]
+      }
+    },
+    {
+      "id": 132,
+      "breed": "Chien d'arrêt danois ancestral",
+      "features": {
+        "origin": "Danemark",
+        "size": "50 à 60 cm",
+        "weight": "28 à 37 kgs",
+        "robe": [
+          "marron",
+          "blanc"
+        ]
+      }
+    },
+    {
+      "id": 134,
+      "breed": "Chien d'arrêt portugais",
+      "features": {
+        "origin": "Portugal",
+        "size": "48 à 60 cm",
+        "weight": "20 à 31 kgs",
+        "robe": [
+          "marron",
+          "blanc",
+          "jaune"
+        ]
+      }
+    },
+    {
+      "id": 135,
+      "breed": "Chien d'Artois",
+      "features": {
+        "origin": "France",
+        "size": "52 à 58 cm",
+        "weight": "30 à 32 kgs",
+        "robe": [
+          "fauve",
+          "blanc",
+          "noir"
+        ]
+      }
+    },
+    {
+      "id": 136,
+      "breed": "Chien d'eau américain",
+      "features": {
+        "origin": "États-Unis",
+        "size": "38 à 46 cm",
+        "weight": "14 à 23 kgs",
+        "robe": [
+          "chocolat",
+          "marron",
+          "rouge"
+        ]
+      }
+    },
+    {
+      "id": 137,
+      "breed": "Chien d'eau espagnol",
+      "features": {
+        "origin": "Espagne",
+        "size": "40 à 50 cm",
+        "weight": "16 à 24 kgs",
+        "robe": [
+          "marron",
+          "blanc",
+          "noir"
+        ]
+      }
+    },
+    {
+      "id": 139,
+      "breed": "Chien d'eau romagnol",
+      "features": {
+        "origin": "Italie",
+        "size": "41 à 48 cm",
+        "weight": "13 à 18 kgs",
+        "robe": [
+          "marron",
+          "orange",
+          "blanc"
+        ]
+      }
+    },
+    {
+      "id": 143,
+      "breed": "Chien de berger Kangal",
+      "features": {
+        "origin": "Turquie",
+        "size": "~81 cm",
+        "weight": "45 à 75 kgs",
+        "robe": [
+          "fauve",
+          "blanc"
+        ]
+      }
+    },
+    {
+      "id": 146,
+      "breed": "Chien de berger yougoslave de Charplanina",
+      "features": {
+        "origin": "Macédoine du Nord et Serbie",
+        "size": "58 à 62 cm",
+        "weight": "32 à 47 kgs",
+        "robe": [
+          "blanc"
+        ]
+      }
+    },
+    {
+      "id": 147,
+      "breed": "Chien de Canaan",
+      "features": {
+        "origin": "Moyen-Orient",
+        "size": "50 à 60 cm",
+        "weight": "~25 kgs",
+        "robe": [
+          "panaché",
+          "rouge",
+          "sable",
+          "blanc",
+          "noir"
+        ]
+      }
+    },
+    {
+      "id": 149,
+      "breed": "Chien de cour italien",
+      "features": {
+        "origin": "Italie",
+        "size": "~68 cm",
+        "weight": "40 à 50 kgs",
+        "robe": [
+          "fauve"
+        ]
+      }
+    },
+    {
+      "id": 151,
+      "breed": "Chien de garenne portugais",
+      "features": {
+        "origin": "Portugal",
+        "size": "20 à 70 cm",
+        "weight": "~30 kgs",
+        "robe": [
+          "fauve",
+          "blanc",
+          "jaune"
+        ]
+      }
+    },
+    {
+      "id": 152,
+      "breed": "Chien de la Serra da Estrela",
+      "features": {
+        "origin": "Portugal",
+        "size": "62 à 73 cm",
+        "weight": "37 à 62 kgs",
+        "robe": [
+          "bringé",
+          "fauve",
+          "jaune",
+          "noir",
+          "gris"
+        ]
+      }
+    },
+    {
+      "id": 156,
+      "breed": "Chien de Rhodésie à crête dorsale",
+      "features": {
+        "origin": "Afrique du Sud",
+        "size": "61 à 69 cm",
+        "weight": "32 à 37 kgs",
+        "robe": [
+          "fauve"
+        ]
+      }
+    },
+    {
+      "id": 159,
+      "breed": "Chien de Saint-Hubert",
+      "features": {
+        "origin": "Belgique",
+        "size": "62 à 68 cm",
+        "weight": "42 à 56 kgs",
+        "robe": [
+          "rouge",
+          "foie"
+        ]
+      }
+    },
+    {
+      "id": 160,
+      "breed": "Chien de Taïwan",
+      "features": {
+        "origin": "Taïwan",
+        "size": "39 à 50 cm",
+        "weight": "10 à 20 kgs",
+        "robe": [
+          "bringé",
+          "fauve",
+          "blanc",
+          "noir"
+        ]
+      }
+    },
+    {
+      "id": 170,
+      "breed": "Chihuahua",
+      "features": {
+        "origin": "Mexique",
+        "size": "8 à 23 cm",
+        "weight": "1 à 3 kgs",
+        "robe": [
+          "toutes"
+        ]
+      }
+    },
+    {
+      "id": 173,
+      "breed": "Cimarrón Uruguayo",
+      "features": {
+        "origin": "Uruguay",
+        "size": "55 à 61 cm",
+        "weight": "35 à 47 kgs",
+        "robe": [
+          "fauve",
+          "noir"
+        ]
+      }
+    },
+    {
+      "id": 174,
+      "breed": "Cirneco de l'Etna",
+      "features": {
+        "origin": "Sicile , Italie",
+        "size": "42 à 50 cm",
+        "weight": "10 à 14 kgs",
+        "robe": [
+          "fauve",
+          "blanc"
+        ]
+      }
+    },
+    {
+      "id": 175,
+      "breed": "Clumber Spaniel",
+      "features": {
+        "origin": "Royaume-Uni",
+        "size": "43 à 51 cm",
+        "weight": "27 à 36 kgs",
+        "robe": [
+          "marron",
+          "blanc"
+        ]
+      }
+    },
+    {
+      "id": 178,
+      "breed": "Cocker spaniel anglais",
+      "features": {
+        "origin": "Angleterre",
+        "size": "38 à 41 cm",
+        "weight": "14 à 16 kgs",
+        "robe": [
+          "orange",
+          "bleu",
+          "foie"
+        ]
+      }
+    },
+    {
+      "id": 179,
+      "breed": "Colley",
+      "features": {
+        "origin": "Écosse ( Royaume-Uni )",
+        "size": "51 à 61 cm",
+        "weight": "20 à 32 kgs",
+        "robe": [
+          "merle",
+          "blanc",
+          "bleu"
+        ]
+      }
+    },
+    {
+      "id": 186,
+      "breed": "Dalmatien",
+      "features": {
+        "origin": "Croatie",
+        "size": "55 à 60 cm",
+        "weight": "27 à 32 kgs",
+        "robe": [
+          "marron",
+          "blanc"
+        ]
+      }
+    },
+    {
+      "id": 190,
+      "breed": "Dobermann",
+      "features": {
+        "origin": "Allemagne",
+        "size": "63 à 72 cm",
+        "weight": "32 à 45 kgs",
+        "robe": [
+          "isabelle",
+          "marron",
+          "noir",
+          "gris"
+        ]
+      }
+    },
+    {
+      "id": 192,
+      "breed": "Dogue argentin",
+      "features": {
+        "origin": "Argentine",
+        "size": "60 à 68 cm",
+        "weight": "40 à 45 kgs",
+        "robe": [
+          "marron"
+        ]
+      }
+    },
+    {
+      "id": 193,
+      "breed": "Dogue de Bordeaux",
+      "features": {
+        "origin": "France",
+        "size": "60 à 68 cm",
+        "weight": "45 à 75 kgs",
+        "robe": [
+          "isabelle",
+          "fauve"
+        ]
+      }
+    },
+    {
+      "id": 194,
+      "breed": "Dogue de Majorque",
+      "features": {
+        "origin": "Majorque , Espagne",
+        "size": "52 à 58 cm",
+        "weight": "30 à 38 kgs",
+        "robe": [
+          "bringé",
+          "fauve",
+          "noir"
+        ]
+      }
+    },
+    {
+      "id": 195,
+      "breed": "Dogue des Canaries",
+      "features": {
+        "origin": "Espagne",
+        "size": "57 à 66 cm",
+        "weight": "40 à 57 kgs",
+        "robe": [
+          "fauve",
+          "noir"
+        ]
+      }
+    },
+    {
+      "id": 201,
+      "breed": "English Coonhound",
+      "features": {
+        "origin": "États-Unis",
+        "size": "61 à 64 cm",
+        "weight": "36 à 41 kgs",
+        "robe": [
+          "noir"
+        ]
+      }
+    },
+    {
+      "id": 203,
+      "breed": "Épagneul breton",
+      "features": {
+        "origin": "France Bretagne",
+        "size": "46 à 51 cm",
+        "weight": "14 à 20 kgs",
+        "robe": [
+          "marron",
+          "orange",
+          "noir"
+        ]
+      }
+    },
+    {
+      "id": 209,
+      "breed": "Épagneul picard",
+      "features": {
+        "origin": "France Picardie Hauts-de-France",
+        "size": "55 à 60 cm",
+        "weight": "20 à 20 kgs",
+        "robe": [
+          "marron",
+          "gris"
+        ]
+      }
+    },
+    {
+      "id": 212,
+      "breed": "Erdélyi kopó",
+      "features": {
+        "origin": "Hongrie",
+        "size": "55 à 65 cm",
+        "weight": "27 à 27 kgs",
+        "robe": [
+          "noir"
+        ]
+      }
+    },
+    {
+      "id": 213,
+      "breed": "Esquimau canadien",
+      "features": {
+        "origin": "Canada",
+        "size": "50 à 70 cm",
+        "weight": "18 à 40 kgs",
+        "robe": [
+          "rouge",
+          "blanc",
+          "noir",
+          "gris"
+        ]
+      }
+    },
+    {
+      "id": 80,
+      "breed": "Retriever à poil plat",
+      "features": {
+        "origin": "Royaume-Uni",
+        "size": "57 à 62 cm",
+        "weight": "25 à 36 kgs",
+        "robe": [
+          "foie",
+          "noir"
+        ]
+      }
+    },
+    {
+      "id": 223,
+      "breed": "Golden retriever",
+      "features": {
+        "origin": "Royaume-Uni",
+        "size": "51 à 61 cm",
+        "weight": "25 à 34 kgs",
+        "robe": [
+          "blanc",
+          "crème"
+        ]
+      }
+    },
+    {
+      "id": 240,
+      "breed": "Hokkaïdo",
+      "features": {
+        "origin": "Japon",
+        "size": "46 à 52 cm",
+        "weight": "17 à 20 kgs",
+        "robe": [
+          "bringé",
+          "rouge"
+        ]
+      }
+    },
+    {
+      "id": 243,
+      "breed": "Husky sibérien",
+      "features": {
+        "origin": "Russie",
+        "size": "51 à 60 cm",
+        "weight": "16 à 28 kgs",
+        "robe": [
+          "chocolat",
+          "sable",
+          "blanc",
+          "noir",
+          "gris"
+        ]
+      }
+    },
+    {
+      "id": 244,
+      "breed": "Jack Russell",
+      "features": {
+        "origin": "Angleterre",
+        "size": "25 à 30 cm",
+        "weight": "5 à 10 kgs",
+        "robe": [
+          "marron",
+          "blanc",
+          "noir"
+        ]
+      }
+    },
+    {
+      "id": 245,
+      "breed": "Jindo coréen",
+      "features": {
+        "origin": "Corée du Sud",
+        "size": "45 à 55 cm",
+        "weight": "15 à 23 kgs",
+        "robe": [
+          "fauve",
+          "rouge",
+          "noir",
+          "gris"
+        ]
+      }
+    },
+    {
+      "id": 253,
+      "breed": "Kooikerhondje",
+      "features": {
+        "origin": "Pays-Bas",
+        "size": "35 à 45 cm",
+        "weight": "10 à 15 kgs",
+        "robe": [
+          "orange",
+          "rouge"
+        ]
+      }
+    },
+    {
+      "id": 258,
+      "breed": "Labrador retriever",
+      "features": {
+        "origin": "Canada Royaume-Uni",
+        "size": "54 à 57 cm",
+        "weight": "30 à 35 kgs",
+        "robe": [
+          "chocolat",
+          "sable",
+          "blanc",
+          "foie"
+        ]
+      }
+    },
+    {
+      "id": 265,
+      "breed": "Landseer",
+      "features": {
+        "origin": "Royaume-Uni",
+        "size": "67 à 80 cm",
+        "weight": "50 à 70 kgs",
+        "robe": [
+          "noir",
+          "blanc"
+        ]
+      }
+    },
+    {
+      "id": 271,
+      "breed": "Lévrier Galgo",
+      "features": {
+        "origin": "Espagne",
+        "size": "60 à 70 cm",
+        "weight": "20 à 30 kgs",
+        "robe": [
+          "fauve"
+        ]
+      }
+    },
+    {
+      "id": 282,
+      "breed": "Lundehund",
+      "features": {
+        "origin": "Norvège",
+        "size": "30 à 38 cm",
+        "weight": "8 à 9 kgs",
+        "robe": [
+          "fauve"
+        ]
+      }
+    },
+    {
+      "id": 285,
+      "breed": "Malamute de l’Alaska",
+      "features": {
+        "origin": "Alaska",
+        "size": "59 à 64 cm",
+        "weight": "34 à 38 kgs",
+        "robe": [
+          "noir",
+          "gris"
+        ]
+      }
+    },
+    {
+      "id": 291,
+      "breed": "Mastiff",
+      "features": {
+        "origin": "Royaume-Uni",
+        "size": "66 à 82 cm",
+        "weight": "60 à 110 kgs",
+        "robe": [
+          "abricot",
+          "fauve",
+          "bringé"
+        ]
+      }
+    },
+    {
+      "id": 301,
+      "breed": "Norwich Terrier",
+      "features": {
+        "origin": "Grande-Bretagne",
+        "size": "24 à 26 cm",
+        "weight": "5 à 6 kgs",
+        "robe": [
+          "rouge",
+          "noir"
+        ]
+      }
+    },
+    {
+      "id": 315,
+      "breed": "Pinscher autrichien",
+      "features": {
+        "origin": "Autriche",
+        "size": "35 à 50 cm",
+        "weight": "9 à 15 kgs",
+        "robe": [
+          "fauve",
+          "jaune",
+          "noir"
+        ]
+      }
+    },
+    {
+      "id": 320,
+      "breed": "Podenco d'Ibiza",
+      "features": {
+        "origin": "Espagne",
+        "size": "60 à 72 cm",
+        "weight": "19 à 22 kgs",
+        "robe": [
+          "rouge",
+          "blanc"
+        ]
+      }
+    },
+    {
+      "id": 321,
+      "breed": "Pointer anglais",
+      "features": {
+        "origin": "Royaume-Uni",
+        "size": "61 à 69 cm",
+        "weight": "20 à 34 kgs",
+        "robe": [
+          "marron",
+          "citron",
+          "orange",
+          "blanc",
+          "noir",
+          "foie"
+        ]
+      }
+    },
+    {
+      "id": 325,
+      "breed": "Pudelpointer",
+      "features": {
+        "origin": "Allemagne",
+        "size": "55 à 68 cm",
+        "weight": "20 à 30 kgs",
+        "robe": [
+          "marron",
+          "noir"
+        ]
+      }
+    },
+    {
+      "id": 329,
+      "breed": "Rafeiro de l'Alentejo",
+      "features": {
+        "origin": "Portugal",
+        "size": "64 à 74 cm",
+        "weight": "35 à 60 kgs",
+        "robe": [
+          "fauve",
+          "jaune",
+          "noir",
+          "gris"
+        ]
+      }
+    },
+    {
+      "id": 332,
+      "breed": "Ratier de Prague",
+      "features": {
+        "origin": "Tchéquie",
+        "size": "~23 cm",
+        "weight": "2 à 3 kgs",
+        "robe": [
+          "marron",
+          "merle",
+          "rouge",
+          "jaune",
+          "noir"
+        ]
+      }
+    },
+    {
+      "id": 336,
+      "breed": "Retriever de la baie de Chesapeake",
+      "features": {
+        "origin": "États-Unis",
+        "size": "53 à 66 cm",
+        "weight": "25 à 37 kgs",
+        "robe": [
+          "marron"
+        ]
+      }
+    },
+    {
+      "id": 337,
+      "breed": "Retriever de la Nouvelle-Écosse",
+      "features": {
+        "origin": "Canada",
+        "size": "45 à 51 cm",
+        "weight": "19 à 25 kgs",
+        "robe": [
+          "orange",
+          "rouge"
+        ]
+      }
+    },
+    {
+      "id": 338,
+      "breed": "Rottweiler",
+      "features": {
+        "origin": "Allemagne",
+        "size": "50 à 65 cm",
+        "weight": "35 à 60 kgs",
+        "robe": [
+          "noir",
+          "feu"
+        ]
+      }
+    },
+    {
+      "id": 340,
+      "breed": "Saint-bernard",
+      "features": {
+        "origin": "Suisse France",
+        "size": "65 à 90 cm",
+        "weight": "51 à 100 kgs",
+        "robe": [
+          "fauve",
+          "blanc"
+        ]
+      }
+    },
+    {
+      "id": 341,
+      "breed": "Samoyède",
+      "features": {
+        "origin": "Russie",
+        "size": "~57 cm",
+        "weight": "16 à 30 kgs",
+        "robe": [
+          "blanc"
+        ]
+      }
+    },
+    {
+      "id": 342,
+      "breed": "Schapendoes néerlandais",
+      "features": {
+        "origin": "Pays-Bas",
+        "size": "45 à 50 cm",
+        "weight": "15 à 15 kgs",
+        "robe": [
+          "sable",
+          "noir"
+        ]
+      }
+    },
+    {
+      "id": 346,
+      "breed": "Sealyham Terrier",
+      "features": {
+        "origin": "Pays de Galles",
+        "size": "31 à 31 cm",
+        "weight": "9 à 9 kgs",
+        "robe": [
+          "marron",
+          "citron"
+        ]
+      }
+    },
+    {
+      "id": 347,
+      "breed": "Segugio italiano",
+      "features": {
+        "origin": "Italie",
+        "size": "48 à 58 cm",
+        "weight": "20 à 30 kgs",
+        "robe": [
+          "fauve",
+          "blanc",
+          "noir"
+        ]
+      }
+    },
+    {
+      "id": 353,
+      "breed": "Shar Pei",
+      "features": {
+        "origin": "Chine",
+        "size": "44 à 51 cm",
+        "weight": "20 à 25 kgs",
+        "robe": [
+          "fauve",
+          "merle",
+          "blanc",
+          "noir",
+          "chocolat"
+        ]
+      }
+    },
+    {
+      "id": 354,
+      "breed": "Shetland",
+      "features": {
+        "origin": "Écosse",
+        "size": "~37 cm",
+        "weight": "9 à 13 kgs",
+        "robe": [
+          "fauve",
+          "merle",
+          "blanc",
+          "noir",
+          "bleu"
+        ]
+      }
+    },
+    {
+      "id": 361,
+      "breed": "Slovensky kopov",
+      "features": {
+        "origin": "Slovaquie",
+        "size": "40 à 50 cm",
+        "weight": "17 à 22 kgs",
+        "robe": [
+          "noir",
+          "feu"
+        ]
+      }
+    },
+    {
+      "id": 362,
+      "breed": "Smous des Pays-Bas",
+      "features": {
+        "origin": "Pays-Bas",
+        "size": "35 à 42 cm",
+        "weight": "9 à 10 kgs",
+        "robe": [
+          "jaune"
+        ]
+      }
+    },
+    {
+      "id": 364,
+      "breed": "Spinone italiano",
+      "features": {
+        "origin": "Italie",
+        "size": "58 à 70 cm",
+        "weight": "30 à 39 kgs",
+        "robe": [
+          "marron",
+          "orange",
+          "blanc"
+        ]
+      }
+    },
+    {
+      "id": 366,
+      "breed": "Spitz de Norrbotten",
+      "features": {
+        "origin": "Suède",
+        "size": "42 à 45 cm",
+        "weight": "9 à 10 kgs",
+        "robe": [
+          "rouge",
+          "blanc",
+          "jaune"
+        ]
+      }
+    },
+    {
+      "id": 367,
+      "breed": "Spitz finlandais",
+      "features": {
+        "origin": "Finlande",
+        "size": "~47 cm",
+        "weight": "7 à 13 kgs",
+        "robe": [
+          "rouge",
+          "doré"
+        ]
+      }
+    },
+    {
+      "id": 369,
+      "breed": "Springer anglais",
+      "features": {
+        "origin": "Angleterre",
+        "size": "48 à 51 cm",
+        "weight": "18 à 25 kgs",
+        "robe": [
+          "foie",
+          "blanc",
+          "noir",
+          "feu"
+        ]
+      }
+    },
+    {
+      "id": 370,
+      "breed": "Staffordshire Bull Terrier",
+      "features": {
+        "origin": "Royaume-Uni",
+        "size": "36 à 41 cm",
+        "weight": "11 à 17 kgs",
+        "robe": [
+          "panaché",
+          "bringé",
+          "fauve",
+          "rouge",
+          "blanc",
+          "noir",
+          "bleu"
+        ]
+      }
+    },
+    {
+      "id": 371,
+      "breed": "Sussex Spaniel",
+      "features": {
+        "origin": "Angleterre",
+        "size": "38 à 41 cm",
+        "weight": "23 à 23 kgs",
+        "robe": [
+          "foie"
+        ]
+      }
+    },
+    {
+      "id": 374,
+      "breed": "Teckel",
+      "features": {
+        "origin": "Allemagne",
+        "size": "13 à 23 cm",
+        "weight": "5 à 15 kgs",
+        "robe": [
+          "chocolat",
+          "bringé",
+          "rouge",
+          "noir",
+          "feu"
+        ]
+      }
+    },
+    {
+      "id": 378,
+      "breed": "Terrier brésilien",
+      "features": {
+        "origin": "Brésil",
+        "size": "33 à 40 cm",
+        "weight": "10 à 10 kgs",
+        "robe": [
+          "marron",
+          "noir",
+          "bleu"
+        ]
+      }
+    },
+    {
+      "id": 379,
+      "breed": "Terrier d'agrément anglais noir et feu",
+      "features": {
+        "origin": "Angleterre",
+        "size": "25 à 30 cm",
+        "weight": "3 à 4 kgs",
+        "robe": [
+          "noir",
+          "feu"
+        ]
+      }
+    },
+    {
+      "id": 380,
+      "breed": "Terrier de Boston",
+      "features": {
+        "origin": "États-Unis",
+        "size": "23 à 28 cm",
+        "weight": "3 à 11 kgs",
+        "robe": [
+          "bringé",
+          "blanc",
+          "noir"
+        ]
+      }
+    },
+    {
+      "id": 381,
+      "breed": "Terrier de chasse allemand",
+      "features": {
+        "origin": "Allemagne",
+        "size": "33 à 40 cm",
+        "weight": "8 à 10 kgs",
+        "robe": [
+          "marron",
+          "rouge",
+          "jaune",
+          "noir",
+          "gris"
+        ]
+      }
+    },
+    {
+      "id": 383,
+      "breed": "Terrier irlandais",
+      "features": {
+        "origin": "Irlande",
+        "size": "45 à 45 cm",
+        "weight": "12 à 13 kgs",
+        "robe": [
+          "rouge",
+          "jaune"
+        ]
+      }
+    },
+    {
+      "id": 385,
+      "breed": "Terrier irlandais Glen of Imaal",
+      "features": {
+        "origin": "Irlande",
+        "size": "36 à 36 cm",
+        "weight": "16 à 16 kgs",
+        "robe": [
+          "bringé",
+          "bleu",
+          "froment"
+        ]
+      }
+    },
+    {
+      "id": 398,
+      "breed": "Welsh Corgi Cardigan",
+      "features": {
+        "origin": "Pays de Galles",
+        "size": "30 à 30 cm",
+        "weight": "14 à 17 kgs",
+        "robe": [
+          "toutes"
+        ]
+      }
+    },
+    {
+      "id": 406,
+      "breed": "Yorkshire",
+      "features": {
+        "origin": "Angleterre",
+        "size": "25 à 50 cm",
+        "weight": "4 à 4 kgs",
+        "robe": [
+          "argenté",
+          "fauve",
+          "bleu",
+          "doré"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "breeds": [
+    {
+      "id": 1,
+      "breed": "Basset hound",
+      "features": {
+        "origin": "Angleterre , Royaume-Uni France",
+        "size": "28 à 38 cm",
+        "weight": "20 à 34 kgs",
+        "robe": [
+          "toutes"
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "breed": "Bichon havanais",
+      "features": {
+        "origin": "Cuba",
+        "size": "21 à 29 cm",
+        "weight": "3 à 6 kgs",
+        "robe": [
+          "fauve clair",
+          "fauve",
+          "blanc",
+          "noir"
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "breed": "Border Collie",
+      "features": {
+        "origin": "Angleterre Écosse",
+        "size": "48 à 55 cm",
+        "weight": "17 à 30 kgs",
+        "robe": [
+          ""
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "breed": "Bouvier bernois",
+      "features": {
+        "origin": "Suisse",
+        "size": "58 à 70 cm",
+        "weight": "",
+        "robe": [
+          "noir et blanc",
+          "noir et fauve clair"
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "breed": "Braque hongrois à poil court",
+      "features": {
+        "origin": "Hongrie",
+        "size": "54 à 64 cm",
+        "weight": "18 à 30 kgs",
+        "robe": [
+          "froment doré"
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "breed": "Caniche",
+      "features": {
+        "origin": "France , Allemagne",
+        "size": "24 à 62 cm",
+        "weight": "2 à 32 kgs",
+        "robe": [
+          "noir",
+          "blanc",
+          "gris",
+          "marron",
+          "fauve"
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "breed": "Chihuahua",
+      "features": {
+        "origin": "Mexique",
+        "size": "8 à 23 cm",
+        "weight": "1 à 3 kgs",
+        "robe": [
+          "toutes"
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "breed": "Épagneul breton",
+      "features": {
+        "origin": "France Bretagne",
+        "size": "46 à 51 cm",
+        "weight": "14 à 20 kgs",
+        "robe": [
+          "marron",
+          "orange",
+          "noir"
+        ]
+      }
+    },
+    {
+      "id": 9,
+      "breed": "Golden retriever",
+      "features": {
+        "origin": "Royaume-Uni",
+        "size": "51 à 61 cm",
+        "weight": "25 à 34 kgs",
+        "robe": [
+          "blanc",
+          "crème"
+        ]
+      }
+    },
+    {
+      "id": 10,
+      "breed": "Landseer",
+      "features": {
+        "origin": "Royaume-Uni",
+        "size": "67 à 80 cm",
+        "weight": "50 à 70 kgs",
+        "robe": [
+          "noir",
+          "blanc"
+        ]
+      }
+    },
+    {
+      "id": 11,
+      "breed": "Mastiff Anglais",
+      "features": {
+        "origin": "Royaume-Uni",
+        "size": "70 à 77 cm",
+        "weight": "80 à 85 kgs",
+        "robe": [
+          "abricot",
+          "fauve",
+          "bringé"
+        ]
+      }
+    },
+    {
+      "id": 12,
+      "breed": "Pointer anglais",
+      "features": {
+        "origin": "Royaume-Uni",
+        "size": "61 à 69 cm",
+        "weight": "20 à 34 kgs",
+        "robe": [
+          "marron",
+          "citron",
+          "orange",
+          "blanc",
+          "noir",
+          "foie"
+        ]
+      }
+    },
+    {
+      "id": 13,
+      "breed": "Pudelpointer",
+      "features": {
+        "origin": "Allemagne",
+        "size": "55 à 68 cm",
+        "weight": "20 à 30 kgs",
+        "robe": [
+          "marron",
+          "noir"
+        ]
+      }
+    },
+    {
+      "id": 14,
+      "breed": "Rottweiler",
+      "features": {
+        "origin": "Allemagne",
+        "size": "50 à 65 cm",
+        "weight": "35 à 60 kgs",
+        "robe": [
+          "noir",
+          "feu"
+        ]
+      }
+    },
+    {
+      "id": 15,
+      "breed": "Springer anglais",
+      "features": {
+        "origin": "Angleterre",
+        "size": "48 à 51 cm",
+        "weight": "18 à 25 kgs",
+        "robe": [
+          "foie",
+          "blanc",
+          "noir",
+          "feu"
+        ]
+      }
+    },
+    {
+      "id": 16,
+      "breed": "Teckel",
+      "features": {
+        "origin": "Allemagne",
+        "size": "13 à 23 cm",
+        "weight": "5 à 15 kgs",
+        "robe": [
+          "chocolat",
+          "bringé",
+          "rouge",
+          "noir",
+          "feu"
+        ]
+      }
+    },
+    {
+      "id": 17,
+      "breed": "Terrier de Boston",
+      "features": {
+        "origin": "États-Unis",
+        "size": "23 à 28 cm",
+        "weight": "3 à 11 kgs",
+        "robe": [
+          "bringé",
+          "blanc",
+          "noir"
+        ]
+      }
+    }
+  ]
+}
