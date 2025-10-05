@@ -1,0 +1,10 @@
+{
+  "links_total": 407,
+  "merged_total": 385,
+  "renamed_count": 48,
+  "added_placeholders_count": 22,
+  "duplicate_ids_in_merged": [],
+  "entries_in_merged_not_in_links_count": 0,
+  "entries_in_merged_not_in_links_examples": [],
+  "output_file": "breeds_merged_aligned.json"
+}

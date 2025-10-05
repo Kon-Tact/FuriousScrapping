@@ -1,0 +1,200 @@
+{
+  "updated_count": 34,
+  "already_ok": 277,
+  "missing_in_links_count": 52,
+  "missing_in_links_examples": [
+    "Retriever à poil plat",
+    "Colley à poil long",
+    "Coonhound noir et feu",
+    "Curly Coated Retriever",
+    "Dingo",
+    "Dobermann miniature",
+    "Dogue espagnol",
+    "Dogue majorquin",
+    "Donggyeongi",
+    "English Foxhound",
+    "Épagneul de Münster",
+    "Épagneul nain continental Papillon",
+    "Épagneul nain continental Phalène",
+    "Finnish Spitz",
+    "Fox-terrier à poil dur",
+    "Fox-terrier à poil lisse",
+    "Français blanc et noir",
+    "Français blanc et orange",
+    "Français tricolore",
+    "Galgo espagnol"
+  ],
+  "changes": [
+    {
+      "breed": "Deerhound",
+      "old_id": 188,
+      "new_id": 189
+    },
+    {
+      "breed": "Dogue allemand",
+      "old_id": 198,
+      "new_id": 191
+    },
+    {
+      "breed": "Épagneul bleu de Picardie",
+      "old_id": 204,
+      "new_id": 202
+    },
+    {
+      "breed": "Épagneul de Pont-Audemer",
+      "old_id": 206,
+      "new_id": 205
+    },
+    {
+      "breed": "Eurasier",
+      "old_id": 214,
+      "new_id": 215
+    },
+    {
+      "breed": "Fila brasileiro",
+      "old_id": 215,
+      "new_id": 216
+    },
+    {
+      "breed": "Foxhound américain",
+      "old_id": 219,
+      "new_id": 220
+    },
+    {
+      "breed": "Foxhound anglais",
+      "old_id": 220,
+      "new_id": 221
+    },
+    {
+      "breed": "Grand anglo-français blanc et noir",
+      "old_id": 229,
+      "new_id": 226
+    },
+    {
+      "breed": "Grand anglo-français blanc et orange",
+      "old_id": 230,
+      "new_id": 227
+    },
+    {
+      "breed": "Grand anglo-français tricolore",
+      "old_id": 231,
+      "new_id": 228
+    },
+    {
+      "breed": "Grand basset griffon vendéen",
+      "old_id": 232,
+      "new_id": 229
+    },
+    {
+      "breed": "Grand bleu de Gascogne",
+      "old_id": 233,
+      "new_id": 230
+    },
+    {
+      "breed": "Grand griffon vendéen",
+      "old_id": 234,
+      "new_id": 232
+    },
+    {
+      "breed": "Griffon belge",
+      "old_id": 238,
+      "new_id": 233
+    },
+    {
+      "breed": "Griffon fauve de Bretagne",
+      "old_id": 241,
+      "new_id": 235
+    },
+    {
+      "breed": "Griffon nivernais",
+      "old_id": 242,
+      "new_id": 236
+    },
+    {
+      "breed": "King Charles Spaniel",
+      "old_id": 250,
+      "new_id": 249
+    },
+    {
+      "breed": "Kromfohrländer",
+      "old_id": 254,
+      "new_id": 255
+    },
+    {
+      "breed": "Kuvasz",
+      "old_id": 255,
+      "new_id": 256
+    },
+    {
+      "breed": "Laika de Sibérie occidentale",
+      "old_id": 259,
+      "new_id": 260
+    },
+    {
+      "breed": "Laika de Sibérie orientale",
+      "old_id": 260,
+      "new_id": 261
+    },
+    {
+      "breed": "Laika russo-européen",
+      "old_id": 261,
+      "new_id": 262
+    },
+    {
+      "breed": "Lakeland Terrier",
+      "old_id": 262,
+      "new_id": 263
+    },
+    {
+      "breed": "Lancashire Heeler",
+      "old_id": 263,
+      "new_id": 264
+    },
+    {
+      "breed": "Lévrier hongrois",
+      "old_id": 270,
+      "new_id": 273
+    },
+    {
+      "breed": "Lévrier irlandais",
+      "old_id": 272,
+      "new_id": 274
+    },
+    {
+      "breed": "Lévrier persan",
+      "old_id": 274,
+      "new_id": 275
+    },
+    {
+      "breed": "Lévrier whippet",
+      "old_id": 277,
+      "new_id": 279
+    },
+    {
+      "breed": "Petit basset griffon vendéen",
+      "old_id": 307,
+      "new_id": 308
+    },
+    {
+      "breed": "Petit lévrier italien",
+      "old_id": 310,
+      "new_id": 313
+    },
+    {
+      "breed": "Plott Hound",
+      "old_id": 318,
+      "new_id": 317
+    },
+    {
+      "breed": "Pointer anglais",
+      "old_id": 323,
+      "new_id": 321
+    },
+    {
+      "breed": "Poitevin",
+      "old_id": 327,
+      "new_id": 322
+    }
+  ],
+  "output_file": "breeds_merged_with_global_ids.json"
+}

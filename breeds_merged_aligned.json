@@ -142,6 +142,32 @@
       "alias": []
     },
     {
+      "id": 7,
+      "breed": "Alaskan Husky",
+      "alias": [],
+      "features": {
+        "origin": [
+          "États-Unis",
+          "Alaska"
+        ],
+        "type": [
+          "Spitz",
+          "Nordique"
+        ],
+        "robe": [
+          "noir",
+          "gris",
+          "blanc",
+          "roux",
+          "crème"
+        ],
+        "size": "55 à 70 cm",
+        "weight": "18 à 34 kgs",
+        "poil": "moyen",
+        "energy": "sportif"
+      }
+    },
+    {
       "id": 8,
       "breed": "Alaskan Klee Kai",
       "features": {
@@ -251,6 +277,30 @@
         ]
       },
       "alias": []
+    },
+    {
+      "id": 13,
+      "breed": "American Hairless Terrier",
+      "alias": [],
+      "features": {
+        "origin": [
+          "États-Unis"
+        ],
+        "type": [
+          "Terrier"
+        ],
+        "robe": [
+          "rose et taches de couleur",
+          "bleu",
+          "noir",
+          "rouge",
+          "abricot"
+        ],
+        "size": "25 à 46 cm",
+        "weight": "5 à 11 kgs",
+        "poil": "ras",
+        "energy": "joueur"
+      }
     },
     {
       "id": 14,
@@ -510,6 +560,30 @@
       "alias": []
     },
     {
+      "id": 25,
+      "breed": "Barbu tchèque",
+      "alias": [
+        "Český Fousek"
+      ],
+      "features": {
+        "origin": [
+          "Tchéquie"
+        ],
+        "type": [
+          "Chien d'arrêt"
+        ],
+        "robe": [
+          "marron",
+          "rouan brun",
+          "gris"
+        ],
+        "size": "58 à 66 cm",
+        "weight": "25 à 34 kgs",
+        "poil": "moyen",
+        "energy": "sportif"
+      }
+    },
+    {
       "id": 26,
       "breed": "Barzoï",
       "features": {
@@ -717,6 +791,30 @@
       "alias": []
     },
     {
+      "id": 35,
+      "breed": "Beauceron",
+      "alias": [
+        "Berger de Beauce",
+        "Bas-Rouge"
+      ],
+      "features": {
+        "origin": [
+          "France"
+        ],
+        "type": [
+          "Berger"
+        ],
+        "robe": [
+          "noir et feu",
+          "harlequin (bleu et feu)"
+        ],
+        "size": "61 à 70 cm",
+        "weight": "30 à 45 kgs",
+        "poil": "court",
+        "energy": "sportif"
+      }
+    },
+    {
       "id": 36,
       "breed": "Bedlington terrier",
       "features": {
@@ -893,6 +991,31 @@
       "alias": []
     },
     {
+      "id": 44,
+      "breed": "Berger bulgare",
+      "alias": [
+        "Karakatchan"
+      ],
+      "features": {
+        "origin": [
+          "Bulgarie"
+        ],
+        "type": [
+          "Molossoïdes",
+          "Montagne"
+        ],
+        "robe": [
+          "blanc",
+          "noir et blanc",
+          "fauve"
+        ],
+        "size": "60 à 75 cm",
+        "weight": "35 à 55 kgs",
+        "poil": "long",
+        "energy": "calme"
+      }
+    },
+    {
       "id": 45,
       "breed": "Berger croate",
       "features": {
@@ -959,6 +1082,28 @@
         ]
       },
       "alias": []
+    },
+    {
+      "id": 48,
+      "breed": "Berger de Bohême",
+      "alias": [
+        "Chodský pes"
+      ],
+      "features": {
+        "origin": [
+          "Tchéquie"
+        ],
+        "type": [
+          "Berger"
+        ],
+        "robe": [
+          "noir et feu"
+        ],
+        "size": "48 à 55 cm",
+        "weight": "16 à 25 kgs",
+        "poil": "long",
+        "energy": "sportif"
+      }
     },
     {
       "id": 49,
@@ -1664,24 +1809,21 @@
     },
     {
       "id": 80,
-      "breed": "Retriever à poil plat",
+      "breed": "Bouvier australien courte queue",
       "features": {
         "origin": [
-          "Royaume-Uni",
           "Australie"
         ],
-        "size": "57 à 62 cm",
-        "weight": "25 à 36 kgs",
+        "size": "43 à 51 cm",
+        "weight": "16 à 23 kgs",
         "robe": [
-          "foie",
-          "noir",
           "bleu truité",
           "rouge truité"
         ],
-        "poil": "Long",
+        "poil": "Court",
         "energy": "Sportif",
         "type": [
-          "Retriever",
+          "Bouvier",
           "Berger"
         ]
       },
@@ -1697,7 +1839,7 @@
           "Suisse"
         ],
         "size": "58 à 70 cm",
-        "weight": "",
+        "weight": "42 à 62 kgs",
         "robe": [
           "noir",
           "blanc",
@@ -2340,7 +2482,7 @@
     },
     {
       "id": 110,
-      "breed": "Cane corso",
+      "breed": "Cane Corso",
       "features": {
         "origin": [
           "Italie"
@@ -2385,6 +2527,32 @@
         ]
       },
       "alias": []
+    },
+    {
+      "id": 112,
+      "breed": "Cão de gado transmontano",
+      "alias": [
+        "Mâtin du Trás-os-Montes"
+      ],
+      "features": {
+        "origin": [
+          "Portugal"
+        ],
+        "type": [
+          "Molossoïdes",
+          "Montagne"
+        ],
+        "robe": [
+          "fauve",
+          "gris",
+          "noir et blanc",
+          "bringé"
+        ],
+        "size": "65 à 75 cm",
+        "weight": "45 à 65 kgs",
+        "poil": "moyen",
+        "energy": "calme"
+      }
     },
     {
       "id": 113,
@@ -2452,6 +2620,31 @@
         ]
       },
       "alias": []
+    },
+    {
+      "id": 116,
+      "breed": "Catahoula Bulldog",
+      "alias": [],
+      "features": {
+        "origin": [
+          "États-Unis"
+        ],
+        "type": [
+          "Molossoïdes",
+          "Dogue"
+        ],
+        "robe": [
+          "merle",
+          "blanc",
+          "noir",
+          "brun",
+          "fauve"
+        ],
+        "size": "55 à 66 cm",
+        "weight": "30 à 45 kgs",
+        "poil": "court",
+        "energy": "sportif"
+      }
     },
     {
       "id": 117,
@@ -3045,6 +3238,29 @@
       ]
     },
     {
+      "id": 143,
+      "breed": "Chien d'ours de Carélie",
+      "alias": [
+        "Karelian Bear Dog"
+      ],
+      "features": {
+        "origin": [
+          "Finlande"
+        ],
+        "type": [
+          "Spitz",
+          "Nordique"
+        ],
+        "robe": [
+          "noir et blanc"
+        ],
+        "size": "49 à 60 cm",
+        "weight": "20 à 28 kgs",
+        "poil": "moyen",
+        "energy": "sportif"
+      }
+    },
+    {
       "id": 144,
       "breed": "Chien de berger Kangal",
       "features": {
@@ -3171,6 +3387,28 @@
       "alias": []
     },
     {
+      "id": 149,
+      "breed": "Chien de Castro Laboreiro",
+      "alias": [],
+      "features": {
+        "origin": [
+          "Portugal"
+        ],
+        "type": [
+          "Molossoïdes",
+          "Montagne"
+        ],
+        "robe": [
+          "fauve charbonné",
+          "gris loup"
+        ],
+        "size": "55 à 65 cm",
+        "weight": "25 à 40 kgs",
+        "poil": "court",
+        "energy": "sportif"
+      }
+    },
+    {
       "id": 150,
       "breed": "Chien de ferme dano-suédois",
       "features": {
@@ -3253,8 +3491,7 @@
       "breed": "Chien de Majorado",
       "features": {
         "origin": [
-          "Espagne",
-          "Îles Canaries"
+          "Espagne"
         ],
         "size": "53 à 65 cm",
         "weight": "25 à 45 kgs",
@@ -3529,6 +3766,31 @@
       "alias": [
         "Brandlbracke"
       ]
+    },
+    {
+      "id": 165,
+      "breed": "Chien nu du Pérou",
+      "alias": [
+        "Peruvian Inca Orchid"
+      ],
+      "features": {
+        "origin": [
+          "Pérou"
+        ],
+        "type": [
+          "Chiens nus"
+        ],
+        "robe": [
+          "gris",
+          "noir",
+          "bronze",
+          "rosé avec taches"
+        ],
+        "size": "25 à 65 cm (3 variétés : petite, moyenne, grande)",
+        "weight": "4 à 25 kgs",
+        "poil": "ras",
+        "energy": "joueur"
+      }
     },
     {
       "id": 166,
@@ -3874,49 +4136,53 @@
     },
     {
       "id": 181,
-      "breed": "Colley à poil long",
+      "breed": "Colley barbu",
+      "alias": [
+        "Bearded Collie",
+        "Beardy"
+      ],
       "features": {
         "origin": [
-          "Royaume-Uni"
+          "Royaume-Uni",
+          "Écosse"
         ],
-        "size": "51 à 61 cm",
-        "weight": "18 à 30 kgs",
-        "robe": [
-          "sable",
-          "tricolore",
-          "bleu merle"
-        ],
-        "poil": "long",
-        "energy": "sportif",
         "type": [
           "Berger"
-        ]
-      },
-      "alias": [
-        "Rough Collie"
-      ]
+        ],
+        "robe": [
+          "fauve",
+          "noir",
+          "bleu",
+          "brun",
+          "avec blanc"
+        ],
+        "size": "51 à 56 cm",
+        "weight": "18 à 27 kgs",
+        "poil": "long",
+        "energy": "sportif"
+      }
     },
     {
       "id": 182,
-      "breed": "Coonhound noir et feu",
+      "breed": "Coonhound noir et beige",
+      "alias": [
+        "Black and Tan Coonhound"
+      ],
       "features": {
         "origin": [
           "États-Unis"
         ],
-        "size": "58 à 69 cm",
-        "weight": "25 à 36 kgs",
+        "type": [
+          "Chien courant"
+        ],
         "robe": [
           "noir et feu"
         ],
+        "size": "58 à 69 cm",
+        "weight": "25 à 36 kgs",
         "poil": "court",
-        "energy": "sportif",
-        "type": [
-          "Chien courant"
-        ]
-      },
-      "alias": [
-        "Black and Tan Coonhound"
-      ]
+        "energy": "sportif"
+      }
     },
     {
       "id": 183,
@@ -3942,32 +4208,36 @@
     },
     {
       "id": 184,
-      "breed": "Curly Coated Retriever",
+      "breed": "Cretan Hound",
+      "alias": [
+        "Chien de Crète"
+      ],
       "features": {
         "origin": [
-          "Royaume-Uni"
+          "Grèce"
         ],
-        "size": "58 à 69 cm",
-        "weight": "25 à 40 kgs",
-        "robe": [
-          "noir",
-          "foie"
-        ],
-        "poil": "moyen",
-        "energy": "sportif",
         "type": [
-          "Retriever"
-        ]
-      },
-      "alias": []
+          "Lévrier"
+        ],
+        "robe": [
+          "crème",
+          "fauve",
+          "blanc",
+          "noir",
+          "bringé"
+        ],
+        "size": "53 à 60 cm",
+        "weight": "20 à 30 kgs",
+        "poil": "court",
+        "energy": "sportif"
+      }
     },
     {
       "id": 185,
       "breed": "Cursinu",
       "features": {
         "origin": [
-          "France",
-          "Corse"
+          "France"
         ],
         "size": "46 à 58 cm",
         "weight": "20 à 28 kgs",
@@ -4029,49 +4299,51 @@
     },
     {
       "id": 188,
+      "breed": "Decker Terrier",
+      "alias": [
+        "Decker Rat Terrier"
+      ],
+      "features": {
+        "origin": [
+          "États-Unis"
+        ],
+        "type": [
+          "Terrier"
+        ],
+        "robe": [
+          "noir et blanc",
+          "rouge",
+          "chocolat",
+          "tricolore"
+        ],
+        "size": "33 à 40 cm",
+        "weight": "7 à 12 kgs",
+        "poil": "court",
+        "energy": "sportif"
+      }
+    },
+    {
+      "id": 189,
       "breed": "Deerhound",
+      "alias": [
+        "Lévrier écossais"
+      ],
       "features": {
         "origin": [
           "Écosse"
         ],
-        "size": "71 à 81 cm",
-        "weight": "34 à 50 kgs",
+        "type": [
+          "Lévrier"
+        ],
         "robe": [
           "gris",
           "bleu gris"
         ],
+        "size": "71 à 81 cm",
+        "weight": "34 à 50 kgs",
         "poil": "long",
-        "energy": "sportif",
-        "type": [
-          "Lévrier"
-        ]
-      },
-      "alias": [
-        "Lévrier écossais"
-      ]
-    },
-    {
-      "id": 189,
-      "breed": "Dingo",
-      "features": {
-        "origin": [
-          "Australie"
-        ],
-        "size": "47 à 67 cm",
-        "weight": "13 à 20 kgs",
-        "robe": [
-          "fauve",
-          "roux",
-          "blanc",
-          "sable"
-        ],
-        "poil": "court",
-        "energy": "sportif",
-        "type": [
-          "Primitif"
-        ]
-      },
-      "alias": []
+        "energy": "sportif"
+      }
     },
     {
       "id": 190,
@@ -4100,26 +4372,29 @@
     },
     {
       "id": 191,
-      "breed": "Dobermann miniature",
+      "breed": "Dogue allemand",
       "features": {
         "origin": [
           "Allemagne"
         ],
-        "size": "25 à 32 cm",
-        "weight": "4 à 6 kgs",
+        "size": "71 à 86 cm",
+        "weight": "45 à 90 kgs",
         "robe": [
-          "noir et feu",
-          "chocolat",
-          "rouge"
+          "fauve",
+          "bringé",
+          "arlequin",
+          "bleu",
+          "noir"
         ],
-        "poil": "ras",
-        "energy": "joueur",
+        "poil": "court",
+        "energy": "calme",
         "type": [
-          "Pinscher"
+          "Molossoïdes",
+          "Dogue"
         ]
       },
       "alias": [
-        "Pinscher nain"
+        "Grand Danois"
       ]
     },
     {
@@ -4244,100 +4519,93 @@
     },
     {
       "id": 197,
-      "breed": "Dogue espagnol",
-      "features": {
-        "origin": [
-          "Espagne"
-        ],
-        "size": "72 à 88 cm",
-        "weight": "50 à 70 kgs",
-        "robe": [
-          "fauve",
-          "rouge",
-          "bringé",
-          "gris"
-        ],
-        "poil": "court",
-        "energy": "calme",
-        "type": [
-          "Molossoïdes",
-          "Dogue"
-        ]
-      },
-      "alias": []
-    },
-    {
-      "id": 198,
-      "breed": "Dogue allemand",
+      "breed": "Drahthaar",
+      "alias": [
+        "Deutsch-Drahthaar",
+        "German Wirehaired Pointer"
+      ],
       "features": {
         "origin": [
           "Allemagne"
         ],
-        "size": "71 à 86 cm",
-        "weight": "45 à 90 kgs",
+        "type": [
+          "Chien d'arrêt"
+        ],
+        "robe": [
+          "marron",
+          "blanc et marron",
+          "rouan marron"
+        ],
+        "size": "57 à 68 cm",
+        "weight": "25 à 34 kgs",
+        "poil": "moyen",
+        "energy": "sportif"
+      }
+    },
+    {
+      "id": 198,
+      "breed": "Drever",
+      "alias": [],
+      "features": {
+        "origin": [
+          "Suède"
+        ],
+        "type": [
+          "Chien courant"
+        ],
         "robe": [
           "fauve",
-          "bringé",
-          "arlequin",
-          "bleu",
-          "noir"
+          "noir et blanc",
+          "tricolore"
         ],
+        "size": "30 à 38 cm",
+        "weight": "14 à 16 kgs",
         "poil": "court",
-        "energy": "calme",
-        "type": [
-          "Molossoïdes",
-          "Dogue"
-        ]
-      },
-      "alias": [
-        "Grand Danois"
-      ]
+        "energy": "sportif"
+      }
     },
     {
       "id": 199,
-      "breed": "Dogue majorquin",
+      "breed": "Dunker",
+      "alias": [
+        "Chien courant norvégien"
+      ],
       "features": {
         "origin": [
-          "Espagne"
+          "Norvège"
         ],
-        "size": "52 à 58 cm",
-        "weight": "30 à 38 kgs",
-        "robe": [
-          "fauve",
-          "bringé",
-          "noir"
-        ],
-        "poil": "court",
-        "energy": "calme",
         "type": [
-          "Molossoïdes",
-          "Dogue"
-        ]
-      },
-      "alias": []
+          "Chien courant"
+        ],
+        "robe": [
+          "bleu merle",
+          "tricolore"
+        ],
+        "size": "50 à 55 cm",
+        "weight": "20 à 25 kgs",
+        "poil": "court",
+        "energy": "sportif"
+      }
     },
     {
       "id": 200,
-      "breed": "Donggyeongi",
+      "breed": "Elo",
+      "alias": [],
       "features": {
         "origin": [
-          "Corée du Sud"
+          "Allemagne"
         ],
-        "size": "40 à 55 cm",
-        "weight": "12 à 18 kgs",
-        "robe": [
-          "fauve",
-          "crème",
-          "noir"
-        ],
-        "poil": "court",
-        "energy": "joueur",
         "type": [
-          "Spitz",
-          "Nordique"
-        ]
-      },
-      "alias": []
+          "Spitz"
+        ],
+        "robe": [
+          "toutes couleurs"
+        ],
+        "size": "40 à 60 cm",
+        "weight": "10 à 35 kgs",
+        "poil": "moyen",
+        "energy": "joueur"
+      }
     },
     {
       "id": 201,
@@ -4363,21 +4631,21 @@
     },
     {
       "id": 202,
-      "breed": "English Foxhound",
+      "breed": "Épagneul bleu de Picardie",
       "features": {
         "origin": [
-          "Royaume-Uni"
+          "France"
         ],
-        "size": "58 à 64 cm",
-        "weight": "25 à 34 kgs",
+        "size": "56 à 60 cm",
+        "weight": "20 à 23 kgs",
         "robe": [
-          "tricolore",
-          "blanc et fauve"
+          "bleu gris moucheté",
+          "noir"
         ],
-        "poil": "court",
+        "poil": "long",
         "energy": "sportif",
         "type": [
-          "Chien courant"
+          "Spaniel"
         ]
       },
       "alias": []
@@ -4406,50 +4674,29 @@
     },
     {
       "id": 204,
-      "breed": "Épagneul bleu de Picardie",
+      "breed": "Épagneul d'eau irlandais",
+      "alias": [
+        "Irish Water Spaniel"
+      ],
       "features": {
         "origin": [
-          "France"
+          "Irlande"
         ],
-        "size": "56 à 60 cm",
-        "weight": "20 à 23 kgs",
-        "robe": [
-          "bleu gris moucheté",
-          "noir"
-        ],
-        "poil": "long",
-        "energy": "sportif",
         "type": [
           "Spaniel"
-        ]
-      },
-      "alias": []
+        ],
+        "robe": [
+          "foie",
+          "brun foncé"
+        ],
+        "size": "53 à 59 cm",
+        "weight": "20 à 30 kgs",
+        "poil": "bouclé",
+        "energy": "sportif"
+      }
     },
     {
       "id": 205,
-      "breed": "Épagneul de Münster",
-      "features": {
-        "origin": [
-          "Allemagne"
-        ],
-        "size": "52 à 61 cm",
-        "weight": "18 à 27 kgs",
-        "robe": [
-          "marron",
-          "blanc et marron"
-        ],
-        "poil": "long",
-        "energy": "sportif",
-        "type": [
-          "Spaniel"
-        ]
-      },
-      "alias": [
-        "Petit Münsterländer"
-      ]
-    },
-    {
-      "id": 206,
       "breed": "Épagneul de Pont-Audemer",
       "features": {
         "origin": [
@@ -4468,6 +4715,27 @@
         ]
       },
       "alias": []
+    },
+    {
+      "id": 206,
+      "breed": "Épagneul de Saint-Usuge",
+      "alias": [],
+      "features": {
+        "origin": [
+          "France"
+        ],
+        "type": [
+          "Chien d'arrêt"
+        ],
+        "robe": [
+          "marron",
+          "blanc et marron"
+        ],
+        "size": "45 à 55 cm",
+        "weight": "16 à 25 kgs",
+        "poil": "moyen",
+        "energy": "sportif"
+      }
     },
     {
       "id": 207,
@@ -4536,53 +4804,53 @@
     },
     {
       "id": 210,
-      "breed": "Épagneul nain continental Papillon",
+      "breed": "Épagneul russe",
+      "alias": [
+        "Russian Spaniel"
+      ],
       "features": {
         "origin": [
-          "France",
-          "Belgique"
+          "Russie"
         ],
-        "size": "20 à 28 cm",
-        "weight": "3 à 5 kgs",
-        "robe": [
-          "blanc et fauve",
-          "blanc et noir",
-          "tricolore"
-        ],
-        "poil": "long",
-        "energy": "joueur",
         "type": [
-          "Chiens d'agrément"
-        ]
-      },
-      "alias": [
-        "Papillon"
-      ]
+          "Spaniel"
+        ],
+        "robe": [
+          "noir",
+          "foie",
+          "particolore"
+        ],
+        "size": "38 à 45 cm",
+        "weight": "12 à 18 kgs",
+        "poil": "moyen",
+        "energy": "sportif"
+      }
     },
     {
       "id": 211,
-      "breed": "Épagneul nain continental Phalène",
+      "breed": "Épagneul tibétain",
+      "alias": [
+        "Tibetan Spaniel"
+      ],
       "features": {
         "origin": [
-          "France",
-          "Belgique"
+          "Tibet"
         ],
-        "size": "20 à 28 cm",
-        "weight": "3 à 5 kgs",
-        "robe": [
-          "blanc et fauve",
-          "blanc et noir",
-          "tricolore"
-        ],
-        "poil": "long",
-        "energy": "joueur",
         "type": [
           "Chiens d'agrément"
-        ]
-      },
-      "alias": [
-        "Phalène"
-      ]
+        ],
+        "robe": [
+          "fauve",
+          "noir",
+          "blanc",
+          "or",
+          "sable"
+        ],
+        "size": "24 à 25 cm",
+        "weight": "4 à 7 kgs",
+        "poil": "long",
+        "energy": "joueur"
+      }
     },
     {
       "id": 212,
@@ -4637,6 +4905,28 @@
     },
     {
       "id": 214,
+      "breed": "Estonian Hound",
+      "alias": [
+        "Chien courant estonien"
+      ],
+      "features": {
+        "origin": [
+          "Estonie"
+        ],
+        "type": [
+          "Chien courant"
+        ],
+        "robe": [
+          "tricolore (noir, blanc, feu)"
+        ],
+        "size": "42 à 52 cm",
+        "weight": "15 à 20 kgs",
+        "poil": "court",
+        "energy": "sportif"
+      }
+    },
+    {
+      "id": 215,
       "breed": "Eurasier",
       "features": {
         "origin": [
@@ -4660,98 +4950,96 @@
       "alias": []
     },
     {
-      "id": 215,
-      "breed": "Fila brasileiro",
+      "id": 216,
+      "breed": "Fila Brasileiro",
+      "alias": [],
       "features": {
         "origin": [
           "Brésil"
         ],
-        "size": "60 à 75 cm",
-        "weight": "40 à 80 kgs",
+        "type": [
+          "Molossoïdes",
+          "Dogue"
+        ],
         "robe": [
           "fauve",
           "bringé",
           "noir"
         ],
+        "size": "60 à 75 cm",
+        "weight": "40 à 80 kgs",
         "poil": "court",
-        "energy": "calme",
-        "type": [
-          "Molossoïdes",
-          "Dogue"
-        ]
-      },
-      "alias": []
-    },
-    {
-      "id": 216,
-      "breed": "Finnish Spitz",
-      "features": {
-        "origin": [
-          "Finlande"
-        ],
-        "size": "39 à 50 cm",
-        "weight": "7 à 13 kgs",
-        "robe": [
-          "roux",
-          "doré"
-        ],
-        "poil": "moyen",
-        "energy": "sportif",
-        "type": [
-          "Spitz",
-          "Nordique"
-        ]
-      },
-      "alias": [
-        "Spitz finlandais"
-      ]
+        "energy": "calme"
+      }
     },
     {
       "id": 217,
-      "breed": "Fox-terrier à poil dur",
+      "breed": "Fila de São Miguel",
+      "alias": [
+        "Cão de Fila de São Miguel"
+      ],
       "features": {
         "origin": [
-          "Royaume-Uni"
+          "Portugal"
         ],
-        "size": "35 à 39 cm",
-        "weight": "7 à 9 kgs",
-        "robe": [
-          "blanc",
-          "blanc et noir",
-          "blanc et fauve"
-        ],
-        "poil": "moyen",
-        "energy": "sportif",
         "type": [
-          "Terrier"
-        ]
-      },
-      "alias": []
+          "Bouvier"
+        ],
+        "robe": [
+          "bringé"
+        ],
+        "size": "48 à 60 cm",
+        "weight": "25 à 41 kgs",
+        "poil": "court",
+        "energy": "sportif"
+      }
     },
     {
       "id": 218,
-      "breed": "Fox-terrier à poil lisse",
+      "breed": "Flat-Coated Retriever",
+      "alias": ["Retriever à poil plat"],
       "features": {
         "origin": [
           "Royaume-Uni"
         ],
-        "size": "35 à 39 cm",
-        "weight": "7 à 9 kgs",
-        "robe": [
-          "blanc",
-          "blanc et noir",
-          "blanc et fauve"
-        ],
-        "poil": "court",
-        "energy": "sportif",
         "type": [
-          "Terrier"
-        ]
-      },
-      "alias": []
+          "Retriever"
+        ],
+        "robe": [
+          "noir",
+          "foie"
+        ],
+        "size": "56 à 61 cm",
+        "weight": "25 à 36 kgs",
+        "poil": "moyen",
+        "energy": "sportif"
+      }
     },
     {
       "id": 219,
+      "breed": "Fox-terrier",
+      "alias": [
+        "Fox Terrier lisse",
+        "Fox Terrier à poil dur"
+      ],
+      "features": {
+        "origin": [
+          "Royaume-Uni"
+        ],
+        "type": [
+          "Terrier"
+        ],
+        "robe": [
+          "blanc avec taches noires ou feu"
+        ],
+        "size": "36 à 39 cm",
+        "weight": "7 à 9 kgs",
+        "poil": "court",
+        "energy": "joueur"
+      }
+    },
+    {
+      "id": 220,
       "breed": "Foxhound américain",
       "features": {
         "origin": [
@@ -4772,65 +5060,53 @@
       "alias": []
     },
     {
-      "id": 220,
+      "id": 221,
       "breed": "Foxhound anglais",
+      "alias": [
+        "English Foxhound"
+      ],
       "features": {
         "origin": [
           "Royaume-Uni"
         ],
-        "size": "58 à 64 cm",
-        "weight": "25 à 34 kgs",
+        "type": [
+          "Chien courant"
+        ],
         "robe": [
           "tricolore",
           "blanc et fauve"
         ],
+        "size": "58 à 64 cm",
+        "weight": "25 à 34 kgs",
         "poil": "court",
-        "energy": "sportif",
-        "type": [
-          "Chien courant"
-        ]
-      },
-      "alias": []
-    },
-    {
-      "id": 221,
-      "breed": "Français blanc et noir",
-      "features": {
-        "origin": [
-          "France"
-        ],
-        "size": "60 à 72 cm",
-        "weight": "30 à 35 kgs",
-        "robe": [
-          "blanc et noir"
-        ],
-        "poil": "court",
-        "energy": "sportif",
-        "type": [
-          "Chien courant"
-        ]
-      },
-      "alias": []
+        "energy": "sportif"
+      }
     },
     {
       "id": 222,
-      "breed": "Français blanc et orange",
+      "breed": "Georgian Shepherd",
+      "alias": [
+        "Chien de montagne géorgien"
+      ],
       "features": {
         "origin": [
-          "France"
+          "Géorgie"
         ],
-        "size": "60 à 70 cm",
-        "weight": "30 à 35 kgs",
-        "robe": [
-          "blanc et orange"
-        ],
-        "poil": "court",
-        "energy": "sportif",
         "type": [
-          "Chien courant"
-        ]
-      },
-      "alias": []
+          "Molossoïdes",
+          "Montagne"
+        ],
+        "robe": [
+          "blanc",
+          "fauve",
+          "noir",
+          "bringé"
+        ],
+        "size": "65 à 85 cm",
+        "weight": "40 à 70 kgs",
+        "poil": "long",
+        "energy": "calme"
+      }
     },
     {
       "id": 223,
@@ -4855,115 +5131,52 @@
     },
     {
       "id": 224,
-      "breed": "Français tricolore",
-      "features": {
-        "origin": [
-          "France"
-        ],
-        "size": "60 à 70 cm",
-        "weight": "30 à 35 kgs",
-        "robe": [
-          "tricolore"
-        ],
-        "poil": "court",
-        "energy": "sportif",
-        "type": [
-          "Chien courant"
-        ]
-      },
-      "alias": []
-    },
-    {
-      "id": 225,
-      "breed": "Galgo espagnol",
+      "breed": "Gos d'Atura Català",
+      "alias": [
+        "Berger catalan"
+      ],
       "features": {
         "origin": [
           "Espagne"
         ],
-        "size": "60 à 70 cm",
-        "weight": "25 à 30 kgs",
+        "type": [
+          "Berger"
+        ],
         "robe": [
           "fauve",
-          "bringé",
-          "noir",
-          "blanc"
+          "gris",
+          "bringé"
         ],
-        "poil": "court",
-        "energy": "sportif",
-        "type": [
-          "Lévrier"
-        ]
-      },
+        "size": "45 à 55 cm",
+        "weight": "16 à 25 kgs",
+        "poil": "long",
+        "energy": "sportif"
+      }
+    },
+    {
+      "id": 225,
+      "breed": "Gotland Hound",
       "alias": [
-        "Lévrier espagnol"
-      ]
+        "Gotlandsstövare"
+      ],
+      "features": {
+        "origin": [
+          "Suède"
+        ],
+        "type": [
+          "Chien courant"
+        ],
+        "robe": [
+          "tricolore"
+        ],
+        "size": "45 à 53 cm",
+        "weight": "13 à 18 kgs",
+        "poil": "court",
+        "energy": "sportif"
+      }
     },
     {
       "id": 226,
-      "breed": "Glen of Imaal Terrier",
-      "features": {
-        "origin": [
-          "Irlande"
-        ],
-        "size": "32 à 35 cm",
-        "weight": "14 à 16 kgs",
-        "robe": [
-          "bleu",
-          "blé",
-          "bringé"
-        ],
-        "poil": "moyen",
-        "energy": "joueur",
-        "type": [
-          "Terrier"
-        ]
-      },
-      "alias": []
-    },
-    {
-      "id": 227,
-      "breed": "Golden Retriever à poil ondulé",
-      "features": {
-        "origin": [
-          "Royaume-Uni"
-        ],
-        "size": "51 à 61 cm",
-        "weight": "25 à 34 kgs",
-        "robe": [
-          "doré",
-          "crème"
-        ],
-        "poil": "long",
-        "energy": "sportif",
-        "type": [
-          "Retriever"
-        ]
-      },
-      "alias": []
-    },
-    {
-      "id": 228,
-      "breed": "Golden Retriever à poil plat",
-      "features": {
-        "origin": [
-          "Royaume-Uni"
-        ],
-        "size": "51 à 61 cm",
-        "weight": "25 à 34 kgs",
-        "robe": [
-          "doré",
-          "crème"
-        ],
-        "poil": "moyen",
-        "energy": "sportif",
-        "type": [
-          "Retriever"
-        ]
-      },
-      "alias": []
-    },
-    {
-      "id": 229,
       "breed": "Grand anglo-français blanc et noir",
       "features": {
         "origin": [
@@ -4983,7 +5196,7 @@
       "alias": []
     },
     {
-      "id": 230,
+      "id": 227,
       "breed": "Grand anglo-français blanc et orange",
       "features": {
         "origin": [
@@ -5003,7 +5216,7 @@
       "alias": []
     },
     {
-      "id": 231,
+      "id": 228,
       "breed": "Grand anglo-français tricolore",
       "features": {
         "origin": [
@@ -5023,7 +5236,7 @@
       "alias": []
     },
     {
-      "id": 232,
+      "id": 229,
       "breed": "Grand basset griffon vendéen",
       "features": {
         "origin": [
@@ -5045,8 +5258,8 @@
       "alias": []
     },
     {
-      "id": 233,
-      "breed": "Grand bleu de Gascogne",
+      "id": 230,
+      "breed": "Grand Bleu de Gascogne",
       "features": {
         "origin": [
           "France"
@@ -5066,7 +5279,30 @@
       "alias": []
     },
     {
-      "id": 234,
+      "id": 231,
+      "breed": "Grand bouvier suisse",
+      "alias": [
+        "Greater Swiss Mountain Dog"
+      ],
+      "features": {
+        "origin": [
+          "Suisse"
+        ],
+        "type": [
+          "Molossoïdes",
+          "Montagne"
+        ],
+        "robe": [
+          "noir, blanc et feu"
+        ],
+        "size": "60 à 72 cm",
+        "weight": "50 à 70 kgs",
+        "poil": "court",
+        "energy": "calme"
+      }
+    },
+    {
+      "id": 232,
       "breed": "Grand griffon vendéen",
       "features": {
         "origin": [
@@ -5088,73 +5324,7 @@
       "alias": []
     },
     {
-      "id": 235,
-      "breed": "Grand münsterländer",
-      "features": {
-        "origin": [
-          "Allemagne"
-        ],
-        "size": "58 à 65 cm",
-        "weight": "25 à 30 kgs",
-        "robe": [
-          "noir et blanc"
-        ],
-        "poil": "long",
-        "energy": "sportif",
-        "type": [
-          "Chien d'arrêt"
-        ]
-      },
-      "alias": []
-    },
-    {
-      "id": 236,
-      "breed": "Grand noir du Berry",
-      "features": {
-        "origin": [
-          "France"
-        ],
-        "size": "60 à 70 cm",
-        "weight": "30 à 35 kgs",
-        "robe": [
-          "noir et feu"
-        ],
-        "poil": "court",
-        "energy": "sportif",
-        "type": [
-          "Chien courant"
-        ]
-      },
-      "alias": []
-    },
-    {
-      "id": 237,
-      "breed": "Greyhound",
-      "features": {
-        "origin": [
-          "Royaume-Uni"
-        ],
-        "size": "68 à 76 cm",
-        "weight": "27 à 40 kgs",
-        "robe": [
-          "fauve",
-          "noir",
-          "blanc",
-          "bleu",
-          "bringé"
-        ],
-        "poil": "ras",
-        "energy": "sportif",
-        "type": [
-          "Lévrier"
-        ]
-      },
-      "alias": [
-        "Lévrier anglais"
-      ]
-    },
-    {
-      "id": 238,
+      "id": 233,
       "breed": "Griffon belge",
       "features": {
         "origin": [
@@ -5176,25 +5346,136 @@
       "alias": []
     },
     {
-      "id": 239,
-      "breed": "Griffon bruxellois",
+      "id": 234,
+      "breed": "Griffon bleu de Gascogne",
+      "alias": [],
       "features": {
         "origin": [
-          "Belgique"
+          "France"
         ],
-        "size": "18 à 22 cm",
-        "weight": "3 à 6 kgs",
+        "type": [
+          "Chien courant"
+        ],
         "robe": [
-          "roux",
-          "noir et feu"
+          "bleu truité",
+          "noir et blanc"
+        ],
+        "size": "48 à 57 cm",
+        "weight": "20 à 25 kgs",
+        "poil": "moyen",
+        "energy": "sportif"
+      }
+    },
+    {
+      "id": 235,
+      "breed": "Griffon Fauve de Bretagne",
+      "features": {
+        "origin": [
+          "France"
+        ],
+        "size": "48 à 56 cm",
+        "weight": "20 à 25 kgs",
+        "robe": [
+          "fauve doré",
+          "fauve rougeâtre"
         ],
         "poil": "moyen",
-        "energy": "joueur",
+        "energy": "sportif",
         "type": [
-          "Griffon"
+          "Chien courant"
         ]
       },
       "alias": []
+    },
+    {
+      "id": 236,
+      "breed": "Griffon nivernais",
+      "features": {
+        "origin": [
+          "France"
+        ],
+        "size": "55 à 60 cm",
+        "weight": "23 à 25 kgs",
+        "robe": [
+          "gris bleu",
+          "fauve charbonné"
+        ],
+        "poil": "moyen",
+        "energy": "sportif",
+        "type": [
+          "Chien courant"
+        ]
+      },
+      "alias": []
+    },
+    {
+      "id": 237,
+      "breed": "Groenlandais",
+      "alias": [
+        "Greenland Dog"
+      ],
+      "features": {
+        "origin": [
+          "Groenland"
+        ],
+        "type": [
+          "Spitz",
+          "Nordique"
+        ],
+        "robe": [
+          "blanc",
+          "noir",
+          "fauve",
+          "gris"
+        ],
+        "size": "55 à 60 cm",
+        "weight": "30 à 35 kgs",
+        "poil": "long",
+        "energy": "sportif"
+      }
+    },
+    {
+      "id": 238,
+      "breed": "Hamiltonstövare",
+      "alias": [
+        "Hamilton Hound"
+      ],
+      "features": {
+        "origin": [
+          "Suède"
+        ],
+        "type": [
+          "Chien courant"
+        ],
+        "robe": [
+          "tricolore (noir, feu et blanc)"
+        ],
+        "size": "49 à 61 cm",
+        "weight": "23 à 27 kgs",
+        "poil": "court",
+        "energy": "sportif"
+      }
+    },
+    {
+      "id": 239,
+      "breed": "Harrier",
+      "alias": [],
+      "features": {
+        "origin": [
+          "Royaume-Uni"
+        ],
+        "type": [
+          "Chien courant"
+        ],
+        "robe": [
+          "tricolore",
+          "blanc et fauve"
+        ],
+        "size": "48 à 55 cm",
+        "weight": "18 à 27 kgs",
+        "poil": "court",
+        "energy": "sportif"
+      }
     },
     {
       "id": 240,
@@ -5223,45 +5504,47 @@
     },
     {
       "id": 241,
-      "breed": "Griffon fauve de Bretagne",
+      "breed": "Hovawart",
+      "alias": [],
       "features": {
         "origin": [
-          "France"
+          "Allemagne"
         ],
-        "size": "48 à 56 cm",
-        "weight": "20 à 25 kgs",
-        "robe": [
-          "fauve doré",
-          "fauve rougeâtre"
-        ],
-        "poil": "moyen",
-        "energy": "sportif",
         "type": [
-          "Chien courant"
-        ]
-      },
-      "alias": []
+          "Berger"
+        ],
+        "robe": [
+          "noir",
+          "noir et feu",
+          "blond"
+        ],
+        "size": "58 à 70 cm",
+        "weight": "25 à 45 kgs",
+        "poil": "long",
+        "energy": "sportif"
+      }
     },
     {
       "id": 242,
-      "breed": "Griffon nivernais",
+      "breed": "Huntaway",
+      "alias": [],
       "features": {
         "origin": [
-          "France"
+          "Nouvelle-Zélande"
         ],
-        "size": "55 à 60 cm",
-        "weight": "23 à 25 kgs",
-        "robe": [
-          "gris bleu",
-          "fauve charbonné"
-        ],
-        "poil": "moyen",
-        "energy": "sportif",
         "type": [
-          "Chien courant"
-        ]
-      },
-      "alias": []
+          "Berger"
+        ],
+        "robe": [
+          "noir et feu",
+          "noir et blanc",
+          "brun"
+        ],
+        "size": "55 à 66 cm",
+        "weight": "25 à 40 kgs",
+        "poil": "moyen",
+        "energy": "sportif"
+      }
     },
     {
       "id": 243,
@@ -5360,72 +5643,50 @@
     },
     {
       "id": 247,
-      "breed": "Kangal turc",
+      "breed": "Karelo-Finnish Laika",
+      "alias": [],
       "features": {
         "origin": [
-          "Turquie"
+          "Russie"
         ],
-        "size": "70 à 81 cm",
-        "weight": "40 à 65 kgs",
-        "robe": [
-          "fauve",
-          "sable",
-          "gris"
-        ],
-        "poil": "court",
-        "energy": "calme",
         "type": [
-          "Molossoïdes",
-          "Montagne"
-        ]
-      },
-      "alias": []
+          "Spitz",
+          "Nordique"
+        ],
+        "robe": [
+          "roux"
+        ],
+        "size": "42 à 50 cm",
+        "weight": "12 à 15 kgs",
+        "poil": "moyen",
+        "energy": "sportif"
+      }
     },
     {
       "id": 248,
-      "breed": "Kelpie australien",
+      "breed": "Khortaï",
+      "alias": [
+        "Hortaya Borzaya"
+      ],
       "features": {
         "origin": [
-          "Australie"
+          "Russie",
+          "Kazakhstan"
         ],
-        "size": "43 à 51 cm",
-        "weight": "14 à 21 kgs",
-        "robe": [
-          "noir",
-          "rouge",
-          "chocolat",
-          "fauve"
-        ],
-        "poil": "court",
-        "energy": "sportif",
         "type": [
-          "Berger"
-        ]
-      },
-      "alias": []
+          "Lévrier"
+        ],
+        "robe": [
+          "toutes couleurs"
+        ],
+        "size": "55 à 75 cm",
+        "weight": "18 à 35 kgs",
+        "poil": "court",
+        "energy": "sportif"
+      }
     },
     {
       "id": 249,
-      "breed": "Kerry Blue Terrier",
-      "features": {
-        "origin": [
-          "Irlande"
-        ],
-        "size": "44 à 49 cm",
-        "weight": "15 à 18 kgs",
-        "robe": [
-          "bleu"
-        ],
-        "poil": "moyen",
-        "energy": "sportif",
-        "type": [
-          "Terrier"
-        ]
-      },
-      "alias": []
-    },
-    {
-      "id": 250,
       "breed": "King Charles Spaniel",
       "features": {
         "origin": [
@@ -5446,6 +5707,28 @@
         ]
       },
       "alias": []
+    },
+    {
+      "id": 250,
+      "breed": "Kintamani",
+      "alias": [],
+      "features": {
+        "origin": [
+          "Indonésie"
+        ],
+        "type": [
+          "Spitz"
+        ],
+        "robe": [
+          "blanc",
+          "crème",
+          "abricot"
+        ],
+        "size": "40 à 60 cm",
+        "weight": "13 à 18 kgs",
+        "poil": "moyen",
+        "energy": "joueur"
+      }
     },
     {
       "id": 251,
@@ -5516,6 +5799,31 @@
     },
     {
       "id": 254,
+      "breed": "Korthals",
+      "alias": [
+        "Griffon d'arrêt à poil dur Korthals"
+      ],
+      "features": {
+        "origin": [
+          "France",
+          "Pays-Bas"
+        ],
+        "type": [
+          "Chien d'arrêt"
+        ],
+        "robe": [
+          "gris acier",
+          "marron",
+          "blanc et marron"
+        ],
+        "size": "55 à 60 cm",
+        "weight": "20 à 30 kgs",
+        "poil": "moyen",
+        "energy": "sportif"
+      }
+    },
+    {
+      "id": 255,
       "breed": "Kromfohrländer",
       "features": {
         "origin": [
@@ -5536,73 +5844,47 @@
       "alias": []
     },
     {
-      "id": 255,
+      "id": 256,
       "breed": "Kuvasz",
+      "alias": [],
       "features": {
         "origin": [
           "Hongrie"
         ],
-        "size": "66 à 76 cm",
-        "weight": "40 à 52 kgs",
-        "robe": [
-          "blanc"
-        ],
-        "poil": "long",
-        "energy": "calme",
         "type": [
           "Molossoïdes",
           "Montagne"
-        ]
-      },
-      "alias": []
-    },
-    {
-      "id": 256,
-      "breed": "Labradoodle",
-      "features": {
-        "origin": [
-          "Australie"
         ],
-        "size": "55 à 65 cm",
-        "weight": "20 à 30 kgs",
         "robe": [
-          "abricot",
-          "noir",
-          "chocolat",
-          "crème"
+          "blanc"
         ],
+        "size": "66 à 76 cm",
+        "weight": "40 à 52 kgs",
         "poil": "long",
-        "energy": "sportif",
-        "type": [
-          "Chiens d'agrément"
-        ]
-      },
-      "alias": []
+        "energy": "calme"
+      }
     },
     {
       "id": 257,
-      "breed": "Lagotto Romagnolo",
+      "breed": "Kyi-Leo",
+      "alias": [],
       "features": {
         "origin": [
-          "Italie"
+          "États-Unis"
         ],
-        "size": "41 à 48 cm",
-        "weight": "11 à 16 kgs",
-        "robe": [
-          "blanc",
-          "marron",
-          "roux",
-          "orange"
-        ],
-        "poil": "moyen",
-        "energy": "sportif",
         "type": [
-          "Chien d'eau"
-        ]
-      },
-      "alias": [
-        "Chien d'eau romagnol"
-      ]
+          "Chiens d'agrément"
+        ],
+        "robe": [
+          "noir et blanc",
+          "gris et blanc",
+          "chocolat et blanc"
+        ],
+        "size": "20 à 33 cm",
+        "weight": "4 à 6 kgs",
+        "poil": "long",
+        "energy": "joueur"
+      }
     },
     {
       "id": 258,
@@ -5630,7 +5912,30 @@
     },
     {
       "id": 259,
-      "breed": "Laika de Sibérie occidentale",
+      "breed": "Laika de Iakoutie",
+      "alias": [
+        "Yakutian Laika"
+      ],
+      "features": {
+        "origin": [
+          "Russie"
+        ],
+        "type": [
+          "Spitz",
+          "Nordique"
+        ],
+        "robe": [
+          "blanc avec taches noires, grises ou rousses"
+        ],
+        "size": "50 à 58 cm",
+        "weight": "20 à 30 kgs",
+        "poil": "long",
+        "energy": "sportif"
+      }
+    },
+    {
+      "id": 260,
+      "breed": "Laïka de Sibérie occidentale",
       "features": {
         "origin": [
           "Russie"
@@ -5653,8 +5958,8 @@
       "alias": []
     },
     {
-      "id": 260,
-      "breed": "Laika de Sibérie orientale",
+      "id": 261,
+      "breed": "Laïka de Sibérie orientale",
       "features": {
         "origin": [
           "Russie"
@@ -5677,8 +5982,8 @@
       "alias": []
     },
     {
-      "id": 261,
-      "breed": "Laika russo-européen",
+      "id": 262,
+      "breed": "Laïka russo-européen",
       "features": {
         "origin": [
           "Russie"
@@ -5700,7 +6005,7 @@
       "alias": []
     },
     {
-      "id": 262,
+      "id": 263,
       "breed": "Lakeland Terrier",
       "features": {
         "origin": [
@@ -5723,47 +6028,25 @@
       "alias": []
     },
     {
-      "id": 263,
+      "id": 264,
       "breed": "Lancashire Heeler",
+      "alias": [],
       "features": {
         "origin": [
           "Royaume-Uni"
         ],
-        "size": "25 à 30 cm",
-        "weight": "3 à 6 kgs",
+        "type": [
+          "Berger"
+        ],
         "robe": [
           "noir et feu",
           "foie et feu"
         ],
+        "size": "25 à 30 cm",
+        "weight": "3 à 6 kgs",
         "poil": "court",
-        "energy": "joueur",
-        "type": [
-          "Berger"
-        ]
-      },
-      "alias": []
-    },
-    {
-      "id": 264,
-      "breed": "Landseer européen continental",
-      "features": {
-        "origin": [
-          "Allemagne",
-          "Suisse"
-        ],
-        "size": "67 à 80 cm",
-        "weight": "50 à 75 kgs",
-        "robe": [
-          "blanc et noir"
-        ],
-        "poil": "long",
-        "energy": "calme",
-        "type": [
-          "Molossoïdes",
-          "Montagne"
-        ]
-      },
-      "alias": []
+        "energy": "joueur"
+      }
     },
     {
       "id": 265,
@@ -5858,51 +6141,50 @@
     },
     {
       "id": 269,
-      "breed": "Lévrier écossais",
+      "breed": "Lévrier arabe",
+      "alias": [
+        "Sloughi"
+      ],
       "features": {
         "origin": [
-          "Écosse"
+          "Maroc"
         ],
-        "size": "71 à 81 cm",
-        "weight": "34 à 50 kgs",
-        "robe": [
-          "gris",
-          "bleu gris"
-        ],
-        "poil": "long",
-        "energy": "sportif",
         "type": [
           "Lévrier"
-        ]
-      },
-      "alias": [
-        "Deerhound"
-      ]
+        ],
+        "robe": [
+          "sable",
+          "fauve",
+          "bringé",
+          "noir"
+        ],
+        "size": "61 à 72 cm",
+        "weight": "20 à 32 kgs",
+        "poil": "ras",
+        "energy": "sportif"
+      }
     },
     {
       "id": 270,
-      "breed": "Lévrier hongrois",
+      "breed": "Lévrier de soie",
+      "alias": [
+        "Silken Windhound"
+      ],
       "features": {
         "origin": [
-          "Hongrie"
+          "États-Unis"
         ],
-        "size": "62 à 70 cm",
-        "weight": "22 à 31 kgs",
-        "robe": [
-          "fauve",
-          "noir",
-          "blanc",
-          "gris"
-        ],
-        "poil": "court",
-        "energy": "sportif",
         "type": [
           "Lévrier"
-        ]
-      },
-      "alias": [
-        "Magyar Agar"
-      ]
+        ],
+        "robe": [
+          "toutes couleurs"
+        ],
+        "size": "46 à 60 cm",
+        "weight": "10 à 25 kgs",
+        "poil": "long",
+        "energy": "sportif"
+      }
     },
     {
       "id": 271,
@@ -5928,6 +6210,57 @@
     },
     {
       "id": 272,
+      "breed": "Lévrier greyhound",
+      "alias": [
+        "Greyhound"
+      ],
+      "features": {
+        "origin": [
+          "Royaume-Uni"
+        ],
+        "type": [
+          "Lévrier"
+        ],
+        "robe": [
+          "noir",
+          "blanc",
+          "fauve",
+          "bleu",
+          "brun"
+        ],
+        "size": "68 à 76 cm",
+        "weight": "27 à 40 kgs",
+        "poil": "court",
+        "energy": "sportif"
+      }
+    },
+    {
+      "id": 273,
+      "breed": "Lévrier hongrois",
+      "alias": [
+        "Magyar Agar"
+      ],
+      "features": {
+        "origin": [
+          "Hongrie"
+        ],
+        "type": [
+          "Lévrier"
+        ],
+        "robe": [
+          "fauve",
+          "noir",
+          "blanc",
+          "gris"
+        ],
+        "size": "62 à 70 cm",
+        "weight": "22 à 31 kgs",
+        "poil": "court",
+        "energy": "sportif"
+      }
+    },
+    {
+      "id": 274,
       "breed": "Lévrier irlandais",
       "features": {
         "origin": [
@@ -5953,104 +6286,108 @@
       ]
     },
     {
-      "id": 273,
-      "breed": "Lévrier italien",
-      "features": {
-        "origin": [
-          "Italie"
-        ],
-        "size": "32 à 38 cm",
-        "weight": "3 à 5 kgs",
-        "robe": [
-          "gris",
-          "noir",
-          "fauve"
-        ],
-        "poil": "ras",
-        "energy": "joueur",
-        "type": [
-          "Lévrier"
-        ]
-      },
-      "alias": []
-    },
-    {
-      "id": 274,
+      "id": 275,
       "breed": "Lévrier persan",
+      "alias": [
+        "Saluki"
+      ],
       "features": {
         "origin": [
           "Moyen-Orient"
         ],
-        "size": "58 à 71 cm",
-        "weight": "20 à 30 kgs",
+        "type": [
+          "Lévrier"
+        ],
         "robe": [
           "sable",
           "noir",
           "blanc",
           "doré"
         ],
+        "size": "58 à 71 cm",
+        "weight": "20 à 30 kgs",
         "poil": "long",
-        "energy": "sportif",
-        "type": [
-          "Lévrier"
-        ]
-      },
-      "alias": [
-        "Saluki"
-      ]
-    },
-    {
-      "id": 275,
-      "breed": "Lévrier polonais",
-      "features": {
-        "origin": [
-          "Pologne"
-        ],
-        "size": "68 à 80 cm",
-        "weight": "27 à 35 kgs",
-        "robe": [
-          "fauve",
-          "bringé",
-          "noir"
-        ],
-        "poil": "ras",
-        "energy": "sportif",
-        "type": [
-          "Lévrier"
-        ]
-      },
-      "alias": [
-        "Chart polski"
-      ]
+        "energy": "sportif"
+      }
     },
     {
       "id": 276,
-      "breed": "Lévrier russe borzoï",
+      "breed": "Lévrier Rampur",
+      "alias": [
+        "Rampur Hound"
+      ],
       "features": {
         "origin": [
-          "Russie"
+          "Inde"
         ],
-        "size": "68 à 85 cm",
-        "weight": "35 à 48 kgs",
-        "robe": [
-          "blanc",
-          "doré",
-          "fauve",
-          "gris",
-          "noir"
-        ],
-        "poil": "long",
-        "energy": "sportif",
         "type": [
           "Lévrier"
-        ]
-      },
-      "alias": [
-        "Borzoi"
-      ]
+        ],
+        "robe": [
+          "gris",
+          "noir",
+          "bringé",
+          "fauve"
+        ],
+        "size": "60 à 75 cm",
+        "weight": "27 à 32 kgs",
+        "poil": "court",
+        "energy": "sportif"
+      }
     },
     {
       "id": 277,
+      "breed": "Lévrier Taïgan",
+      "alias": [
+        "Taïgan"
+      ],
+      "features": {
+        "origin": [
+          "Kirghizistan"
+        ],
+        "type": [
+          "Lévrier"
+        ],
+        "robe": [
+          "noir",
+          "blanc",
+          "fauve",
+          "gris"
+        ],
+        "size": "60 à 70 cm",
+        "weight": "23 à 30 kgs",
+        "poil": "long",
+        "energy": "sportif"
+      }
+    },
+    {
+      "id": 278,
+      "breed": "Lévrier Tazi",
+      "alias": [
+        "Tazy"
+      ],
+      "features": {
+        "origin": [
+          "Kazakhstan"
+        ],
+        "type": [
+          "Lévrier"
+        ],
+        "robe": [
+          "noir",
+          "blanc",
+          "fauve",
+          "gris",
+          "sable"
+        ],
+        "size": "55 à 72 cm",
+        "weight": "20 à 30 kgs",
+        "poil": "long",
+        "energy": "sportif"
+      }
+    },
+    {
+      "id": 279,
       "breed": "Lévrier whippet",
       "features": {
         "origin": [
@@ -6072,49 +6409,50 @@
       ]
     },
     {
-      "id": 278,
-      "breed": "Lhasa Apso",
+      "id": 280,
+      "breed": "Lhassa Apso",
+      "alias": [],
       "features": {
         "origin": [
           "Tibet"
         ],
-        "size": "25 à 28 cm",
-        "weight": "5 à 8 kgs",
-        "robe": [
-          "or",
-          "miel",
-          "gris",
-          "noir"
-        ],
-        "poil": "long",
-        "energy": "joueur",
         "type": [
           "Chiens d'agrément"
-        ]
-      },
-      "alias": []
+        ],
+        "robe": [
+          "doré",
+          "miel",
+          "noir",
+          "blanc",
+          "gris"
+        ],
+        "size": "25 à 28 cm",
+        "weight": "6 à 8 kgs",
+        "poil": "long",
+        "energy": "calme"
+      }
     },
     {
-      "id": 279,
-      "breed": "Lévrier afghan miniature",
+      "id": 281,
+      "breed": "Lucas Terrier",
+      "alias": [],
       "features": {
         "origin": [
-          "Afghanistan"
+          "Royaume-Uni"
         ],
-        "size": "50 à 55 cm",
-        "weight": "12 à 16 kgs",
-        "robe": [
-          "fauve",
-          "crème",
-          "noir"
-        ],
-        "poil": "long",
-        "energy": "sportif",
         "type": [
-          "Lévrier"
-        ]
-      },
-      "alias": []
+          "Terrier"
+        ],
+        "robe": [
+          "blanc et marron",
+          "blanc et noir",
+          "tricolore"
+        ],
+        "size": "25 à 33 cm",
+        "weight": "6 à 8 kgs",
+        "poil": "moyen",
+        "energy": "joueur"
+      }
     },
     {
       "id": 282,
@@ -6140,6 +6478,47 @@
       ]
     },
     {
+      "id": 283,
+      "breed": "Lupo Italiano",
+      "alias": [],
+      "features": {
+        "origin": [
+          "Italie"
+        ],
+        "type": [
+          "Berger"
+        ],
+        "robe": [
+          "gris loup",
+          "argenté"
+        ],
+        "size": "60 à 70 cm",
+        "weight": "25 à 35 kgs",
+        "poil": "moyen",
+        "energy": "sportif"
+      }
+    },
+    {
+      "id": 284,
+      "breed": "Lurcher",
+      "alias": [],
+      "features": {
+        "origin": [
+          "Royaume-Uni"
+        ],
+        "type": [
+          "Lévrier"
+        ],
+        "robe": [
+          "toutes couleurs"
+        ],
+        "size": "60 à 70 cm",
+        "weight": "25 à 35 kgs",
+        "poil": "moyen",
+        "energy": "sportif"
+      }
+    },
+    {
       "id": 285,
       "breed": "Malamute de l’Alaska",
       "features": {
@@ -6160,6 +6539,117 @@
         ]
       },
       "alias": []
+    },
+    {
+      "id": 286,
+      "breed": "Malinois",
+      "alias": [
+        "Berger belge Malinois"
+      ],
+      "features": {
+        "origin": [
+          "Belgique"
+        ],
+        "type": [
+          "Berger"
+        ],
+        "robe": [
+          "fauve charbonné",
+          "masque noir"
+        ],
+        "size": "56 à 66 cm",
+        "weight": "25 à 34 kgs",
+        "poil": "court",
+        "energy": "sportif"
+      }
+    },
+    {
+      "id": 287,
+      "breed": "Mallorcan ratter",
+      "alias": [
+        "Ca Rater Mallorquí"
+      ],
+      "features": {
+        "origin": [
+          "Espagne",
+          "Majorque"
+        ],
+        "type": [
+          "Terrier"
+        ],
+        "robe": [
+          "noir et feu",
+          "chocolat et feu",
+          "blanc et noir"
+        ],
+        "size": "31 à 43 cm",
+        "weight": "4 à 8 kgs",
+        "poil": "court",
+        "energy": "joueur"
+      }
+    },
+    {
+      "id": 288,
+      "breed": "Manchester Terrier",
+      "alias": [],
+      "features": {
+        "origin": [
+          "Royaume-Uni"
+        ],
+        "type": [
+          "Terrier"
+        ],
+        "robe": [
+          "noir et feu"
+        ],
+        "size": "38 à 41 cm",
+        "weight": "7 à 10 kgs",
+        "poil": "ras",
+        "energy": "sportif"
+      }
+    },
+    {
+      "id": 289,
+      "breed": "Maneto",
+      "alias": [],
+      "features": {
+        "origin": [
+          "Espagne"
+        ],
+        "type": [
+          "Chien courant"
+        ],
+        "robe": [
+          "fauve",
+          "roux",
+          "chocolat"
+        ],
+        "size": "25 à 35 cm",
+        "weight": "8 à 12 kgs",
+        "poil": "court",
+        "energy": "sportif"
+      }
+    },
+    {
+      "id": 290,
+      "breed": "Markiesje",
+      "alias": [],
+      "features": {
+        "origin": [
+          "Pays-Bas"
+        ],
+        "type": [
+          "Chiens d'agrément"
+        ],
+        "robe": [
+          "noir",
+          "noir et blanc"
+        ],
+        "size": "35 à 40 cm",
+        "weight": "6 à 8 kgs",
+        "poil": "moyen",
+        "energy": "joueur"
+      }
     },
     {
       "id": 291,
@@ -6185,6 +6675,219 @@
       "alias": []
     },
     {
+      "id": 292,
+      "breed": "Mâtin des Pyrénées",
+      "alias": [],
+      "features": {
+        "origin": [
+          "Espagne"
+        ],
+        "type": [
+          "Molossoïdes",
+          "Montagne"
+        ],
+        "robe": [
+          "blanc avec taches",
+          "gris",
+          "jaune",
+          "noir"
+        ],
+        "size": "72 à 81 cm",
+        "weight": "55 à 75 kgs",
+        "poil": "long",
+        "energy": "calme"
+      }
+    },
+    {
+      "id": 293,
+      "breed": "Mâtin espagnol",
+      "alias": [],
+      "features": {
+        "origin": [
+          "Espagne"
+        ],
+        "type": [
+          "Molossoïdes",
+          "Montagne"
+        ],
+        "robe": [
+          "fauve",
+          "noir",
+          "gris",
+          "bringé"
+        ],
+        "size": "72 à 88 cm",
+        "weight": "52 à 100 kgs",
+        "poil": "moyen",
+        "energy": "calme"
+      }
+    },
+    {
+      "id": 294,
+      "breed": "Mâtin napolitain",
+      "alias": [],
+      "features": {
+        "origin": [
+          "Italie"
+        ],
+        "type": [
+          "Molossoïdes",
+          "Dogue"
+        ],
+        "robe": [
+          "gris",
+          "noir",
+          "fauve",
+          "bringé"
+        ],
+        "size": "60 à 75 cm",
+        "weight": "50 à 70 kgs",
+        "poil": "court",
+        "energy": "calme"
+      }
+    },
+    {
+      "id": 295,
+      "breed": "Miniature American Shepherd",
+      "alias": [],
+      "features": {
+        "origin": [
+          "États-Unis"
+        ],
+        "type": [
+          "Berger"
+        ],
+        "robe": [
+          "bleu merle",
+          "rouge merle",
+          "noir",
+          "rouge"
+        ],
+        "size": "33 à 46 cm",
+        "weight": "9 à 18 kgs",
+        "poil": "moyen",
+        "energy": "sportif"
+      }
+    },
+    {
+      "id": 296,
+      "breed": "Miniature Australian Shepherd",
+      "alias": [
+        "Mini Aussie"
+      ],
+      "features": {
+        "origin": [
+          "États-Unis"
+        ],
+        "type": [
+          "Berger"
+        ],
+        "robe": [
+          "bleu merle",
+          "rouge merle",
+          "noir",
+          "rouge"
+        ],
+        "size": "33 à 46 cm",
+        "weight": "9 à 18 kgs",
+        "poil": "moyen",
+        "energy": "sportif"
+      }
+    },
+    {
+      "id": 297,
+      "breed": "Miniature Shar Pei",
+      "alias": ["Mini Peï"],
+      "features": {
+        "origin": [
+          "Chine"
+        ],
+        "type": [
+          "Molossoïdes"
+        ],
+        "robe": [
+          "fauve",
+          "noir",
+          "crème",
+          "bleu"
+        ],
+        "size": "38 à 45 cm",
+        "weight": "15 à 20 kgs",
+        "poil": "ras",
+        "energy": "calme"
+      }
+    },
+    {
+      "id": 298,
+      "breed": "Moscow Watchdog",
+      "alias": [
+        "Moscovite Watchdog"
+      ],
+      "features": {
+        "origin": [
+          "Russie"
+        ],
+        "type": [
+          "Molossoïdes",
+          "Montagne"
+        ],
+        "robe": [
+          "blanc et roux",
+          "blanc et fauve"
+        ],
+        "size": "64 à 70 cm",
+        "weight": "45 à 68 kgs",
+        "poil": "long",
+        "energy": "calme"
+      }
+    },
+    {
+      "id": 299,
+      "breed": "Mudi",
+      "alias": [],
+      "features": {
+        "origin": [
+          "Hongrie"
+        ],
+        "type": [
+          "Berger"
+        ],
+        "robe": [
+          "noir",
+          "bleu merle",
+          "fauve",
+          "blanc"
+        ],
+        "size": "38 à 47 cm",
+        "weight": "8 à 13 kgs",
+        "poil": "moyen",
+        "energy": "sportif"
+      }
+    },
+    {
+      "id": 300,
+      "breed": "Norfolk Terrier",
+      "alias": [],
+      "features": {
+        "origin": [
+          "Royaume-Uni"
+        ],
+        "type": [
+          "Terrier"
+        ],
+        "robe": [
+          "roux",
+          "blé",
+          "noir et feu",
+          "gris"
+        ],
+        "size": "23 à 25 cm",
+        "weight": "5 à 6 kgs",
+        "poil": "moyen",
+        "energy": "joueur"
+      }
+    },
+    {
       "id": 301,
       "breed": "Norwich Terrier",
       "features": {
@@ -6208,50 +6911,96 @@
       "alias": []
     },
     {
+      "id": 302,
+      "breed": "Olde English Bulldogge",
+      "alias": [],
+      "features": {
+        "origin": [
+          "États-Unis"
+        ],
+        "type": [
+          "Molossoïdes",
+          "Dogue"
+        ],
+        "robe": [
+          "bringé",
+          "blanc",
+          "fauve",
+          "noir"
+        ],
+        "size": "41 à 51 cm",
+        "weight": "25 à 40 kgs",
+        "poil": "court",
+        "energy": "joueur"
+      }
+    },
+    {
+      "id": 303,
+      "breed": "Papillon",
+      "alias": [
+        "Épagneul nain continental Papillon"
+      ],
+      "features": {
+        "origin": [
+          "France",
+          "Belgique"
+        ],
+        "type": [
+          "Chiens d'agrément"
+        ],
+        "robe": [
+          "blanc avec taches",
+          "rouge",
+          "noir",
+          "fauve"
+        ],
+        "size": "20 à 28 cm",
+        "weight": "3 à 5 kgs",
+        "poil": "long",
+        "energy": "joueur"
+      }
+    },
+    {
       "id": 304,
-      "breed": "Otterhound",
+      "breed": "Parson Russell terrier",
+      "alias": [],
       "features": {
         "origin": [
           "Royaume-Uni"
         ],
-        "size": "61 à 69 cm",
-        "weight": "30 à 54 kgs",
-        "robe": [
-          "gris",
-          "sable",
-          "bleu",
-          "noir"
-        ],
-        "poil": "long",
-        "energy": "sportif",
         "type": [
-          "Chien courant"
-        ]
-      },
-      "alias": [
-        "Chien à loutre"
-      ]
+          "Terrier"
+        ],
+        "robe": [
+          "blanc avec taches noires ou feu"
+        ],
+        "size": "33 à 36 cm",
+        "weight": "6 à 8 kgs",
+        "poil": "court",
+        "energy": "sportif"
+      }
     },
     {
       "id": 305,
-      "breed": "Pachón Navarro",
+      "breed": "Patterdale Terrier",
+      "alias": [],
       "features": {
         "origin": [
-          "Espagne"
+          "Royaume-Uni"
         ],
-        "size": "48 à 57 cm",
-        "weight": "27 à 33 kgs",
-        "robe": [
-          "blanc et orange",
-          "blanc et marron"
-        ],
-        "poil": "court",
-        "energy": "sportif",
         "type": [
-          "Chien d'arrêt"
-        ]
-      },
-      "alias": []
+          "Terrier"
+        ],
+        "robe": [
+          "noir",
+          "rouge",
+          "foie"
+        ],
+        "size": "25 à 38 cm",
+        "weight": "6 à 12 kgs",
+        "poil": "court",
+        "energy": "sportif"
+      }
     },
     {
       "id": 306,
@@ -6278,188 +7027,187 @@
     },
     {
       "id": 307,
-      "breed": "Petit basset griffon vendéen",
+      "breed": "Perro de pastor garafiano",
+      "alias": [],
+      "features": {
+        "origin": [
+          "Espagne",
+          "Îles Canaries"
+        ],
+        "type": [
+          "Berger"
+        ],
+        "robe": [
+          "fauve",
+          "roux",
+          "marron"
+        ],
+        "size": "54 à 60 cm",
+        "weight": "25 à 35 kgs",
+        "poil": "long",
+        "energy": "sportif"
+      }
+    },
+    {
+      "id": 308,
+      "breed": "Petit basset griffon Vendéen",
+      "alias": [],
       "features": {
         "origin": [
           "France"
         ],
-        "size": "34 à 38 cm",
-        "weight": "14 à 18 kgs",
+        "type": [
+          "Chien courant"
+        ],
         "robe": [
           "blanc et orange",
           "tricolore",
           "noir et blanc"
         ],
+        "size": "34 à 38 cm",
+        "weight": "14 à 18 kgs",
         "poil": "moyen",
-        "energy": "sportif",
-        "type": [
-          "Chien courant"
-        ]
-      },
-      "alias": []
-    },
-    {
-      "id": 308,
-      "breed": "Petit brabançon",
-      "features": {
-        "origin": [
-          "Belgique"
-        ],
-        "size": "18 à 22 cm",
-        "weight": "3 à 6 kgs",
-        "robe": [
-          "noir",
-          "noir et feu",
-          "roux"
-        ],
-        "poil": "court",
-        "energy": "joueur",
-        "type": [
-          "Griffon"
-        ]
-      },
-      "alias": []
+        "energy": "sportif"
+      }
     },
     {
       "id": 309,
-      "breed": "Petit chien hollandais de chasse au gibier d’eau",
+      "breed": "Petit bleu de Gascogne",
+      "alias": [],
       "features": {
         "origin": [
-          "Pays-Bas"
+          "France"
         ],
-        "size": "35 à 40 cm",
-        "weight": "9 à 11 kgs",
-        "robe": [
-          "blanc et orange",
-          "blanc et rouge"
-        ],
-        "poil": "moyen",
-        "energy": "joueur",
         "type": [
-          "Chien d'arrêt"
-        ]
-      },
-      "alias": [
-        "Kooikerhondje"
-      ]
+          "Chien courant"
+        ],
+        "robe": [
+          "bleu truité"
+        ],
+        "size": "52 à 58 cm",
+        "weight": "18 à 25 kgs",
+        "poil": "court",
+        "energy": "sportif"
+      }
     },
     {
       "id": 310,
+      "breed": "Petit chien courant suisse",
+      "alias": [],
+      "features": {
+        "origin": [
+          "Suisse"
+        ],
+        "type": [
+          "Chien courant"
+        ],
+        "robe": [
+          "tricolore",
+          "brun et blanc",
+          "orange et blanc"
+        ],
+        "size": "33 à 41 cm",
+        "weight": "10 à 15 kgs",
+        "poil": "court",
+        "energy": "sportif"
+      }
+    },
+    {
+      "id": 311,
+      "breed": "Petit chien lion",
+      "alias": [
+        "Lowchen"
+      ],
+      "features": {
+        "origin": [
+          "France",
+          "Allemagne"
+        ],
+        "type": [
+          "Chiens d'agrément"
+        ],
+        "robe": [
+          "noir",
+          "blanc",
+          "crème",
+          "bleu",
+          "chocolat"
+        ],
+        "size": "26 à 32 cm",
+        "weight": "4 à 8 kgs",
+        "poil": "long",
+        "energy": "joueur"
+      }
+    },
+    {
+      "id": 312,
+      "breed": "Petit chien russe",
+      "alias": [
+        "Russian Toy"
+      ],
+      "features": {
+        "origin": [
+          "Russie"
+        ],
+        "type": [
+          "Chiens d'agrément"
+        ],
+        "robe": [
+          "noir et feu",
+          "rouge",
+          "chocolat",
+          "bleu et feu"
+        ],
+        "size": "20 à 28 cm",
+        "weight": "1 à 3 kgs",
+        "poil": "long",
+        "energy": "joueur"
+      }
+    },
+    {
+      "id": 313,
       "breed": "Petit lévrier italien",
+      "alias": ["Levrette d'Italie"],
       "features": {
         "origin": [
           "Italie"
         ],
-        "size": "32 à 38 cm",
-        "weight": "3 à 5 kgs",
+        "type": [
+          "Lévrier"
+        ],
         "robe": [
           "gris",
           "noir",
           "fauve"
         ],
-        "poil": "ras",
-        "energy": "joueur",
-        "type": [
-          "Lévrier"
-        ]
-      },
-      "alias": []
-    },
-    {
-      "id": 311,
-      "breed": "Petit Münsterländer",
-      "features": {
-        "origin": [
-          "Allemagne"
-        ],
-        "size": "52 à 61 cm",
-        "weight": "18 à 27 kgs",
-        "robe": [
-          "marron",
-          "blanc et marron"
-        ],
-        "poil": "long",
-        "energy": "sportif",
-        "type": [
-          "Chien d'arrêt"
-        ]
-      },
-      "alias": [
-        "Épagneul de Münster"
-      ]
-    },
-    {
-      "id": 312,
-      "breed": "Petit spitz",
-      "features": {
-        "origin": [
-          "Allemagne"
-        ],
-        "size": "18 à 22 cm",
-        "weight": "2 à 3 kgs",
-        "robe": [
-          "blanc",
-          "noir",
-          "orange",
-          "crème"
-        ],
-        "poil": "long",
-        "energy": "joueur",
-        "type": [
-          "Spitz"
-        ]
-      },
-      "alias": [
-        "Spitz allemand nain"
-      ]
-    },
-    {
-      "id": 313,
-      "breed": "Phalène",
-      "features": {
-        "origin": [
-          "France",
-          "Belgique"
-        ],
-        "size": "20 à 28 cm",
+        "size": "32 à 38 cm",
         "weight": "3 à 5 kgs",
-        "robe": [
-          "blanc et fauve",
-          "blanc et noir",
-          "tricolore"
-        ],
-        "poil": "long",
-        "energy": "joueur",
-        "type": [
-          "Chiens d'agrément"
-        ]
-      },
-      "alias": [
-        "Épagneul nain continental Phalène"
-      ]
+        "poil": "ras",
+        "energy": "joueur"
+      }
     },
     {
       "id": 314,
-      "breed": "Pharaon Hound",
+      "breed": "Pinscher allemand",
+      "alias": [
+        "German Pinscher"
+      ],
       "features": {
         "origin": [
-          "Malte"
+          "Allemagne"
         ],
-        "size": "53 à 64 cm",
-        "weight": "20 à 25 kgs",
-        "robe": [
-          "fauve",
-          "roux"
-        ],
-        "poil": "ras",
-        "energy": "sportif",
         "type": [
-          "Lévrier"
-        ]
-      },
-      "alias": [
-        "Chien du Pharaon"
-      ]
+          "Pinscher"
+        ],
+        "robe": [
+          "noir et feu",
+          "rouge"
+        ],
+        "size": "43 à 51 cm",
+        "weight": "11 à 20 kgs",
+        "poil": "ras",
+        "energy": "sportif"
+      }
     },
     {
       "id": 315,
@@ -6509,28 +7257,6 @@
     },
     {
       "id": 317,
-      "breed": "Pitbull américain",
-      "features": {
-        "origin": [
-          "États-Unis"
-        ],
-        "size": "45 à 53 cm",
-        "weight": "16 à 30 kgs",
-        "robe": [
-          "toutes couleurs"
-        ],
-        "poil": "court",
-        "energy": "sportif",
-        "type": [
-          "Terrier"
-        ]
-      },
-      "alias": [
-        "American Pit Bull Terrier"
-      ]
-    },
-    {
-      "id": 318,
       "breed": "Plott Hound",
       "features": {
         "origin": [
@@ -6551,29 +7277,47 @@
       "alias": []
     },
     {
+      "id": 318,
+      "breed": "Plummer Terrier",
+      "alias": [],
+      "features": {
+        "origin": [
+          "Royaume-Uni"
+        ],
+        "type": [
+          "Terrier"
+        ],
+        "robe": [
+          "rouge et blanc"
+        ],
+        "size": "28 à 36 cm",
+        "weight": "5 à 8 kgs",
+        "poil": "court",
+        "energy": "sportif"
+      }
+    },
+    {
       "id": 319,
-      "breed": "Podenco canarien",
+      "breed": "Podenco canario",
+      "alias": [],
       "features": {
         "origin": [
           "Espagne",
           "Îles Canaries"
         ],
-        "size": "53 à 64 cm",
-        "weight": "20 à 25 kgs",
+        "type": [
+          "Lévrier"
+        ],
         "robe": [
           "roux",
           "blanc",
-          "fauve"
+          "roux et blanc"
         ],
+        "size": "53 à 64 cm",
+        "weight": "20 à 25 kgs",
         "poil": "court",
-        "energy": "sportif",
-        "type": [
-          "Lévrier"
-        ]
-      },
-      "alias": [
-        "Podenco canario"
-      ]
+        "energy": "sportif"
+      }
     },
     {
       "id": 320,
@@ -6608,54 +7352,6 @@
         "size": "61 à 69 cm",
         "weight": "20 à 34 kgs",
         "robe": [
-          "marron",
-          "citron",
-          "orange",
-          "blanc",
-          "noir",
-          "foie"
-        ],
-        "poil": "Ras",
-        "energy": "Sportif",
-        "type": [
-          "Chien d'arrêt"
-        ]
-      },
-      "alias": []
-    },
-    {
-      "id": 322,
-      "breed": "Pointer allemand à poil court",
-      "features": {
-        "origin": [
-          "Allemagne"
-        ],
-        "size": "58 à 66 cm",
-        "weight": "25 à 32 kgs",
-        "robe": [
-          "marron",
-          "blanc et marron"
-        ],
-        "poil": "court",
-        "energy": "sportif",
-        "type": [
-          "Chien d'arrêt"
-        ]
-      },
-      "alias": [
-        "Braque allemand à poil court"
-      ]
-    },
-    {
-      "id": 323,
-      "breed": "Pointer anglais",
-      "features": {
-        "origin": [
-          "Royaume-Uni"
-        ],
-        "size": "61 à 69 cm",
-        "weight": "20 à 34 kgs",
-        "robe": [
           "citron et blanc",
           "noir et blanc",
           "foie et blanc"
@@ -6669,27 +7365,66 @@
       "alias": []
     },
     {
-      "id": 324,
-      "breed": "Pointer italien",
+      "id": 322,
+      "breed": "Poitevin",
       "features": {
         "origin": [
-          "Italie"
+          "France"
         ],
-        "size": "55 à 67 cm",
-        "weight": "25 à 40 kgs",
+        "size": "60 à 72 cm",
+        "weight": "30 à 35 kgs",
         "robe": [
-          "blanc et orange",
-          "blanc et marron"
+          "tricolore"
         ],
         "poil": "court",
         "energy": "sportif",
         "type": [
-          "Chien d'arrêt"
+          "Chien courant"
         ]
       },
+      "alias": []
+    },
+    {
+      "id": 323,
+      "breed": "Poodle crossbreed",
       "alias": [
-        "Braque italien"
-      ]
+        "Doodle"
+      ],
+      "features": {
+        "origin": [
+          "États-Unis"
+        ],
+        "type": [
+          "Croisement"
+        ],
+        "robe": [
+          "toutes couleurs"
+        ],
+        "size": "variable selon le croisement",
+        "weight": "5 à 35 kgs",
+        "poil": "bouclé",
+        "energy": "joueur"
+      }
+    },
+    {
+      "id": 324,
+      "breed": "Porcelaine",
+      "alias": [],
+      "features": {
+        "origin": [
+          "France"
+        ],
+        "type": [
+          "Chien courant"
+        ],
+        "robe": [
+          "blanc orangé"
+        ],
+        "size": "53 à 58 cm",
+        "weight": "25 à 28 kgs",
+        "poil": "court",
+        "energy": "sportif"
+      }
     },
     {
       "id": 325,
@@ -6714,7 +7449,7 @@
     },
     {
       "id": 326,
-      "breed": "Pointeur portugais",
+      "breed": "Puli",
       "features": {
         "origin": [
           "Portugal"
@@ -6738,23 +7473,26 @@
     },
     {
       "id": 327,
-      "breed": "Poitevin",
+      "breed": "Pulin",
+      "alias": [],
       "features": {
         "origin": [
-          "France"
+          "Hongrie"
         ],
-        "size": "60 à 72 cm",
-        "weight": "30 à 35 kgs",
-        "robe": [
-          "tricolore"
-        ],
-        "poil": "court",
-        "energy": "sportif",
         "type": [
-          "Chien courant"
-        ]
-      },
-      "alias": []
+          "Berger"
+        ],
+        "robe": [
+          "noir",
+          "gris",
+          "fauve",
+          "blanc"
+        ],
+        "size": "36 à 44 cm",
+        "weight": "8 à 13 kgs",
+        "poil": "moyen",
+        "energy": "sportif"
+      }
     },
     {
       "id": 328,
@@ -6806,6 +7544,26 @@
       ]
     },
     {
+      "id": 330,
+      "breed": "Rajapalayam",
+      "alias": [],
+      "features": {
+        "origin": [
+          "Inde"
+        ],
+        "type": [
+          "Lévrier"
+        ],
+        "robe": [
+          "blanc"
+        ],
+        "size": "60 à 75 cm",
+        "weight": "25 à 35 kgs",
+        "poil": "court",
+        "energy": "sportif"
+      }
+    },
+    {
       "id": 331,
       "breed": "Rat Terrier",
       "features": {
@@ -6853,6 +7611,26 @@
       "alias": [
         "Ratier Pragois"
       ]
+    },
+    {
+      "id": 333,
+      "breed": "Ratonero Bodeguero Andaluz",
+      "alias": [],
+      "features": {
+        "origin": [
+          "Espagne"
+        ],
+        "type": [
+          "Terrier"
+        ],
+        "robe": [
+          "blanc avec tête noire et feu"
+        ],
+        "size": "35 à 43 cm",
+        "weight": "7 à 9 kgs",
+        "poil": "court",
+        "energy": "joueur"
+      }
     },
     {
       "id": 334,
@@ -6965,6 +7743,32 @@
       "alias": [
         "Bouvier allemand"
       ]
+    },
+    {
+      "id": 339,
+      "breed": "Russkaya tsvetnaya bolonka",
+      "alias": [
+        "Bolonka"
+      ],
+      "features": {
+        "origin": [
+          "Russie"
+        ],
+        "type": [
+          "Chiens d'agrément"
+        ],
+        "robe": [
+          "noir",
+          "blanc",
+          "brun",
+          "abricot",
+          "gris"
+        ],
+        "size": "20 à 26 cm",
+        "weight": "3 à 4 kgs",
+        "poil": "long",
+        "energy": "joueur"
+      }
     },
     {
       "id": 340,
@@ -7140,6 +7944,28 @@
       ]
     },
     {
+      "id": 348,
+      "breed": "Segugio Maremmano",
+      "alias": [],
+      "features": {
+        "origin": [
+          "Italie"
+        ],
+        "type": [
+          "Chien courant"
+        ],
+        "robe": [
+          "fauve",
+          "noir et feu",
+          "bringé"
+        ],
+        "size": "42 à 50 cm",
+        "weight": "13 à 23 kgs",
+        "poil": "court",
+        "energy": "sportif"
+      }
+    },
+    {
       "id": 349,
       "breed": "Setter anglais",
       "features": {
@@ -7162,6 +7988,28 @@
         ]
       },
       "alias": []
+    },
+    {
+      "id": 350,
+      "breed": "Setter Gordon",
+      "alias": [
+        "Gordon Setter"
+      ],
+      "features": {
+        "origin": [
+          "Écosse"
+        ],
+        "type": [
+          "Chien d'arrêt"
+        ],
+        "robe": [
+          "noir et feu"
+        ],
+        "size": "58 à 66 cm",
+        "weight": "25 à 30 kgs",
+        "poil": "long",
+        "energy": "sportif"
+      }
     },
     {
       "id": 351,
@@ -7280,6 +8128,31 @@
       "alias": []
     },
     {
+      "id": 356,
+      "breed": "Shih Tzu",
+      "alias": [],
+      "features": {
+        "origin": [
+          "Tibet",
+          "Chine"
+        ],
+        "type": [
+          "Chiens d'agrément"
+        ],
+        "robe": [
+          "blanc",
+          "doré",
+          "noir",
+          "gris",
+          "brun"
+        ],
+        "size": "20 à 28 cm",
+        "weight": "4 à 8 kgs",
+        "poil": "long",
+        "energy": "calme"
+      }
+    },
+    {
       "id": 357,
       "breed": "Shih-poo",
       "features": {
@@ -7349,7 +8222,7 @@
     },
     {
       "id": 360,
-      "breed": "Skye Terrier",
+      "breed": "Skye terrier",
       "features": {
         "origin": [
           "Écosse"
@@ -7435,7 +8308,8 @@
         ]
       },
       "alias": [
-        "Deutscher Wachtelhund"
+        "Deutscher Wachtelhund",
+        "Chien d'oysel allemand"
       ]
     },
     {
@@ -7459,6 +8333,30 @@
         ]
       },
       "alias": []
+    },
+    {
+      "id": 365,
+      "breed": "Spitz allemand",
+      "alias": [],
+      "features": {
+        "origin": [
+          "Allemagne"
+        ],
+        "type": [
+          "Spitz"
+        ],
+        "robe": [
+          "marron",
+          "orange",
+          "blanc",
+          "noir",
+          "gris"
+        ],
+        "size": "18 à 49 cm",
+        "weight": "3 à 20 kgs",
+        "poil": "long",
+        "energy": "joueur"
+      }
     },
     {
       "id": 366,
@@ -7504,6 +8402,26 @@
         ]
       },
       "alias": []
+    },
+    {
+      "id": 368,
+      "breed": "Spitz japonais",
+      "alias": [],
+      "features": {
+        "origin": [
+          "Japon"
+        ],
+        "type": [
+          "Spitz"
+        ],
+        "robe": [
+          "blanc pur"
+        ],
+        "size": "30 à 38 cm",
+        "weight": "6 à 10 kgs",
+        "poil": "long",
+        "energy": "joueur"
+      }
     },
     {
       "id": 369,
@@ -7578,6 +8496,29 @@
         ]
       },
       "alias": []
+    },
+    {
+      "id": 372,
+      "breed": "Tamaskan",
+      "alias": [],
+      "features": {
+        "origin": [
+          "Finlande"
+        ],
+        "type": [
+          "Spitz",
+          "Nordique"
+        ],
+        "robe": [
+          "gris",
+          "roux",
+          "sable"
+        ],
+        "size": "60 à 70 cm",
+        "weight": "25 à 45 kgs",
+        "poil": "moyen",
+        "energy": "sportif"
+      }
     },
     {
       "id": 373,
@@ -7837,6 +8778,29 @@
       ]
     },
     {
+      "id": 384,
+      "breed": "Terrier irlandais à poil doux",
+      "alias": [
+        "Soft Coated Wheaten Terrier"
+      ],
+      "features": {
+        "origin": [
+          "Irlande"
+        ],
+        "type": [
+          "Terrier"
+        ],
+        "robe": [
+          "blé clair",
+          "blé doré"
+        ],
+        "size": "43 à 48 cm",
+        "weight": "14 à 20 kgs",
+        "poil": "long",
+        "energy": "joueur"
+      }
+    },
+    {
       "id": 385,
       "breed": "Terrier irlandais Glen of Imaal",
       "features": {
@@ -7857,6 +8821,29 @@
         ]
       },
       "alias": []
+    },
+    {
+      "id": 386,
+      "breed": "Terrier Kerry Blue",
+      "alias": [
+        "Kerry Blue Terrier"
+      ],
+      "features": {
+        "origin": [
+          "Irlande"
+        ],
+        "type": [
+          "Terrier"
+        ],
+        "robe": [
+          "bleu ardoise",
+          "gris"
+        ],
+        "size": "44 à 49 cm",
+        "weight": "15 à 18 kgs",
+        "poil": "moyen",
+        "energy": "sportif"
+      }
     },
     {
       "id": 387,
@@ -8024,6 +9011,26 @@
       "alias": []
     },
     {
+      "id": 394,
+      "breed": "Treeing Walker Coonhound",
+      "alias": [],
+      "features": {
+        "origin": [
+          "États-Unis"
+        ],
+        "type": [
+          "Chien courant"
+        ],
+        "robe": [
+          "tricolore (blanc, noir et feu)"
+        ],
+        "size": "51 à 69 cm",
+        "weight": "20 à 30 kgs",
+        "poil": "court",
+        "energy": "sportif"
+      }
+    },
+    {
       "id": 395,
       "breed": "Vallhund suédois",
       "features": {
@@ -8159,7 +9166,7 @@
     },
     {
       "id": 401,
-      "breed": "Welsh Terrier",
+      "breed": "Welsh terrier",
       "features": {
         "origin": [
           "Pays de Galles"
@@ -8176,6 +9183,28 @@
         ]
       },
       "alias": []
+    },
+    {
+      "id": 402,
+      "breed": "West Highland white terrier",
+      "alias": [
+        "Westie"
+      ],
+      "features": {
+        "origin": [
+          "Écosse"
+        ],
+        "type": [
+          "Terrier"
+        ],
+        "robe": [
+          "blanc pur"
+        ],
+        "size": "25 à 28 cm",
+        "weight": "6 à 8 kgs",
+        "poil": "moyen",
+        "energy": "joueur"
+      }
     },
     {
       "id": 403,
@@ -8218,7 +9247,8 @@
         ]
       },
       "alias": [
-        "Frisian Water Dog"
+        "Frisian Water Dog",
+        "Chien d'eau frison"
       ]
     },
     {

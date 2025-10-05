@@ -1,0 +1,63 @@
+issue,id,breed_links,breed_merged
+missing_in_merged,188,Decker Terrier,
+missing_in_merged,198,Drever,
+missing_in_merged,204,Épagneul d'eau irlandais,
+missing_in_merged,206,Épagneul de Saint-Usuge,
+missing_in_merged,214,Estonian Hound,
+missing_in_merged,219,Fox-terrier,
+missing_in_merged,231,Grand bouvier suisse,
+missing_in_merged,234,Griffon bleu de Gascogne,
+missing_in_merged,238,Hamiltonstövare,
+missing_in_merged,241,Hovawart,
+missing_in_merged,242,Huntaway,
+missing_in_merged,250,Kintamani,
+missing_in_merged,254,Korthals,
+missing_in_merged,259,Laika de Iakoutie,
+missing_in_merged,270,Lévrier de soie,
+missing_in_merged,272,Lévrier greyhound,
+missing_in_merged,277,Lévrier Taïgan,
+missing_in_merged,307,Perro de pastor garafiano,
+missing_in_merged,310,Petit chien courant suisse,
+missing_in_merged,318,Plummer Terrier,
+missing_in_merged,323,Poodle crossbreed,
+missing_in_merged,327,Pulin,
+name_mismatch,80,Bouvier australien courte queue,Retriever à poil plat
+name_mismatch,181,Colley barbu,Colley à poil long
+name_mismatch,182,Coonhound noir et beige,Coonhound noir et feu
+name_mismatch,184,Cretan Hound,Curly Coated Retriever
+name_mismatch,189,Deerhound,Dingo
+name_mismatch,197,Drahthaar,Dogue espagnol
+name_mismatch,199,Dunker,Dogue majorquin
+name_mismatch,200,Elo,Donggyeongi
+name_mismatch,210,Épagneul russe,Épagneul nain continental Papillon
+name_mismatch,211,Épagneul tibétain,Épagneul nain continental Phalène
+name_mismatch,216,Fila Brasileiro,Finnish Spitz
+name_mismatch,217,Fila de São Miguel,Fox-terrier à poil dur
+name_mismatch,218,Flat-Coated Retriever,Fox-terrier à poil lisse
+name_mismatch,221,Foxhound anglais,Français blanc et noir
+name_mismatch,222,Georgian Shepherd,Français blanc et orange
+name_mismatch,224,Gos d'Atura Català,Français tricolore
+name_mismatch,225,Gotland Hound,Galgo espagnol
+name_mismatch,237,Groenlandais,Greyhound
+name_mismatch,239,Harrier,Griffon bruxellois
+name_mismatch,247,Karelo-Finnish Laika,Kangal turc
+name_mismatch,248,Khortaï,Kelpie australien
+name_mismatch,256,Kuvasz,Labradoodle
+name_mismatch,257,Kyi-Leo,Lagotto Romagnolo
+name_mismatch,264,Lancashire Heeler,Landseer européen continental
+name_mismatch,269,Lévrier arabe,Lévrier écossais
+name_mismatch,273,Lévrier hongrois,Lévrier italien
+name_mismatch,275,Lévrier persan,Lévrier polonais
+name_mismatch,276,Lévrier Rampur,Lévrier russe borzoï
+name_mismatch,278,Lévrier Tazi,Lhasa Apso
+name_mismatch,304,Parson Russell terrier,Otterhound
+name_mismatch,305,Patterdale Terrier,Pachón Navarro
+name_mismatch,308,Petit basset griffon Vendéen,Petit brabançon
+name_mismatch,309,Petit bleu de Gascogne,Petit chien hollandais de chasse au gibier d’eau
+name_mismatch,311,Petit chien lion,Petit Münsterländer
+name_mismatch,312,Petit chien russe,Petit spitz
+name_mismatch,313,Petit lévrier italien,Phalène
+name_mismatch,314,Pinscher allemand,Pharaon Hound
+name_mismatch,319,Podenco canario,Podenco canarien
+name_mismatch,324,Porcelaine,Pointer italien
+name_mismatch,326,Puli,Pointeur portugais

@@ -1,0 +1,634 @@
+{
+  "breeds": [
+    {
+      "id": 1,
+      "breed": "Affenpinscher",
+      "type": ["Pinscher"]
+    },
+    {
+      "id": 2,
+      "breed": "Aïdi",
+      "type": ["Molossoïdes", "Montagne"]
+    },
+    {
+      "id": 3,
+      "breed": "Airedale Terrier",
+      "type": ["Terrier"]
+    },
+    {
+      "id": 6,
+      "breed": "Alapaha Blue Blood Bulldog",
+      "type": ["Molossoïdes", "Bulldog"]
+    },
+    {
+      "id": 10,
+      "breed": "American Bully",
+      "type": ["Molossoïdes", "Bulldog"]
+    },
+    {
+      "id": 14,
+      "breed": "American Pit Bull Terrier",
+      "type": ["Terrier", "Bull"]
+    },
+    {
+      "id": 19,
+      "breed": "Anglo-Français de petite vénerie",
+      "type": ["Chien courant"]
+    },
+    {
+      "id": 22,
+      "breed": "Azawakh",
+      "type": ["Lévrier"]
+    },
+    {
+      "id": 27,
+      "breed": "Basenji",
+      "type": ["Primitif"]
+    },
+    {
+      "id": 28,
+      "breed": "Basset artésien normand",
+      "type": ["Chien courant", "Basset"]
+    },
+    {
+      "id": 33,
+      "breed": "Basset hound",
+      "type": ["Chien courant", "Basset"]
+    },
+    {
+      "id": 34,
+      "breed": "Beagle",
+      "type": ["Chien courant"]
+    },
+    {
+      "id": 36,
+      "breed": "Bedlington terrier",
+      "type": ["Terrier"]
+    },
+    {
+      "id": 37,
+      "breed": "Berger allemand",
+      "type": ["Berger"]
+    },
+    {
+      "id": 38,
+      "breed": "Berger australien",
+      "type": ["Berger"]
+    },
+    {
+      "id": 39,
+      "breed": "Berger basque",
+      "type": ["Berger"]
+    },
+    {
+      "id": 41,
+      "breed": "Berger belge Laekenois",
+      "type": ["Berger"]
+    },
+    {
+      "id": 46,
+      "breed": "Berger d'Asie Centrale",
+      "type": ["Molossoïdes", "Montagne"]
+    },
+    {
+      "id": 50,
+      "breed": "Berger de la Serra de Aires",
+      "type": ["Berger"]
+    },
+    {
+      "id": 51,
+      "breed": "Berger de Majorque",
+      "type": ["Berger"]
+    },
+    {
+      "id": 54,
+      "breed": "Berger des pyrénées à poil long",
+      "type": ["Berger"]
+    },
+    {
+      "id": 55,
+      "breed": "Berger des Tatras",
+      "type": ["Molossoïdes", "Montagne"]
+    },
+    {
+      "id": 59,
+      "breed": "Berger hollandais",
+      "type": ["Berger"]
+    },
+    {
+      "id": 60,
+      "breed": "Berger islandais",
+      "type": ["Berger"]
+    },
+    {
+      "id": 63,
+      "breed": "Berger polonais de plaine",
+      "type": ["Berger"]
+    },
+    {
+      "id": 65,
+      "breed": "Bichon à poil frisé",
+      "type": ["Bichon"]
+    },
+    {
+      "id": 67,
+      "breed": "Bichon havanais",
+      "type": ["Bichon"]
+    },
+    {
+      "id": 68,
+      "breed": "Bichon maltais",
+      "type": ["Bichon"]
+    },
+    {
+      "id": 71,
+      "breed": "Bobtail",
+      "type": ["Berger"]
+    },
+    {
+      "id": 75,
+      "breed": "Border Collie",
+      "type": ["Berger"]
+    },
+    {
+      "id": 78,
+      "breed": "Bouledogue français",
+      "type": ["Molossoïdes", "Bulldog"]
+    },
+    {
+      "id": 81,
+      "breed": "Bouvier bernois",
+      "type": ["Bouvier"]
+    },
+    {
+      "id": 85,
+      "breed": "Boxer",
+      "type": ["Molossoïdes", "Dogue"]
+    },
+    {
+      "id": 89,
+      "breed": "Brachet polonais",
+      "type": ["Chien courant"]
+    },
+    {
+      "id": 94,
+      "breed": "Braque de Weimar",
+      "type": ["Chien d'arrêt"]
+    },
+    {
+      "id": 97,
+      "breed": "Braque hongrois à poil court",
+      "type": ["Chien d'arrêt"]
+    },
+    {
+      "id": 98,
+      "breed": "Braque italien",
+      "type": ["Chien d'arrêt"]
+    },
+    {
+      "id": 103,
+      "breed": "Buhund norvégien",
+      "type": ["Spitz", "Berger"]
+    },
+    {
+      "id": 104,
+      "breed": "Bull Terrier",
+      "type": ["Terrier", "Bull"]
+    },
+    {
+      "id": 107,
+      "breed": "Bullmastiff",
+      "type": ["Molossoïdes", "Dogue"]
+    },
+    {
+      "id": 109,
+      "breed": "Can de palleiro",
+      "type": ["Berger"]
+    },
+    {
+      "id": 110,
+      "breed": "Cane corso",
+      "type": ["Molossoïdes", "Dogue"]
+    },
+    {
+      "id": 111,
+      "breed": "Caniche",
+      "type": ["Caniche"]
+    },
+    {
+      "id": 114,
+      "breed": "Carlin",
+      "type": ["Chiens d'agrément"]
+    },
+    {
+      "id": 121,
+      "breed": "Chien courant d'Istrie à poil ras",
+      "type": ["Chien courant"]
+    },
+    {
+      "id": 122,
+      "breed": "Chien courant de Bosnie à poil dur",
+      "type": ["Chien courant"]
+    },
+    {
+      "id": 126,
+      "breed": "Chien courant grec",
+      "type": ["Chien courant"]
+    },
+    {
+      "id": 131,
+      "breed": "Chien d'arrêt allemand à poil long",
+      "type": ["Chien d'arrêt"]
+    },
+    {
+      "id": 133,
+      "breed": "Chien d'arrêt danois ancestral",
+      "type": ["Chien d'arrêt"]
+    },
+    {
+      "id": 135,
+      "breed": "Chien d'arrêt portugais",
+      "type": ["Chien d'arrêt"]
+    },
+    {
+      "id": 136,
+      "breed": "Chien d'Artois",
+      "type": ["Chien courant"]
+    },
+    {
+      "id": 137,
+      "breed": "Chien d'eau américain",
+      "type": ["Spaniel"]
+    },
+    {
+      "id": 138,
+      "breed": "Chien d'eau espagnol",
+      "type": ["Chien d'eau"]
+    },
+    {
+      "id": 140,
+      "breed": "Chien d'eau romagnol",
+      "type": ["Chien d'eau"]
+    },
+    {
+      "id": 144,
+      "breed": "Chien de berger Kangal",
+      "type": ["Molossoïdes", "Montagne"]
+    },
+    {
+      "id": 147,
+      "breed": "Chien de berger yougoslave de Charplanina",
+      "type": ["Molossoïdes", "Montagne"]
+    },
+    {
+      "id": 148,
+      "breed": "Chien de Canaan",
+      "type": ["Primitif", "Berger"]
+    },
+    {
+      "id": 151,
+      "breed": "Chien de garenne portugais",
+      "type": ["Primitif", "Chasse"]
+    },
+    {
+      "id": 152,
+      "breed": "Chien de la Serra da Estrela",
+      "type": ["Molossoïdes", "Montagne"]
+    },
+    {
+      "id": 156,
+      "breed": "Chien de Rhodésie à crête dorsale",
+      "type": ["Chien courant"]
+    },
+    {
+      "id": 159,
+      "breed": "Chien de Saint-Hubert",
+      "type": ["Chien courant"]
+    },
+    {
+      "id": 160,
+      "breed": "Chien de Taïwan",
+      "type": ["Primitif"]
+    },
+    {
+      "id": 170,
+      "breed": "Chihuahua",
+      "type": ["Chiens d'agrément"]
+    },
+    {
+      "id": 173,
+      "breed": "Cimarrón Uruguayo",
+      "type": ["Molossoïdes", "Dogue"]
+    },
+    {
+      "id": 174,
+      "breed": "Cirneco de l'Etna",
+      "type": ["Lévrier"]
+    },
+    {
+      "id": 175,
+      "breed": "Clumber Spaniel",
+      "type": ["Spaniel"]
+    },
+    {
+      "id": 178,
+      "breed": "Cocker spaniel anglais",
+      "type": ["Spaniel"]
+    },
+    {
+      "id": 179,
+      "breed": "Colley",
+      "type": ["Berger"]
+    },
+    {
+      "id": 186,
+      "breed": "Dalmatien",
+      "type": ["Chien courant"]
+    },
+    {
+      "id": 190,
+      "breed": "Dobermann",
+      "type": ["Pinscher"]
+    },
+    {
+      "id": 192,
+      "breed": "Dogue argentin",
+      "type": ["Molossoïdes", "Dogue"]
+    },
+    {
+      "id": 193,
+      "breed": "Dogue de Bordeaux",
+      "type": ["Molossoïdes", "Dogue"]
+    },
+    {
+      "id": 194,
+      "breed": "Dogue de Majorque",
+      "type": ["Molossoïdes", "Dogue"]
+    },
+    {
+      "id": 195,
+      "breed": "Dogue des Canaries",
+      "type": ["Molossoïdes", "Dogue"]
+    },
+    {
+      "id": 201,
+      "breed": "English Coonhound",
+      "type": ["Chien courant"]
+    },
+    {
+      "id": 203,
+      "breed": "Épagneul breton",
+      "type": ["Spaniel"]
+    },
+    {
+      "id": 209,
+      "breed": "Épagneul picard",
+      "type": ["Spaniel"]
+    },
+    {
+      "id": 212,
+      "breed": "Erdélyi kopó",
+      "type": ["Chien courant"]
+    },
+    {
+      "id": 213,
+      "breed": "Esquimau canadien",
+      "type": ["Spitz", "Nordique"]
+    },
+    {
+      "id": 80,
+      "breed": "Retriever à poil plat",
+      "type": ["Retriever"]
+    },
+    {
+      "id": 223,
+      "breed": "Golden retriever",
+      "type": ["Retriever"]
+    },
+    {
+      "id": 240,
+      "breed": "Hokkaïdo",
+      "type": ["Spitz", "Nordique"]
+    },
+    {
+      "id": 243,
+      "breed": "Husky sibérien",
+      "type": ["Spitz", "Nordique"]
+    },
+    {
+      "id": 244,
+      "breed": "Jack Russell",
+      "type": ["Terrier"]
+    },
+    {
+      "id": 245,
+      "breed": "Jindo coréen",
+      "type": ["Spitz"]
+    },
+    {
+      "id": 253,
+      "breed": "Kooikerhondje",
+      "type": ["Spaniel"]
+    },
+    {
+      "id": 258,
+      "breed": "Labrador retriever",
+      "type": ["Retriever"]
+    },
+    {
+      "id": 265,
+      "breed": "Landseer",
+      "type": ["Chien d'eau"]
+    },
+    {
+      "id": 271,
+      "breed": "Lévrier Galgo",
+      "type": ["Lévrier"]
+    },
+    {
+      "id": 282,
+      "breed": "Lundehund",
+      "type": ["Spitz", "Nordique"]
+    },
+    {
+      "id": 285,
+      "breed": "Malamute de l’Alaska",
+      "type": ["Spitz", "Nordique"]
+    },
+    {
+      "id": 291,
+      "breed": "Mastiff",
+      "type": ["Molossoïdes", "Dogue"]
+    },
+    {
+      "id": 301,
+      "breed": "Norwich Terrier",
+      "type": ["Terrier"]
+    },
+    {
+      "id": 315,
+      "breed": "Pinscher autrichien",
+      "type": ["Pinscher"]
+    },
+    {
+      "id": 320,
+      "breed": "Podenco d'Ibiza",
+      "type": ["Lévrier"]
+    },
+    {
+      "id": 321,
+      "breed": "Pointer anglais",
+      "type": ["Chien d'arrêt"]
+    },
+    {
+      "id": 325,
+      "breed": "Pudelpointer",
+      "type": ["Chien d'arrêt"]
+    },
+    {
+      "id": 329,
+      "breed": "Rafeiro de l'Alentejo",
+      "type": ["Molossoïdes", "Montagne"]
+    },
+    {
+      "id": 332,
+      "breed": "Ratier de Prague",
+      "type": ["Terrier"]
+    },
+    {
+      "id": 336,
+      "breed": "Retriever de la baie de Chesapeake",
+      "type": ["Retriever"]
+    },
+    {
+      "id": 337,
+      "breed": "Retriever de la Nouvelle-Écosse",
+      "type": ["Retriever"]
+    },
+    {
+      "id": 338,
+      "breed": "Rottweiler",
+      "type": ["Molossoïdes", "Dogue"]
+    },
+    {
+      "id": 340,
+      "breed": "Saint-bernard",
+      "type": ["Molossoïdes", "Montagne"]
+    },
+    {
+      "id": 341,
+      "breed": "Samoyède",
+      "type": ["Spitz", "Nordique"]
+    },
+    {
+      "id": 342,
+      "breed": "Schapendoes néerlandais",
+      "type": ["Berger"]
+    },
+    {
+      "id": 346,
+      "breed": "Sealyham Terrier",
+      "type": ["Terrier"]
+    },
+    {
+      "id": 347,
+      "breed": "Segugio italien à poil ras",
+      "type": ["Chien courant"]
+    },
+    {
+      "id": 353,
+      "breed": "Shar Pei",
+      "type": ["Molossoïdes"]
+    },
+    {
+      "id": 354,
+      "breed": "Shetland",
+      "type": ["Berger"]
+    },
+    {
+      "id": 361,
+      "breed": "Slovensky kopov",
+      "type": ["Chien courant"]
+    },
+    {
+      "id": 362,
+      "breed": "Smous des Pays-Bas",
+      "type": ["Terrier"]
+    },
+    {
+      "id": 364,
+      "breed": "Spinone italiano",
+      "type": ["Chien d'arrêt"]
+    },
+    {
+      "id": 366,
+      "breed": "Spitz de Norrbotten",
+      "type": ["Spitz", "Nordique"]
+    },
+    {
+      "id": 367,
+      "breed": "Spitz finlandais",
+      "type": ["Spitz", "Nordique"]
+    },
+    {
+      "id": 369,
+      "breed": "Springer anglais",
+      "type": ["Spaniel"]
+    },
+    {
+      "id": 370,
+      "breed": "Staffordshire Bull Terrier",
+      "type": ["Terrier", "Bull"]
+    },
+    {
+      "id": 371,
+      "breed": "Sussex Spaniel",
+      "type": ["Spaniel"]
+    },
+    {
+      "id": 374,
+      "breed": "Teckel",
+      "type": ["Teckel"]
+    },
+    {
+      "id": 378,
+      "breed": "Terrier brésilien",
+      "type": ["Terrier"]
+    },
+    {
+      "id": 379,
+      "breed": "Terrier d'agrément anglais noir et feu",
+      "type": ["Terrier"]
+    },
+    {
+      "id": 380,
+      "breed": "Terrier de Boston",
+      "type": ["Terrier"]
+    },
+    {
+      "id": 381,
+      "breed": "Terrier de chasse allemand",
+      "type": ["Terrier"]
+    },
+    {
+      "id": 383,
+      "breed": "Terrier irlandais",
+      "type": ["Terrier"]
+    },
+    {
+      "id": 385,
+      "breed": "Terrier irlandais Glen of Imaal",
+      "type": ["Terrier"]
+    },
+    {
+      "id": 398,
+      "breed": "Welsh Corgi Cardigan",
+      "type": ["Berger"]
+    },
+    {
+      "id": 406,
+      "breed": "Yorkshire terrier",
+      "type": ["Terrier"]
+    }
+  ]
+}

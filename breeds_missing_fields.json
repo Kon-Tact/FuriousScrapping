@@ -1,0 +1,11 @@
+{
+  "failures": [
+    {
+      "id": 81,
+      "breed": "Bouvier bernois",
+      "missing": [
+        "features.weight"
+      ]
+    }
+  ]
+}

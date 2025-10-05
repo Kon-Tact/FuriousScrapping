@@ -77,7 +77,7 @@
     },
     {
       "breed": "Anatolian Greyhound",
-      "url": "https://fi.wikipedia.org/wiki/Anatolianvinttikoira",
+      "url": "https://it.wikipedia.org/wiki/Tazi_turco",
       "id": 16
     },
     {
@@ -367,7 +367,7 @@
     },
     {
       "breed": "Bolonka Franzuska",
-      "url": "https://de.wikipedia.org/wiki/Bolonka_Franzuska",
+      "url": "https://simple.wikipedia.org/wiki/Bolonka_Franzuska",
       "id": 74
     },
     {
@@ -546,203 +546,203 @@
       "id": 109
     },
     {
+      "breed": "Cane Corso",
+      "url": "https://fr.wikipedia.org/wiki/Cane_Corso",
+      "id": 110
+    },
+    {
       "breed": "Caniche",
       "url": "https://fr.wikipedia.org/wiki/Caniche",
-      "id": 110
+      "id": 111
     },
     {
       "breed": "Cão de gado transmontano",
       "url": "https://en.wikipedia.org/wiki/C%C3%A3o_de_Gado_Transmontano",
-      "id": 111
+      "id": 112
     },
     {
       "breed": "Caravan hound",
       "url": "https://fr.wikipedia.org/wiki/Caravan_hound",
-      "id": 112
+      "id": 113
     },
     {
       "breed": "Carlin",
       "url": "https://fr.wikipedia.org/wiki/Carlin",
-      "id": 113
+      "id": 114
     },
     {
       "breed": "Carolina Dog",
       "url": "https://fr.wikipedia.org/wiki/Carolina_Dog",
-      "id": 114
+      "id": 115
     },
     {
       "breed": "Catahoula Bulldog",
-      "url": "https://en.wikipedia.org/wiki/Catahoula_bulldog",
-      "id": 115
+      "url": "https://fr.wikipedia.org/wiki/Chien_l%C3%A9opard_catahoula",
+      "id": 116
     },
     {
       "breed": "Cavalier King Charles Spaniel",
       "url": "https://fr.wikipedia.org/wiki/Cavalier_King_Charles_Spaniel",
-      "id": 116
+      "id": 117
     },
     {
       "breed": "Chart polski",
       "url": "https://fr.wikipedia.org/wiki/Chart_polski",
-      "id": 117
+      "id": 118
     },
     {
       "breed": "Chien à loutre",
       "url": "https://fr.wikipedia.org/wiki/Chien_%C3%A0_loutre",
-      "id": 118
+      "id": 119
     },
     {
       "breed": "Chien chinois à crête",
       "url": "https://fr.wikipedia.org/wiki/Chien_chinois_%C3%A0_cr%C3%AAte",
-      "id": 119
+      "id": 120
     },
     {
       "breed": "Chien courant d'Istrie à poil ras",
       "url": "https://fr.wikipedia.org/wiki/Chien_courant_d%27Istrie_%C3%A0_poil_ras",
-      "id": 120
+      "id": 121
     },
     {
       "breed": "Chien courant de Bosnie à poil dur",
       "url": "https://fr.wikipedia.org/wiki/Chien_courant_de_Bosnie_%C3%A0_poil_dur",
-      "id": 121
+      "id": 122
     },
     {
       "breed": "Chien courant de Halden",
       "url": "https://fr.wikipedia.org/wiki/Chien_courant_de_Halden",
-      "id": 122
+      "id": 123
     },
     {
       "breed": "Chien courant du Småland",
       "url": "https://fr.wikipedia.org/wiki/Chien_courant_du_Sm%C3%A5land",
-      "id": 123
+      "id": 124
     },
     {
       "breed": "Chien courant finlandais",
       "url": "https://fr.wikipedia.org/wiki/Chien_courant_finlandais",
-      "id": 124
+      "id": 125
     },
     {
       "breed": "Chien courant grec",
       "url": "https://fr.wikipedia.org/wiki/Chien_courant_grec",
-      "id": 125
+      "id": 126
     },
     {
       "breed": "Chien courant polonais",
       "url": "https://fr.wikipedia.org/wiki/Chien_courant_polonais",
-      "id": 126
+      "id": 127
     },
     {
       "breed": "Chien courant serbe",
       "url": "https://fr.wikipedia.org/wiki/Chien_courant_serbe",
-      "id": 127
+      "id": 128
     },
     {
       "breed": "Chien courant suisse",
       "url": "https://fr.wikipedia.org/wiki/Chien_courant_suisse",
-      "id": 128
+      "id": 129
     },
     {
       "breed": "Chien courant tricolore serbe",
       "url": "https://fr.wikipedia.org/wiki/Chien_courant_tricolore_serbe",
-      "id": 129
+      "id": 130
     },
     {
       "breed": "Chien d'arrêt allemand à poil long",
       "url": "https://fr.wikipedia.org/wiki/Chien_d%27arr%C3%AAt_allemand_%C3%A0_poil_long",
-      "id": 130
+      "id": 131
     },
     {
       "breed": "Chien d'arrêt allemand à poil raide",
       "url": "https://fr.wikipedia.org/wiki/Chien_d%27arr%C3%AAt_allemand_%C3%A0_poil_raide",
-      "id": 131
+      "id": 132
     },
     {
       "breed": "Chien d'arrêt danois ancestral",
       "url": "https://fr.wikipedia.org/wiki/Chien_d%27arr%C3%AAt_danois_ancestral",
-      "id": 132
+      "id": 133
     },
     {
       "breed": "Chien d'arrêt frison",
       "url": "https://fr.wikipedia.org/wiki/Chien_d%27arr%C3%AAt_frison",
-      "id": 133
+      "id": 134
     },
     {
       "breed": "Chien d'arrêt portugais",
       "url": "https://fr.wikipedia.org/wiki/Chien_d%27arr%C3%AAt_portugais",
-      "id": 134
+      "id": 135
     },
     {
       "breed": "Chien d'Artois",
       "url": "https://fr.wikipedia.org/wiki/Chien_d%27Artois",
-      "id": 135
+      "id": 136
     },
     {
       "breed": "Chien d'eau américain",
       "url": "https://fr.wikipedia.org/wiki/Chien_d%27eau_am%C3%A9ricain",
-      "id": 136
+      "id": 137
     },
     {
       "breed": "Chien d'eau espagnol",
       "url": "https://fr.wikipedia.org/wiki/Chien_d%27eau_espagnol",
-      "id": 137
+      "id": 138
     },
     {
       "breed": "Chien d'eau portugais",
       "url": "https://fr.wikipedia.org/wiki/Chien_d%27eau_portugais",
-      "id": 138
+      "id": 139
     },
     {
       "breed": "Chien d'eau romagnol",
       "url": "https://fr.wikipedia.org/wiki/Chien_d%27eau_romagnol",
-      "id": 139
+      "id": 140
     },
     {
       "breed": "Chien d'élan norvégien gris",
       "url": "https://fr.wikipedia.org/wiki/Chien_d%27%C3%A9lan_norv%C3%A9gien_gris",
-      "id": 140
+      "id": 141
     },
     {
       "breed": "Chien d'élan suédois",
       "url": "https://fr.wikipedia.org/wiki/Chien_d%27%C3%A9lan_su%C3%A9dois",
-      "id": 141
+      "id": 142
     },
     {
       "breed": "Chien d'ours de Carélie",
       "url": "https://fr.wikipedia.org/wiki/Chien_d%27ours_de_Car%C3%A9lie",
-      "id": 142
+      "id": 143
     },
     {
       "breed": "Chien de berger Kangal",
       "url": "https://fr.wikipedia.org/wiki/Kangal_(chien)",
-      "id": 143
+      "id": 144
     },
     {
       "breed": "Chien de berger roumain de Mioritza",
       "url": "https://fr.wikipedia.org/wiki/Chien_de_berger_roumain_de_Mioritza",
-      "id": 144
+      "id": 145
     },
     {
       "breed": "Chien de berger roumain des Carpathes",
       "url": "https://fr.wikipedia.org/wiki/Chien_de_berger_roumain_des_Carpathes",
-      "id": 145
+      "id": 146
     },
     {
       "breed": "Chien de berger yougoslave de Charplanina",
       "url": "https://fr.wikipedia.org/wiki/Chien_de_berger_yougoslave_de_Charplanina",
-      "id": 146
+      "id": 147
     },
     {
       "breed": "Chien de Canaan",
       "url": "https://fr.wikipedia.org/wiki/Chien_de_Canaan",
-      "id": 147
+      "id": 148
     },
     {
       "breed": "Chien de Castro Laboreiro",
       "url": "https://fr.wikipedia.org/wiki/Chien_de_Castro_Laboreiro",
-      "id": 148
-    },
-    {
-      "breed": "Cane Corso",
-      "url": "https://fr.wikipedia.org/wiki/Cane_Corso",
       "id": 149
     },
     {
@@ -812,7 +812,7 @@
     },
     {
       "breed": "Chien léopard catahoula",
-      "url": "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%91%E3%83%BC%E3%83%89%E3%83%BB%E3%83%84%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%89%E3%83%83%E3%82%B0",
+      "url": "https://fr.wikipedia.org/wiki/Chien_l%C3%A9opard_catahoula",
       "id": 163
     },
     {
@@ -997,7 +997,7 @@
     },
     {
       "breed": "Elo",
-      "url": "https://cs.wikipedia.org/wiki/Elo_(plemeno_psa)",
+      "url": "https://es.wikipedia.org/wiki/Elo_(perro)",
       "id": 200
     },
     {
@@ -1162,7 +1162,7 @@
     },
     {
       "breed": "Griffon belge",
-      "url": "https://www.wikidata.org/wiki/Q21153321",
+      "url": "https://fr.wikipedia.org/wiki/Griffon_belge",
       "id": 233
     },
     {
@@ -1282,7 +1282,7 @@
     },
     {
       "breed": "Kyi-Leo",
-      "url": "https://de.wikipedia.org/wiki/Kyi_Leo",
+      "url": "https://es.wikipedia.org/wiki/Kyi-Leo",
       "id": 257
     },
     {
@@ -1731,7 +1731,7 @@
       "id": 346
     },
     {
-      "breed": "Segugio italiano",
+      "breed": "Segugio italien à poil ras",
       "url": "https://fr.wikipedia.org/wiki/Chien_courant_italien_%C3%A0_poil_ras",
       "id": 347
     },
@@ -1812,7 +1812,7 @@
     },
     {
       "breed": "Spaniel allemand",
-      "url": "https://www.wikidata.org/wiki/Q21161515",
+      "url": "https://en.wikipedia.org/wiki/German_Spaniel",
       "id": 363
     },
     {
@@ -2026,7 +2026,7 @@
       "id": 405
     },
     {
-      "breed": "Yorkshire",
+      "breed": "Yorkshire terrier",
       "url": "https://fr.wikipedia.org/wiki/Yorkshire_terrier",
       "id": 406
     },

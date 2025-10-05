@@ -1,0 +1,30 @@
+{
+  "input_links_count": 407,
+  "input_merged_count": 407,
+  "diff_before": {
+    "missing_in_merged_count": 0,
+    "extras_in_merged_count": 0,
+    "name_mismatches_by_id_count": 0,
+    "id_mismatches_by_name_count": 0,
+    "duplicate_names_in_links_count": 0,
+    "duplicate_names_in_merged_count": 0,
+    "examples_missing_in_merged": [],
+    "examples_extras_in_merged": [],
+    "examples_name_mismatches_by_id": [],
+    "examples_id_mismatches_by_name": []
+  },
+  "reassign_after_sort": {
+    "links_ids_changed_count": 0,
+    "merged_ids_changed_count": 0,
+    "examples_links_ids_changed": [],
+    "examples_merged_ids_changed": [],
+    "not_found_in_links_count": 0,
+    "examples_not_found_in_links": [],
+    "duplicate_names_after_sort_count": 0,
+    "examples_duplicate_names_after_sort": []
+  },
+  "outputs": {
+    "links_output_file": "breeds_links_resorted_updated.json",
+    "merged_output_file": "breeds_merged_alphabetical.json"
+  }
+}

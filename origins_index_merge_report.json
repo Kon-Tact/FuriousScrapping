@@ -1,0 +1,9 @@
+{
+  "existing_count": 53,
+  "new_input_count": 20,
+  "added": 20,
+  "updated_image_on_existing": 0,
+  "duplicates_skipped": 0,
+  "output_count": 73,
+  "output_file": "origins_index_updated.json"
+}

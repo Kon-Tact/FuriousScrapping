@@ -1,0 +1,302 @@
+{
+  "links_count": 407,
+  "merged_count": 385,
+  "missing_in_merged_count": 22,
+  "name_mismatches_count": 40,
+  "duplicate_ids_in_merged_count": 0,
+  "extras_in_merged_count": 0,
+  "missing_in_merged": [
+    {
+      "id": 188,
+      "breed_links": "Decker Terrier"
+    },
+    {
+      "id": 198,
+      "breed_links": "Drever"
+    },
+    {
+      "id": 204,
+      "breed_links": "Épagneul d'eau irlandais"
+    },
+    {
+      "id": 206,
+      "breed_links": "Épagneul de Saint-Usuge"
+    },
+    {
+      "id": 214,
+      "breed_links": "Estonian Hound"
+    },
+    {
+      "id": 219,
+      "breed_links": "Fox-terrier"
+    },
+    {
+      "id": 231,
+      "breed_links": "Grand bouvier suisse"
+    },
+    {
+      "id": 234,
+      "breed_links": "Griffon bleu de Gascogne"
+    },
+    {
+      "id": 238,
+      "breed_links": "Hamiltonstövare"
+    },
+    {
+      "id": 241,
+      "breed_links": "Hovawart"
+    },
+    {
+      "id": 242,
+      "breed_links": "Huntaway"
+    },
+    {
+      "id": 250,
+      "breed_links": "Kintamani"
+    },
+    {
+      "id": 254,
+      "breed_links": "Korthals"
+    },
+    {
+      "id": 259,
+      "breed_links": "Laika de Iakoutie"
+    },
+    {
+      "id": 270,
+      "breed_links": "Lévrier de soie"
+    },
+    {
+      "id": 272,
+      "breed_links": "Lévrier greyhound"
+    },
+    {
+      "id": 277,
+      "breed_links": "Lévrier Taïgan"
+    },
+    {
+      "id": 307,
+      "breed_links": "Perro de pastor garafiano"
+    },
+    {
+      "id": 310,
+      "breed_links": "Petit chien courant suisse"
+    },
+    {
+      "id": 318,
+      "breed_links": "Plummer Terrier"
+    },
+    {
+      "id": 323,
+      "breed_links": "Poodle crossbreed"
+    },
+    {
+      "id": 327,
+      "breed_links": "Pulin"
+    }
+  ],
+  "name_mismatches": [
+    {
+      "id": 80,
+      "breed_links": "Bouvier australien courte queue",
+      "breed_merged": "Retriever à poil plat"
+    },
+    {
+      "id": 181,
+      "breed_links": "Colley barbu",
+      "breed_merged": "Colley à poil long"
+    },
+    {
+      "id": 182,
+      "breed_links": "Coonhound noir et beige",
+      "breed_merged": "Coonhound noir et feu"
+    },
+    {
+      "id": 184,
+      "breed_links": "Cretan Hound",
+      "breed_merged": "Curly Coated Retriever"
+    },
+    {
+      "id": 189,
+      "breed_links": "Deerhound",
+      "breed_merged": "Dingo"
+    },
+    {
+      "id": 197,
+      "breed_links": "Drahthaar",
+      "breed_merged": "Dogue espagnol"
+    },
+    {
+      "id": 199,
+      "breed_links": "Dunker",
+      "breed_merged": "Dogue majorquin"
+    },
+    {
+      "id": 200,
+      "breed_links": "Elo",
+      "breed_merged": "Donggyeongi"
+    },
+    {
+      "id": 210,
+      "breed_links": "Épagneul russe",
+      "breed_merged": "Épagneul nain continental Papillon"
+    },
+    {
+      "id": 211,
+      "breed_links": "Épagneul tibétain",
+      "breed_merged": "Épagneul nain continental Phalène"
+    },
+    {
+      "id": 216,
+      "breed_links": "Fila Brasileiro",
+      "breed_merged": "Finnish Spitz"
+    },
+    {
+      "id": 217,
+      "breed_links": "Fila de São Miguel",
+      "breed_merged": "Fox-terrier à poil dur"
+    },
+    {
+      "id": 218,
+      "breed_links": "Flat-Coated Retriever",
+      "breed_merged": "Fox-terrier à poil lisse"
+    },
+    {
+      "id": 221,
+      "breed_links": "Foxhound anglais",
+      "breed_merged": "Français blanc et noir"
+    },
+    {
+      "id": 222,
+      "breed_links": "Georgian Shepherd",
+      "breed_merged": "Français blanc et orange"
+    },
+    {
+      "id": 224,
+      "breed_links": "Gos d'Atura Català",
+      "breed_merged": "Français tricolore"
+    },
+    {
+      "id": 225,
+      "breed_links": "Gotland Hound",
+      "breed_merged": "Galgo espagnol"
+    },
+    {
+      "id": 237,
+      "breed_links": "Groenlandais",
+      "breed_merged": "Greyhound"
+    },
+    {
+      "id": 239,
+      "breed_links": "Harrier",
+      "breed_merged": "Griffon bruxellois"
+    },
+    {
+      "id": 247,
+      "breed_links": "Karelo-Finnish Laika",
+      "breed_merged": "Kangal turc"
+    },
+    {
+      "id": 248,
+      "breed_links": "Khortaï",
+      "breed_merged": "Kelpie australien"
+    },
+    {
+      "id": 256,
+      "breed_links": "Kuvasz",
+      "breed_merged": "Labradoodle"
+    },
+    {
+      "id": 257,
+      "breed_links": "Kyi-Leo",
+      "breed_merged": "Lagotto Romagnolo"
+    },
+    {
+      "id": 264,
+      "breed_links": "Lancashire Heeler",
+      "breed_merged": "Landseer européen continental"
+    },
+    {
+      "id": 269,
+      "breed_links": "Lévrier arabe",
+      "breed_merged": "Lévrier écossais"
+    },
+    {
+      "id": 273,
+      "breed_links": "Lévrier hongrois",
+      "breed_merged": "Lévrier italien"
+    },
+    {
+      "id": 275,
+      "breed_links": "Lévrier persan",
+      "breed_merged": "Lévrier polonais"
+    },
+    {
+      "id": 276,
+      "breed_links": "Lévrier Rampur",
+      "breed_merged": "Lévrier russe borzoï"
+    },
+    {
+      "id": 278,
+      "breed_links": "Lévrier Tazi",
+      "breed_merged": "Lhasa Apso"
+    },
+    {
+      "id": 304,
+      "breed_links": "Parson Russell terrier",
+      "breed_merged": "Otterhound"
+    },
+    {
+      "id": 305,
+      "breed_links": "Patterdale Terrier",
+      "breed_merged": "Pachón Navarro"
+    },
+    {
+      "id": 308,
+      "breed_links": "Petit basset griffon Vendéen",
+      "breed_merged": "Petit brabançon"
+    },
+    {
+      "id": 309,
+      "breed_links": "Petit bleu de Gascogne",
+      "breed_merged": "Petit chien hollandais de chasse au gibier d’eau"
+    },
+    {
+      "id": 311,
+      "breed_links": "Petit chien lion",
+      "breed_merged": "Petit Münsterländer"
+    },
+    {
+      "id": 312,
+      "breed_links": "Petit chien russe",
+      "breed_merged": "Petit spitz"
+    },
+    {
+      "id": 313,
+      "breed_links": "Petit lévrier italien",
+      "breed_merged": "Phalène"
+    },
+    {
+      "id": 314,
+      "breed_links": "Pinscher allemand",
+      "breed_merged": "Pharaon Hound"
+    },
+    {
+      "id": 319,
+      "breed_links": "Podenco canario",
+      "breed_merged": "Podenco canarien"
+    },
+    {
+      "id": 324,
+      "breed_links": "Porcelaine",
+      "breed_merged": "Pointer italien"
+    },
+    {
+      "id": 326,
+      "breed_links": "Puli",
+      "breed_merged": "Pointeur portugais"
+    }
+  ],
+  "duplicate_ids_in_merged": [],
+  "extras_in_merged": []
+}
